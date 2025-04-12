@@ -12,7 +12,7 @@ Anti-social Coder Code
 - **[Neural](https://github.com/Lemniscate-world/neural)** (Neural Networks, Parsers) --> This project introduces a new programming language designed specifically for defining neural network models, visualizing, and researching. [In Fast Progress]
 - [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/fd9160e0-0907-48f6-8f44-d465bead3df8)
 
-- **[Fo nu](https://github.com/Lemniscate-world/fo-nu)** (Co-Authored) (NLP) --> [Medium Progress]
+- **[Fo Nu NLP TG]** (Co-Authored) (NLP) --> [Medium Progress]
 - [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/d3afa818-b4d8-4535-84b8-1848a8850256.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/d3afa818-b4d8-4535-84b8-1848a8850256)
 
 - **[Experiments-On-Transformers](https://github.com/Lemniscate-world/Experiments-On-Transformers)**
