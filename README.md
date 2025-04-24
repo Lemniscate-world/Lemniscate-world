@@ -22,6 +22,10 @@ Self-taught college dropout. My brain is a multiplexer. Loner, Brain Hyperactivi
 # Experimental Music & Beatmaking
 
 - **[Charles](https://github.com/Lemniscate-world/Charles)** (Sound Design, DSP) --> A hybrid music creation system combining algorithmic composition, modular synthesis, and traditional DAW workflows.
+- All music created with this system is released on:
+  - GitHub Releases - Download audio files and project files
+  - Bandcamp - Stream and purchase releases
+  - SoundCloud - Stream tracks and works in progress
 
 # Tiny Fun Projects
 
