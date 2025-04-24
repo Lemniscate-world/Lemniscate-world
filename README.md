@@ -18,6 +18,10 @@ Anti-social Coder Code
 - **[Project Dirac](https://github.com/Lemniscate-world/Project-Dirac)** (Gamma Functions, Lambda-Calculus, Probability) --> Dedicated to exploring and understanding fascinating mathematical concepts that go beyond the basics. Whether you're a math enthusiast or someone looking to deepen your knowledge in intriguing areas of mathematics, this repository aims to provide resources and insights into the most captivating topics in the field.
 - [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/59d86795-5c1e-44d4-ba47-fc8a00b90e1c.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/59d86795-5c1e-44d4-ba47-fc8a00b90e1c)
 
+# Experimental Music & Beatmaking
+
+- **[Charles](https://github.com/Lemniscate-world/Charles)** (Sound Design, DSP) --> A hybrid music creation system combining algorithmic composition, modular synthesis, and traditional DAW workflows.
+
 # Tiny Fun Projects
 
 - **[Debugex](https://github.com/Lemniscate-world/DebugReg)** (Regex) --> Lightweight Regex Debugger
