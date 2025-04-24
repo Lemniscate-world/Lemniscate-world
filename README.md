@@ -1,6 +1,6 @@
-
-![Laboratory 研究室](https://github.com/user-attachments/assets/9c7d774f-2791-4815-9686-4c670d4c7b1f)
-
+<p align="center">
+  <img src=https://github.com/user-attachments/assets/9c7d774f-2791-4815-9686-4c670d4c7b1f>
+</p>
 
 Self-taught college dropout. My brain is a multiplexer. Loner, Brain Hyperactivity, Polymath, Aloof, Borderline, Extreme. Antisocial Coder Code
 
