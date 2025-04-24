@@ -2,7 +2,14 @@
   <img src=https://github.com/user-attachments/assets/9c7d774f-2791-4815-9686-4c670d4c7b1f>
 </p>
 
-Self-taught college dropout. My brain is a multiplexer. Loner, Brain Hyperactivity, Polymath, Aloof, Borderline, Extreme. Antisocial Coder Code
+Self-taught college dropout.
+My brain is a multiplexer wired for chaos and clarity.
+Antisocial coder. Polymath. Borderline.
+I write code like it’s philosophy and think like it's war.
+Operating at the edge of logic, language, and machine.
+Building systems for futures that don’t exist yet.
+
+"The code was dark and impenetrable as night, yet my mind was clear and sharp as a blade."
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=Lemniscate-world)](https://github.com/Lemniscate-world/)
 
