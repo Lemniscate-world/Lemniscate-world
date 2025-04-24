@@ -1,6 +1,8 @@
 
-Self-taught College Dropout. My brain is a **multiplexer**. Loner, Brain Hyperactivity, Polymath, Aloof, Borderline, Extreme.
-Anti-social Coder Code
+![Laboratory 研究室](https://github.com/user-attachments/assets/9c7d774f-2791-4815-9686-4c670d4c7b1f)
+
+
+Self-taught college dropout. My brain is a multiplexer. Loner, Brain Hyperactivity, Polymath, Aloof, Borderline, Extreme. Antisocial Coder Code
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=Lemniscate-world)](https://github.com/Lemniscate-world/)
 
@@ -115,7 +117,11 @@ German[Read](Middle Low), French(High), English(High), Éwé(High), Russian(Very
 
 ![Metrics](https://github.com/Lemniscate-world/Lemniscate-world/blob/main/github-metrics.svg)
 
-# Just A Poor Lonesome Cowboy...
+# Just A Poor Lonesome Cyber Cowboy...
+
+
+![Trainride - Max Greene](https://github.com/user-attachments/assets/35a753b4-a1f1-40f6-ae6b-dc56c6c4a479)
+
 
 ![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) 
 [I'm Lucky Luke](buymeacoffee.com/jacques.charles)
