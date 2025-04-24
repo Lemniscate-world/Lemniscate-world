@@ -16,7 +16,6 @@ Anti-social Coder Code
 # Curiosities
 
 - **[Project Dirac](https://github.com/Lemniscate-world/Project-Dirac)** (Gamma Functions, Lambda-Calculus, Probability) --> Dedicated to exploring and understanding fascinating mathematical concepts that go beyond the basics. Whether you're a math enthusiast or someone looking to deepen your knowledge in intriguing areas of mathematics, this repository aims to provide resources and insights into the most captivating topics in the field.
-- [![wakatime](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/59d86795-5c1e-44d4-ba47-fc8a00b90e1c.svg)](https://wakatime.com/badge/user/5aed2962-7451-49d2-9cc7-e162f14d009f/project/59d86795-5c1e-44d4-ba47-fc8a00b90e1c)
 
 # Experimental Music & Beatmaking
 
