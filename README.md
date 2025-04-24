@@ -14,6 +14,7 @@ Building systems for futures that don’t exist yet.
 [![GitHub Views](https://komarev.com/ghpvc/?username=Lemniscate-world)](https://github.com/Lemniscate-world/)
 
 # Projects [FOCUS]
+
 <p align="center">
   <img src=https://github.com/user-attachments/assets/b32ce6f4-ecd7-4040-a538-a78a298882dc>
 </p>
