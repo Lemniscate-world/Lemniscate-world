@@ -89,6 +89,7 @@ Building systems for futures that don’t exist yet.
 ![Quants](https://img.shields.io/badge/Quants-2%25-blue)
 ![TypeTheory](https://img.shields.io/badge/TypeTheory-2%25-blue)
 ![DigitalSignalProcessing](https://img.shields.io/badge/DigitalSignalProcessing-3%25-violet)
+![Linguistics](https://img.shields.io/badge/Linguistics-2%25-blue)
 
 # Research & Papers
 - https://huggingface.co/Kuroio
