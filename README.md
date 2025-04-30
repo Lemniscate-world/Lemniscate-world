@@ -91,6 +91,7 @@ Building systems for futures that don’t exist yet.
 ![DigitalSignalProcessing](https://img.shields.io/badge/DigitalSignalProcessing-3%25-violet)
 ![Linguistics](https://img.shields.io/badge/Linguistics-2%25-blue)
 ![ProductThinking](https://img.shields.io/badge/ProductThinking-5%25-blue)
+![ProofTheory](https://img.shields.io/badge/ProofTheory-1%25-red)
 
 # Research & Papers
 - https://huggingface.co/Kuroio
