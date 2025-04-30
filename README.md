@@ -93,6 +93,7 @@ Building systems for futures that don’t exist yet.
 ![ProductThinking](https://img.shields.io/badge/ProductThinking-5%25-blue)
 ![ProofTheory](https://img.shields.io/badge/ProofTheory-1%25-red)
 ![ExploratoryDataAnalysis(EDA)](https://img.shields.io/badge/ExploratoryDataAnalysis-2%25-red)
+![Topology](https://img.shields.io/badge/Topology-1%25-red)
 
 # Research & Papers
 - https://huggingface.co/Kuroio
