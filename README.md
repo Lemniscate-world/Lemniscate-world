@@ -70,6 +70,7 @@ Building systems for futures that don’t exist yet.
 # Advanced & Precise Skills
 ![Lark](https://img.shields.io/badge/Lark-48%25-blue)
 ![Optimization](https://img.shields.io/badge/Optimization-39%25-red)
+![TA-Lib](https://img.shields.io/badge/TALib-1%25-red)
 ![Neural-Networks](https://img.shields.io/badge/NeuralNetworks-75%25-blue)
 ![Marketing](https://img.shields.io/badge/Marketing-14%25-pink)
 ![Lambda-Calculus](https://img.shields.io/badge/LambdaCalculus-5%25-violet)
