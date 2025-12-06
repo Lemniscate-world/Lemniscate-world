@@ -60,12 +60,3 @@ I Just Be.
 ![ProofTheory](https://img.shields.io/badge/ProofTheory-1%25-red)
 ![ExploratoryDataAnalysis(EDA)](https://img.shields.io/badge/ExploratoryDataAnalysis-2%25-red)
 ![Topology](https://img.shields.io/badge/Topology-1%25-red)
-
-# Blogs
-[Neural](https://medium.com/@neural.lang0),
-n_polymath
-
-# Human Languages
-German[Read](Middle Low), French(High), English(High), Éwé(High), Russian(Very Low), Korean[Hangeul](Low to Middle Low)
-
-![Trainride - Max Greene](https://github.com/user-attachments/assets/35a753b4-a1f1-40f6-ae6b-dc56c6c4a479)
