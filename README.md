@@ -4,12 +4,6 @@
 
 I Just Be.
 
-# Projects [FOCUS]
-
-<p align="center">
-  <img src=https://github.com/user-attachments/assets/b32ce6f4-ecd7-4040-a538-a78a298882dc>
-</p>
-
 # Skills & Computer Languages
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,ts,replit,react,qt,pnpm,npm,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,md,debian,devto,docker,githubactions,linkedin,obsidian,pytorch,js,haskell,electron,nextjs,c,dart,flutter,vite,r,autocad,fastapi,kali,neextjs,nginx,scala,supabase,tailwind,vercel&perline=30)](https://skillicons.dev)
