@@ -10,8 +10,8 @@ I Just Be.
 
 ---
 - Logo Design
-<img width="500" height="500" alt="Stable Turbo" src="https://github.com/user-attachments/assets/ce92a507-dea6-4f7a-8b8f-9b5086543f41" />
-<img width="500" height="500" alt="PARANOID (2)" src="https://github.com/user-attachments/assets/9959a8bd-4daf-4849-94c1-d9eee03ed727" />
-<img width="500" height="500" alt="Design sans titre" src="https://github.com/user-attachments/assets/1e3be263-0605-4460-a538-17543152ede5" />
+<img width="250" height="250" alt="Stable Turbo" src="https://github.com/user-attachments/assets/ce92a507-dea6-4f7a-8b8f-9b5086543f41" />
+<img width="250" height="250" alt="PARANOID (2)" src="https://github.com/user-attachments/assets/9959a8bd-4daf-4849-94c1-d9eee03ed727" />
+<img width="250" height="250" alt="Design sans titre" src="https://github.com/user-attachments/assets/1e3be263-0605-4460-a538-17543152ede5" />
 
 ---
