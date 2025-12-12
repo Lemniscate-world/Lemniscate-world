@@ -16,4 +16,5 @@ I Just Be.
 
 ---
 - Skills
+
 [![My Skills](https://skillicons.dev/icons?i=aws,react,flutter,ableton,anaconda,androidstudio,bash,blender,c,cpp,css,d3,debian,discord,bots,docker,electron,fastapi,figma,flask,flutter,github,git,githubactions,haskell,html,ai,instagram,java,js,jest,kali,latex,linkedin,,linux,md,mongodb,mysql,nextjs,nginx,obsidian,octave,perl,ps,powershell,py,pytorch,qt,r,react,redis,ruby,rust,sqlite,supabase,sklearn,selenium,svg,tensorflow,threejs,twitter,ts,ubuntu,unreal,unity,vercel,visualstudio,vite,vitest,vscode,vue,yarn&perline=3)](https://skillicons.dev)
