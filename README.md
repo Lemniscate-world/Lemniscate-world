@@ -15,3 +15,5 @@ I Just Be.
 <img width="250" height="250" alt="Design sans titre" src="https://github.com/user-attachments/assets/1e3be263-0605-4460-a538-17543152ede5" />
 
 ---
+- Skills
+[![My Skills](https://skillicons.dev/icons?i=aws,react,flutter,ableton,anaconda,androidstudio,bash,blender,c,cpp,css,d3,debian,discord,bots,docker,electron,fastapi,figma,flask,flutter,github,git,githubactions,haskell,html,ai,instagram,java,js,jest,kali,latex,linkedin,,linux,md,mongodb,mysql&perline=3)](https://skillicons.dev)
