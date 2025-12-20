@@ -39,15 +39,15 @@ PENDING
 
 ---
 - Logo Design
-<img width="250" height="250" alt="Stable Turbo" src="https://github.com/user-attachments/assets/ce92a507-dea6-4f7a-8b8f-9b5086543f41" />
-<img width="250" height="250" alt="PARANOID (2)" src="https://github.com/user-attachments/assets/9959a8bd-4daf-4849-94c1-d9eee03ed727" />
-<img width="250" height="250" alt="Design sans titre" src="https://github.com/user-attachments/assets/1e3be263-0605-4460-a538-17543152ede5" />
+<img width="150" height="150" alt="Stable Turbo" src="https://github.com/user-attachments/assets/ce92a507-dea6-4f7a-8b8f-9b5086543f41" />
+<img width="150" height="150" alt="PARANOID (2)" src="https://github.com/user-attachments/assets/9959a8bd-4daf-4849-94c1-d9eee03ed727" />
+<img width="150" height="150" alt="Design sans titre" src="https://github.com/user-attachments/assets/1e3be263-0605-4460-a538-17543152ede5" />
 
 ---
 - Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,react,flutter,ableton,anaconda,androidstudio,bash,blender,c,cpp,css,d3,debian,discord,bots,docker,electron,fastapi,figma,flask,flutter,github,git,githubactions,haskell,html,ai,instagram,java,js,jest,kali,latex,linkedin,linux,md,mongodb,mysql,nextjs,nginx,obsidian,octave,perl,ps,powershell,py,pytorch,qt,r,react,redis,ruby,rust,sqlite,supabase,sklearn,selenium,svg,tensorflow,threejs,twitter,ts,ubuntu,unreal,unity,vercel,visualstudio,vite,vitest,vscode,vue,yarn&perline=10" height="150" />
+    <img src="https://skillicons.dev/icons?i=aws,react,flutter,ableton,anaconda,androidstudio,bash,blender,c,cpp,css,d3,debian,discord,bots,docker,electron,fastapi,figma,flask,flutter,github,git,githubactions,haskell,html,ai,instagram,java,js,jest,kali,latex,linkedin,linux,md,mongodb,mysql,nextjs,nginx,obsidian,octave,perl,ps,powershell,py,pytorch,qt,r,react,redis,ruby,rust,sqlite,supabase,sklearn,selenium,svg,tensorflow,threejs,twitter,ts,ubuntu,unreal,unity,vercel,visualstudio,vite,vitest,vscode,vue,yarn&perline=10" height="200" />
   </a>
 </p>
