@@ -14,49 +14,101 @@
 
 # System Identity: Gad Jacques-Charles (Kuro)
 
-I am a researcher and systems architect focused on the intersection of formal logic, neural architectures, and theoretical physics. Operating at the boundary where abstract mathematical models meet high-stakes computational implementation, I build tools that reason, debug, and automate.
+I am a researcher and systems architect operating at the intersection of formal methods, neural architectures, and theoretical physics. My work is dedicated to formalizing abstract logical grounding and building high-performance, resilient computational implementations.
 
-**Identity & Grounding:**
-*   **Pseudonym:** Kuro
-*   **ORCID:** [0009-0004-7304-9339](https://orcid.org/0009-0004-7304-9339)
-*   **Current Location:** Dark Matter (Remote / Abstract Space)
+**Social Telemetry:**
+[X / n_polymath](https://x.com/n_polymath) | [LinkedIn](https://www.linkedin.com/in/jacques-charles-gad-senouvo-a4ba462ba) | [ORCID / 0009-0004-7304-9339](https://orcid.org/0009-0004-7304-9339) | [Linktree](https://linktr.ee/Dio_nysos) | [Instagram](https://www.instagram.com/0_or_gad/)
 
----
-
-## [I] Foundational Initiatives
-I am a founding member and architect for the following organizations:
-
-*   **[STABLE TURBO](https://github.com/STABLE-TURBO)**: A research-led initiative focused on neural debugging, formal methods, and LLM-driven development workflows.
-*   **[PARANOID](https://github.com/PARANOID-Game-Dev)**: An experimental game development brand exploring procedural generation and non-linear logic.
+**Affiliations:**
+*   **[STABLE TURBO](https://github.com/STABLE-TURBO)**: Research and development in neural debugging and automated data validation.
+*   **[PARANOID](https://github.com/PARANOID-Game-Dev)**: Experimental game development and non-linear logic prototyping.
 
 ---
 
-## [II] Active Systems & Implementations
-| Initiative | System | Technical Core |
-| :--- | :--- | :--- |
-| **STABLE TURBO** | **NeuralDBG** | Causal inference engine for deep learning training failure analysis. |
-| **Personal** | **EchoX** | Graph-centrality prioritization for intelligent spaced repetition (SRS). |
-| **STABLE TURBO** | **Metatron** | Stepwise, security-hardened code generator CLI with verification loops. |
-| **STABLE TURBO** | **DataLint** | Automated data quality validation learning from localized datasets. |
-| **Personal** | **OpenQuant** | Quantitative trading framework for high-frequency market analysis. |
-| **Personal** | **NeuroDose** | Pharmacokinetic modeling for cognitive supplement optimization. |
-| **Personal** | **BloomDB** | Probabilistic database language for uncertain sensor and log telemetries. |
-| **Personal** | **Automatons** | Humanized GitHub-to-Social telemetry and AI-driven automation systems. |
-| **Experimental** | **MetatronCube** | Open-source fork and experimentation with the Void IDE. |
+## [I] Project Directory (52 Repositories)
 
----
+### 1. Neural Dynamics & AI Reasoning
+*   **NeuralDBG**: Causal inference engine for DL training failure explanations.
+*   **DataLint**: Automated data validation for ML datasets (Successor to NeuralDSL).
+*   **inspectus**: LLM Analytics and visualization platform.
+*   **ChatDev-X**: Multi-agent collaboration for automated software generation.
+*   **NeuralDSL**: Domain-specific language for defining and deploying neural networks (Archived).
+*   **NeuralPaper / Neural-Aquarium**: Theoretical papers and simulation environments.
+*   **MLP-From-Scratch / LSTMVis**: Core implementations and visualization for neural layers.
+*   **PlotNeuralNet**: LaTeX framework for generating neural architectural diagrams.
 
-## [III] Theoretical Roadmap [Dirac-Minkowski]
-My research is grounded in specialized domains of mathematics and physics:
+### 2. Formal Logic & Systems Engineering
+*   **Robust-Lambda**: Untyped lambda calculus interpreter with visual trace.
+*   **Formal-Trace**: Logical trace analysis for computational systems.
+*   **Cesium**: Embedding autonomous AI agents into the Linux kernel core.
+*   **ZenDep**: Python dependency error resolver and analyzer.
+*   **Logos**: Intelligent writing environment for structured thinking.
+*   **APB / Mori / Noun**: Logical state management, bioarchitectural modeling, and TOR-based blockchain.
+*   **Lemniscate-SHA-256_**: Low-level cryptographic protocol implementation.
 
+### 3. Minkowski Physics & Infinity Analysis
+*   **AEther**: Minkowski's Space-Time visualizer for relativistic geometry.
 *   **Project-Dirac**: Comprehensive exploration of Complexity Numbers and Infinity-Analysis.
-*   **Minkowski Space-Time**: Visualization and formalization of relativistic geometry (Aether).
-*   **Formal Trace Analysis**: Research into the resilient logicalization of language and code.
-*   **Superfluid Time**: Modeling non-linear temporal logic and fluid-state systems.
+*   **Time-as-Superfluid**: Theoretical modeling of time as a friction-less superfluid dimension.
+*   **Learning-Very-Interesting-Physics-Only**: Intuition-based physics exploration vault.
+*   **My-Theory-Of-Everything**: Unified mathematical and physical framework research.
+
+### 4. Knowledge Architecture & Productivity
+*   **EchoX**: Intelligent spaced repetition (SRS) using graph centrality for Obsidian.
+*   **Gnothi / uhabits**: AI journal for self-discovery and mobile habit tracking.
+*   **Scientific-Fasting-Tracking**: Biological telemetry for fasting cycles.
+*   **J.A.R.V.I.S**: Personal automation and assistant architecture.
+*   **Odin / fo-nu**: WhatsApp-based transcription and translation system (Ewe/Native).
+
+### 5. Market Systems & Quantitative Analysis
+*   **OpenQuant (st-khos)**: High-frequency trading framework for market analysis.
+*   **StratAI / HMMAlgo**: Financial regime identification using Hidden Markov Models.
+*   **stock-pattern**: CLI tool for scanning and detecting chart patterns.
+*   **Console**: Minimalist, aesthetically refined trading journal.
+
+### 6. Creative Theory & Experimental Logic
+*   **Charles**: Algorithmic music composition and modular synthesis system.
+*   **Yusuke**: Open-source advanced manga generation framework.
+*   **Interpoem / fo-nu**: Multimedia poetry and modular translation systems.
+*   **ROGUE / Stable-Algo**: Fuzzy logic programming and novel compression research.
+*   **Metatron / MetatronCube**: Stepwise LLM code generation and Void IDE experimentation.
 
 ---
 
-## [IV] Developer Telemetry
+## [II] Technical Stack
+### [Languages & Theoretical Foundations]
+`C` `C++` `Rust` `Haskell` `Python` `Julia` `R` `LaTeX` `Assembly` `Fuzzy Logic`
+
+### [Infrastructure & Neural Frameworks]
+`Debian` `Docker` `Nginx` `AWS` `PyTorch` `TensorFlow` `Scikit-Learn` `FastAPI` `Node.js`
+
+### [Mathematics & Visualization]
+`D3.js` `Three.js` `Octave` `Lark (Parsing)` `Eigen` `Eigen` `Minkowski Geometry`
+
+### [Engineering & Graphics]
+`Blender` `Unity` `Unreal Engine` `Qt` `Ableton` `Figma` `PythonOCC`
+
+---
+
+## [III] Library & Intellectual Inputs
+### [Read & Foundation]
+*   **12 Rules for Life** (Peterson) | **Hacking** (Erickson) | **Thus Spoke Zarathustra** (Nietzsche)
+*   **The 48 Laws of Power** (Greene) | **The Alchemist** (Coelho) | **Game Theory**
+*   **Discipline Equals Freedom** (Willink) | **Can't Hurt Me** (Goggins)
+
+### [Reading Now / Researching]
+*   **Haskell School Of Music** | **Mandelbrot Analysis** | **Quantum Calculus**
+*   **Lorentz Transformations** | **Poincaré Mechanics** | **Espace de Minkowski**
+
+---
+
+## [IV] Sonic Architecture
+*   **Charles**: Core system for modular synthesis and algorithmic composition.
+*   **Production**: Engineering sounds via *Ableton Live* and *FoxDot*.
+
+---
+
+## [V] Telemetry
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lemniscate-world/Lemniscate-world/main/github-metrics.svg" width="48%" />
   <img src="https://raw.githubusercontent.com/Lemniscate-world/Lemniscate-world/main/metrics.plugin.chess.svg" width="48%" />
@@ -64,24 +116,3 @@ My research is grounded in specialized domains of mathematics and physics:
 <p align="center">
   <img src="https://raw.githubusercontent.com/Lemniscate-world/Lemniscate-world/main/metrics.plugin.leetcode.svg" width="100%" />
 </p>
-
----
-
-## [V] Technical Architecture
-### [Languages & Logical Foundations]
-`C` `C++` `Rust` `Haskell` `Python` `Julia` `LaTeX` `Assembly`
-
-### [Systems, Engineering & Deployment]
-`Debian` `Ubuntu` `Docker` `Nginx` `AWS` `FastAPI` `Node.js` `GitHub Actions`
-
-### [Neural, Mathematical & Visualization]
-`PyTorch` `TensorFlow` `D3.js` `Scikit-Learn` `Octave` `Lark (Parsing)` `Three.js`
-
-### [Creative & Sensory Engineering]
-`Blender` `Unity` `Qt` `Ableton` `Figma` `Unreal Engine`
-
----
-
-## [VI] Foundation & References
-*   **Core Research:** [Neural Systems Evolution](http://jiangxi.cs.uwm.edu/publication/comp-lang-sys-struct-2018.pdf).
-*   **Current Study:** Haskell School Of Music, Quantum Calculus, Lorentz Transformations, Poincaré Mechanics.
