@@ -2,38 +2,38 @@
 
 > "Multi-Distribution: Modeling the behavioral world of a probabilistic axiom."
 
-Theoretical researcher and systems architect focused on the intersection of formal methods, neural architectures, and Minkowski's space-time formalisms. I operate at the boundary where abstract logic meets computational implementation.
+Theoretical researcher and systems architect operating under the pseudonym **Kuro**. I focus on the intersection of formal methods, neural architectures, and Minkowski space-time formalisms. My work spans from abstract logical grounding to high-performance computational implementations.
+
+**ORCID:** [0009-0004-7304-9339](https://orcid.org/0009-0004-7304-9339)  
+**Affiliations:** [STABLE TURBO](https://github.com/STABLE-TURBO) (Founding Member), [PARANOID](https://github.com/PARANOID-Game-Dev) (Experimental Game Dev)
 
 ---
 
-## [I] Scientific Domains & Research Interests
-*   **Formal Verification:** Algebraic structures and formal trace analysis.
-*   **Neural Systems:** High-performance debugging and neural DSL development.
-*   **Physics-Infused Computing:** Minkowski space-time visualization and superfluid time models.
+## [I] Research Domains & Theoretical Focus
+*   **Formal Verification:** Algebraic structures and formal trace analysis for resilient systems.
+*   **Neural Dynamics:** Causal inference engines and semantic failure analysis in deep learning.
+*   **Physics-Infused Computing:** Minkowski space-time visualization and superfluid temporal logic.
 *   **Probabilistic Systems:** Modeling behavioral axioms in multi-distribution environments.
 
 ---
 
-## [II] Current Implementations (STABLE TURBO)
-| Project | Domain | Phase |
+## [II] Core Implementations [STABLE TURBO]
+| System | Domain | Technical Focus |
 | :--- | :--- | :--- |
-| **NeuralDBG** | Neural Systems | Execution |
-| **Echo** | Systems | Execution |
-| **Metatron** | Core | Execution |
-| **Neural** | Language/Logic | Stability |
-| **Automatons** | Theory | Research |
-| **BloomDB** | Data Structures | Prototyping |
-| **Alarmify** | Utilities | Maintenance |
+| **NeuralDBG** | Neural Systems | Causal inference engine for deep learning training failure explanations. |
+| **EchoX** | Knowledge | Graph-centrality based Spaced Repetition (SRS) for Obsidian vaults. |
+| **Metatron** | LLM Logic | Stepwise, security-hardened code generator CLI (Node.js). |
+| **DataLint** | ML Quality | Automated data validation successor to NeuralDSL for pandas/ML workflows. |
+| **BloomDB** | Data Theory | Probabilistic database language for uncertain/ML sensor tracking. |
 
 ---
 
-## [III] Research Roadmap
-*   **Debugex**: Formal debugging heuristics.
-*   **Robust - Lambda**: Resilient lambda calculus variants.
-*   **Aether**: Minkowski's Space-Time Visualizer.
-*   **Time as superfluid**: Non-linear temporal logic models.
-*   **QuBrain**: Quantum-inspired neural networks.
-*   **Logos / Mori / ZenDep**: Semantic dependency and state management.
+## [III] Theoretical Roadmap [Dirac-Minkowski]
+*   **Project-Dirac**: Formalizing Complexity Numbers and Infinity-Analysis frameworks.
+*   **Robust - Lambda**: Resilient lambda calculus variants for secure distributed logic.
+*   **Aether**: Minkowski's Space-Time Visualizer for relativistic geometry analysis.
+*   **Automatons**: LLM-driven social telemetry and GitHub event humanization.
+*   **Time as superfluid**: Research into non-linear temporal logic and fluid state models.
 
 ---
 
@@ -49,20 +49,20 @@ Theoretical researcher and systems architect focused on the intersection of form
 ---
 
 ## [V] Integrated Technical Stack
-### Languages & Theoretical Frameworks
-`C` `C++` `Rust` `Haskell` `Python` `Julia` `R` `Haskell` `LaTeX` `Assembly`
+### [Languages & Logic]
+`C` `C++` `Rust` `Haskell` `Python` `Julia` `R` `LaTeX` `Assembly`
 
-### Infrastructure & Engineering
-`AWS` `Debian` `Ubuntu` `Docker` `Nginx` `GitHub Actions` `Vercel`
+### [Systems & Engineering]
+`Debian` `Docker` `Nginx` `GitHub Actions` `AWS` `FastAPI` `Node.js`
 
-### Frameworks & Libraries
-`React` `Flutter` `PyTorch` `TensorFlow` `D3.js` `FastAPI` `Electron` `Vite`
+### [Neural & Mathematical]
+`PyTorch` `TensorFlow` `D3.js` `Scikit-Learn` `Octave` `Lark (Parsing)`
 
-### Specialized Tooling
-`Blender` `Unity` `Qt` `Ableton` `Octave` `Scikit-Learn` `Figma`
+### [Creative & Visual]
+`Blender` `Unity` `Qt` `Ableton` `Figma` `Three.js`
 
 ---
 
-## [VI] Active Research & References
-*   **Current Focus:** [Haskell School Of Music], [Quantum Calculus], [The Lorentz Transformation].
-*   **Foundation:** [Neural Systems Architecture](http://jiangxi.cs.uwm.edu/publication/comp-lang-sys-struct-2018.pdf).
+## [VI] Foundation & References
+*   **Core Architecture:** [Neural Systems Modeling](http://jiangxi.cs.uwm.edu/publication/comp-lang-sys-struct-2018.pdf).
+*   **Active Study:** Haskell School Of Music, Quantum Calculus, Lorentz Transformations.
