@@ -1,56 +1,68 @@
+# System Abstract: Lemniscate-world
 
-I Just Be.
+> "Multi-Distribution: Modeling the behavioral world of a probabilistic axiom."
 
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/094a116a-be7f-4e15-b107-518d919480d1" />
-
----
-# PROJECTS
-
--- > ONGOING
-- STABLE TURBO :
-   - NeuralDBG
-   - Echo
-   - Metatron
-   - Neural
-   - Automatons
-- BloomDB
-- Alarmify
-
--- > PENDING
-- Debugex
-- Fo-nu
-- Dissect
-- Robust - Lambda
-- Formal Trace
-- HPCS.jl
-- Aether - Minkowski's Space-Time Visualizer
-- Logos
-- Interpoem
-- Noun
-- Mori
-- Time as superfluid
-- ZenDep
-- QuBrain
-
----
-# Interesting Papers I based some projects on
-
-   - http://jiangxi.cs.uwm.edu/publication/comp-lang-sys-struct-2018.pdf (Neural)
-   - ... (BloomDB)
-
----
- # Logo Design
- 
-<img width="150" height="150" alt="Stable Turbo" src="https://github.com/user-attachments/assets/ce92a507-dea6-4f7a-8b8f-9b5086543f41" />
-<img width="150" height="150" alt="PARANOID (2)" src="https://github.com/user-attachments/assets/9959a8bd-4daf-4849-94c1-d9eee03ed727" />
-<img width="150" height="150" alt="Metatron" src="https://github.com/user-attachments/assets/763aad82-194f-4eeb-bb72-a1d7208d892a" />
+Theoretical researcher and systems architect focused on the intersection of formal methods, neural architectures, and Minkowski's space-time formalisms. I operate at the boundary where abstract logic meets computational implementation.
 
 ---
 
-# Skills
+## [I] Scientific Domains & Research Interests
+*   **Formal Verification:** Algebraic structures and formal trace analysis.
+*   **Neural Systems:** High-performance debugging and neural DSL development.
+*   **Physics-Infused Computing:** Minkowski space-time visualization and superfluid time models.
+*   **Probabilistic Systems:** Modeling behavioral axioms in multi-distribution environments.
 
+---
+
+## [II] Current Implementations (STABLE TURBO)
+| Project | Domain | Phase |
+| :--- | :--- | :--- |
+| **NeuralDBG** | Neural Systems | Execution |
+| **Echo** | Systems | Execution |
+| **Metatron** | Core | Execution |
+| **Neural** | Language/Logic | Stability |
+| **Automatons** | Theory | Research |
+| **BloomDB** | Data Structures | Prototyping |
+| **Alarmify** | Utilities | Maintenance |
+
+---
+
+## [III] Research Roadmap
+*   **Debugex**: Formal debugging heuristics.
+*   **Robust - Lambda**: Resilient lambda calculus variants.
+*   **Aether**: Minkowski's Space-Time Visualizer.
+*   **Time as superfluid**: Non-linear temporal logic models.
+*   **QuBrain**: Quantum-inspired neural networks.
+*   **Logos / Mori / ZenDep**: Semantic dependency and state management.
+
+---
+
+## [IV] Systems Telemetry
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,react,flutter,ableton,anaconda,androidstudio,bash,blender,c,cpp,css,d3,debian,discord,bots,docker,electron,fastapi,figma,flask,flutter,github,git,githubactions,haskell,html,ai,instagram,java,js,jest,kali,latex,linkedin,linux,md,mongodb,mysql,nextjs,nginx,obsidian,octave,perl,ps,powershell,py,pytorch,qt,r,react,redis,ruby,rust,sqlite,supabase,sklearn,selenium,svg,tensorflow,threejs,twitter,ts,ubuntu,unreal,unity,vercel,visualstudio,vite,vitest,vscode,vue,yarn&perline=10" height="400" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Lemniscate-world/Lemniscate-world/main/github-metrics.svg" width="48%" />
+  <img src="https://raw.githubusercontent.com/Lemniscate-world/Lemniscate-world/main/metrics.plugin.chess.svg" width="48%" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lemniscate-world/Lemniscate-world/main/metrics.plugin.leetcode.svg" width="100%" />
+</p>
+
+---
+
+## [V] Integrated Technical Stack
+### Languages & Theoretical Frameworks
+`C` `C++` `Rust` `Haskell` `Python` `Julia` `R` `Haskell` `LaTeX` `Assembly`
+
+### Infrastructure & Engineering
+`AWS` `Debian` `Ubuntu` `Docker` `Nginx` `GitHub Actions` `Vercel`
+
+### Frameworks & Libraries
+`React` `Flutter` `PyTorch` `TensorFlow` `D3.js` `FastAPI` `Electron` `Vite`
+
+### Specialized Tooling
+`Blender` `Unity` `Qt` `Ableton` `Octave` `Scikit-Learn` `Figma`
+
+---
+
+## [VI] Active Research & References
+*   **Current Focus:** [Haskell School Of Music], [Quantum Calculus], [The Lorentz Transformation].
+*   **Foundation:** [Neural Systems Architecture](http://jiangxi.cs.uwm.edu/publication/comp-lang-sys-struct-2018.pdf).
