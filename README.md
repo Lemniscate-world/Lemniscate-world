@@ -28,50 +28,50 @@ I am a researcher and systems architect operating at the intersection of formal 
 ## [I] Project Directory (52 Repositories)
 
 ### 1. Neural Dynamics & AI Reasoning
-*   **NeuralDBG**: Causal inference engine for DL training failure explanations.
-*   **DataLint**: Automated data validation for ML datasets (Successor to NeuralDSL).
-*   **inspectus**: LLM Analytics and visualization platform.
-*   **ChatDev-X**: Multi-agent collaboration for automated software generation.
-*   **NeuralDSL**: Domain-specific language for defining and deploying neural networks (Archived).
+*   **NeuralDBG** <img src="https://img.icons8.com/ios-filled/50/brain.png" height="20" />: Causal inference engine for DL training failure explanations.
+*   **DataLint** <img src="https://img.icons8.com/ios-filled/50/data-configuration.png" height="20" />: Automated data validation for ML datasets (Successor to NeuralDSL).
+*   **inspectus** <img src="https://img.icons8.com/ios-filled/50/search--v1.png" height="20" />: LLM Analytics and visualization platform.
+*   **ChatDev-X** <img src="https://img.icons8.com/ios-filled/50/bot.png" height="20" />: Multi-agent collaboration for automated software generation.
+*   **NeuralDSL** <img src="https://img.icons8.com/ios-filled/50/code.png" height="20" />: Domain-specific language for defining and deploying neural networks (Archived).
 *   **NeuralPaper / Neural-Aquarium**: Theoretical papers and simulation environments.
 *   **MLP-From-Scratch / LSTMVis**: Core implementations and visualization for neural layers.
 *   **PlotNeuralNet**: LaTeX framework for generating neural architectural diagrams.
 
 ### 2. Formal Logic & Systems Engineering
-*   **Robust-Lambda**: Untyped lambda calculus interpreter with visual trace.
+*   **Robust-Lambda** <img src="https://img.icons8.com/ios-filled/50/lambda.png" height="20" />: Untyped lambda calculus interpreter with visual trace.
 *   **Formal-Trace**: Logical trace analysis for computational systems.
-*   **Cesium**: Embedding autonomous AI agents into the Linux kernel core.
+*   **Cesium** <img src="https://img.icons8.com/ios-filled/50/linux.png" height="20" />: Embedding autonomous AI agents into the Linux kernel core.
 *   **ZenDep**: Python dependency error resolver and analyzer.
 *   **Logos**: Intelligent writing environment for structured thinking.
 *   **APB / Mori / Noun**: Logical state management, bioarchitectural modeling, and TOR-based blockchain.
 *   **Lemniscate-SHA-256_**: Low-level cryptographic protocol implementation.
 
 ### 3. Minkowski Physics & Infinity Analysis
-*   **AEther**: Minkowski's Space-Time visualizer for relativistic geometry.
+*   **AEther** <img src="https://img.icons8.com/ios-filled/50/atom.png" height="20" />: Minkowski's Space-Time visualizer for relativistic geometry.
 *   **Project-Dirac**: Comprehensive exploration of Complexity Numbers and Infinity-Analysis.
 *   **Time-as-Superfluid**: Theoretical modeling of time as a friction-less superfluid dimension.
 *   **Learning-Very-Interesting-Physics-Only**: Intuition-based physics exploration vault.
 *   **My-Theory-Of-Everything**: Unified mathematical and physical framework research.
 
 ### 4. Knowledge Architecture & Productivity
-*   **EchoX**: Intelligent spaced repetition (SRS) using graph centrality for Obsidian.
-*   **Gnothi / uhabits**: AI journal for self-discovery and mobile habit tracking.
+*   **EchoX** <img src="https://img.icons8.com/ios-filled/50/sound-waves.png" height="20" />: Intelligent spaced repetition (SRS) using graph centrality for Obsidian.
+*   **Gnothi / uhabits** <img src="https://img.icons8.com/ios-filled/50/checked-checkbox.png" height="20" />: AI journal for self-discovery and mobile habit tracking.
 *   **Scientific-Fasting-Tracking**: Biological telemetry for fasting cycles.
 *   **J.A.R.V.I.S**: Personal automation and assistant architecture.
 *   **Odin / fo-nu**: WhatsApp-based transcription and translation system (Ewe/Native).
 
 ### 5. Market Systems & Quantitative Analysis
-*   **OpenQuant (st-khos)**: High-frequency trading framework for market analysis.
+*   **OpenQuant (st-khos)** <img src="https://img.icons8.com/ios-filled/50/area-chart.png" height="20" />: High-frequency trading framework for market analysis.
 *   **StratAI / HMMAlgo**: Financial regime identification using Hidden Markov Models.
 *   **stock-pattern**: CLI tool for scanning and detecting chart patterns.
 *   **Console**: Minimalist, aesthetically refined trading journal.
 
 ### 6. Creative Theory & Experimental Logic
-*   **Charles**: Algorithmic music composition and modular synthesis system.
+*   **Metatron** <img src="https://github.com/user-attachments/assets/763aad82-194f-4eeb-bb72-a1d7208d892a" height="20" /> / **MetatronCube**: Stepwise LLM code generation and Void IDE experimentation.
+*   **Charles** <img src="https://img.icons8.com/ios-filled/50/musical-notes.png" height="20" />: Algorithmic music composition and modular synthesis system.
 *   **Yusuke**: Open-source advanced manga generation framework.
 *   **Interpoem / fo-nu**: Multimedia poetry and modular translation systems.
 *   **ROGUE / Stable-Algo**: Fuzzy logic programming and novel compression research.
-*   **Metatron / MetatronCube**: Stepwise LLM code generation and Void IDE experimentation.
 
 ---
 
