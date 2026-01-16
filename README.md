@@ -38,7 +38,7 @@ I am a researcher and systems architect operating at the intersection of formal 
 *   **PlotNeuralNet**: LaTeX framework for generating neural architectural diagrams.
 
 ### 2. Formal Logic & Systems Engineering
-*   **Robust-Lambda** <img src="https://img.icons8.com/ios-glyphs/50/ffffff/lambda.png" height="20" />: Untyped lambda calculus interpreter with visual trace.
+*   **Robust-Lambda**: Untyped lambda calculus interpreter with visual trace.
 *   **Formal-Trace**: Logical trace analysis for computational systems.
 *   **Cesium** <img src="https://img.icons8.com/ios-glyphs/50/ffffff/linux.png" height="20" />: Embedding autonomous AI agents into the Linux kernel core.
 *   **ZenDep**: Python dependency error resolver and analyzer.
@@ -47,15 +47,15 @@ I am a researcher and systems architect operating at the intersection of formal 
 *   **Lemniscate-SHA-256_**: Low-level cryptographic protocol implementation.
 
 ### 3. Minkowski Physics & Infinity Analysis
-*   **AEther** <img src="https://img.icons8.com/ios-glyphs/50/ffffff/atom.png" height="20" />: Minkowski's Space-Time visualizer for relativistic geometry.
+*   **AEther**: Minkowski's Space-Time visualizer for relativistic geometry.
 *   **Project-Dirac**: Comprehensive exploration of Complexity Numbers and Infinity-Analysis.
 *   **Time-as-Superfluid**: Theoretical modeling of time as a friction-less superfluid dimension.
 *   **Learning-Very-Interesting-Physics-Only**: Intuition-based physics exploration vault.
 *   **My-Theory-Of-Everything**: Unified mathematical and physical framework research.
 
 ### 4. Knowledge Architecture & Productivity
-*   **EchoX** <img src="https://img.icons8.com/ios-glyphs/50/ffffff/sound-waves.png" height="20" />: Intelligent spaced repetition (SRS) using graph centrality for Obsidian.
-*   **Gnothi / uhabits** <img src="https://img.icons8.com/ios-glyphs/50/ffffff/checked-checkbox.png" height="20" />: AI journal for self-discovery and mobile habit tracking.
+*   **EchoX**: Intelligent spaced repetition (SRS) using graph centrality for Obsidian.
+*   **Gnothi / uhabits**: AI journal for self-discovery and mobile habit tracking.
 *   **Scientific-Fasting-Tracking**: Biological telemetry for fasting cycles.
 *   **J.A.R.V.I.S**: Personal automation and assistant architecture.
 *   **Odin / fo-nu**: WhatsApp-based transcription and translation system (Ewe/Native).
