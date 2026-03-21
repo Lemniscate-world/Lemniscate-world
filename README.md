@@ -37,18 +37,54 @@ Operating at the edge of logic, language, and machine. We build systems for futu
   <img src=https://github.com/user-attachments/assets/b32ce6f4-ecd7-4040-a538-a78a298882dc>
 </p>
 
-- **[Neural](https://github.com/Lemniscate-world/neural)** (Neural Networks, Parsers) — Programming language for NN research. **[Paused]**
-- **[OpenQuant](https://github.com/Lemniscate-world/OpenQuant)** (Trading, Mathematical Modelling) — Automated Markov-based trading. **[8% - Active]**
-- **[Metatron](https://github.com/Lemniscate-world/Metatron)** — Abductive reasoning debugger in Rust. **[0% - Planning]**
-- **[Helium](https://github.com/HeliumXChain/Helium)** — Compute-to-earn Blockchain for AI. **[10% - Validation]**
-- **[Charmed](https://github.com/Lemniscate-world/Charmed)** — Smart Spotify alarm system. **[50% - Beta]**
+- **[Neural](https://github.com/Lemniscate-world/neural)** (Neural Networks, Parsers) — This project introduces a new programming language designed specifically for defining neural network models, visualizing, and researching. **[Paused]**
 
-# Next & Research
-- **[NeuroDose](https://github.com/Lemniscate-world/NeuroDose)** — Biohacking & pharmacokinetic modeling.
-- **[Dissect](https://github.com/Lemniscate-world/Dissect)** — Algorithmic logic extraction & visualization.
+- **[OpenQuant](https://github.com/Lemniscate-world/OpenQuant)** (Trading, Mathematical Modelling, Quantitative Finance) — Automated quantitative trading using Markov models and rigorous statistical validation. **[8% - Active]**
+
+- **[Metatron](https://github.com/Lemniscate-world/Metatron)** — An advanced, AI-powered debugging tool designed to analyze and debug code across various programming languages. This project aims to build an abductive reasoning debugger using Rust. Unlike traditional debuggers that rely on pattern matching, this system infers probable causes of bugs by logically analyzing the structure of errors. **[0% - Planning]**
+
+- **[Helium](https://github.com/HeliumXChain/Helium)** — A compute-to-earn Blockchain designed for AI training and PoUW (Proof of Useful Work). **[10% - Validation Phase]**
+
+- **[Charmed](https://github.com/Lemniscate-world/Charmed)** — Smart Spotify alarm system with adaptive waking logic. **[50% - Beta]**
+
+# Research & Papers
+- [Scientific Intelligence on HuggingFace](https://huggingface.co/Kuroio)
+- [Notebooks on Kaggle](https://www.kaggle.com/kuroio)
+- [Lambda Research](https://huggingface.co/LambdasecR)
+
+# ASAP (Always Strive And Prosper) Skills
+[Painting](https://www.deviantart.com/jacques-charles), [Beatmaking & Music](https://soundcloud.com/kuro-io), [Poetry](https://jacquescharles.framer.website/), Writing, Boxing, Krav Maga, Calisthenics, Chess, Photography, [Fashion Design](https://hermetic.company.site/)
+
+# Blogs & Thinking
+[Neural Language Medium](https://medium.com/@neural.lang0), n_polymath
+
+# Human Languages
+German (Read - Middle Low), French (High), English (High), Éwé (High), Russian (Very Low), Korean (Hangeul - Low to Middle Low)
+
+# Next & Frontier
+- **[NeuroDose](https://github.com/Lemniscate-world/NeuroDose)** — Biohacking platform to fine-tune stimulants and focus using pharmacokinetic modeling.
+- **[Dissect](https://github.com/Lemniscate-world/Dissect)** — Automatically detect, analyze, and visualize algorithms in complex codebases.
+- **BloomDB** — A probabilistic database language for handling uncertain data in ML and sensor fusion.
 - **[Aether](https://github.com/Lemniscate-world/Aether)** — Minkowski Space-Time Visualizer.
-- **[Project Dirac](https://github.com/Lemniscate-world/Project-Dirac)** — Advanced probability & Gamma functions.
-- **BloomDB** — Probabilistic database language.
+
+# Books (Starred) 
+[Let's read on TheStoryGraph](https://app.thestorygraph.com/profile/gadkuro)
+- Set Theory and the Continuum Hypothesis (Paul J. Cohen)
+- Math For Deep Learning | Neural Networks (Michael Taylor)
+- Dive into Deep Learning (d2l-ai)
+- Transfer Learning for Natural Language Processing (Paul Azunre) 
+
+# Achievements & Metrics
+
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D31645%26project%3D%26in=0)](https://codetime.dev)
+![Metrics](https://github.com/Lemniscate-world/Lemniscate-world/blob/main/github-metrics.svg)
+
+# Just A Poor Lonesome Cyber Cowboy...
+
+![Trainride - Max Greene](https://github.com/user-attachments/assets/35a753b4-a1f1-40f6-ae6b-dc56c6c4a479)
+
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) 
+[I'm Lucky Luke](buymeacoffee.com/jacques.charles)
 
 # Skills & Computer Languages
 
