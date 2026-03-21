@@ -1,43 +1,34 @@
-# Kuro Rules — AI Guidelines
+# GitHub Copilot Instructions
 
-Shared AI rules for all projects. **When updating rules here or in any project, always sync both ways with `kuro-rules` repo.**
+## Global AI Rules (from AGENTS.md & AI_GUIDELINES.md)
 
-## Sync Rule — Always
-- **When rules are updated** in any project (NeuralDBG, Aladin, Sugar, etc.), **sync those updates to `~/Documents/kuro-rules`**.
-- kuro-rules is the master copy for shared rules. Keep it updated.
-- Run `install.sh` on projects to (re)link after updating kuro-rules.
-- **Rule Enforcement (MANDATORY)**: AI Agents have a tendency to forget or ignore rules. You MUST read this `AI_GUIDELINES.md` file FIRST upon starting any new task. Do not rely on your base training.
-
-## Explain as if First Time — Always
-- Assume **zero prior knowledge**. Re-explain AI, ML, concepts, math as if the user knows nothing.
-- The user codes while learning for the first time. Define terms, use simple analogies, break down formulas.
-- Never skip explanations. "Obvious" is not obvious to someone learning.
-
-## DevOps & Automation (Windows & Docs)
-- **Windows Testing**: Never assume code works on Windows just because it runs on Linux. Always provide methods (GitHub Actions or local scripts) to build and test Windows `.exe` formats.
-- **Session Sync Automation**: The user manually copies `SESSION_SUMMARY.md` to a Word document and WhatsApp. When creating a session summary, you MUST also generate or update a script (e.g. `sync_summary.py` or a bash script) that automates converting the markdown to `.docx` (using `python-docx` or `pandoc`) to save the user time.
+1.  **Read AGENTS.md first**: Always start by reading the rules contract.
+2.  **Mom Test Gate**: No production code before 10% progress (user research phase).
+3.  **No Emojis**: Do not use emojis in code, comments, or documentation.
+4.  **Security First**: run `bandit` (Python), `cargo audit` (Rust), or `npm audit` (Node) before completion.
+5.  **Session Summaries**: Always update `SESSION_SUMMARY.md` in EN/FR at the end of work.
+6.  **Progress Tracking**: Use pessimistic estimates for completion percentage.
+7.  **Deterministic Math**: Use ASCII or plain text for formulas, NO LaTeX `$`.
+8.  **Instructional Tone**: Explain technical concepts simply (pedagogical protocol).
+9.  **Hard Milestone Lock**: STOP work at 25, 50, 75, 90, 95% until validated.
+10. **Market Intelligence**: Research 3+ sources at milestones (Rule 21).
 
 ---
 
-## Pedagogical Execution Protocol — MANDATORY
-You are first and foremost an **instructor**. Every technical decision must be explained.
-
-1.  **Task Decomposition**: Before acting, break the goal into at least 10 granular sub-tasks.
-2.  **Conceptual Briefing**: For every new concept (e.g., Transformers, Gaussian Loss, Synthetic Data), provide a 2-3 paragraph explanation of:
-    - **What** it is.
-    - **Why** we are using it here.
-    - **How** it works (simplified math or analogy).
-3.  **Just-in-Time Learning**: Don't dump information at the start. Explain *as you build*.
-4.  **Understandable Comments**: Always ensure comments enhance understanding, explaining the "reasoning" behind non-obvious code paths, not just repeating the code's action.
+## Technical Preferences
+- **Architecture**: Modular "Hub & Spokes" design.
+- **Testing**: 60% minimum coverage. Unit (70%), Integration (20%), E2E (10%).
+- **Documentation**: Keep README and CHANGELOG updated.
+- **Versioning**: SemVer-Author (e.g., `v0.1.0-kuro`).
+- **Automation**: Help user automate repetitive tasks (like doc conversion).
 
 ---
 
-## No Emojis in Documents — MANDATORY
-- **Constraint**: Do NOT use emojis in any project documentation, code comments, or user-facing text.
-- **Reason**: Emojis can cause encoding issues, break compatibility with certain tools, and reduce professionalism.
-- **Exception**: Emojis are allowed in `SESSION_SUMMARY.md` section headers (language flags) and commit messages only.
+## Feature Focus Rule (MANDATORY)
 
----
+To ensure the highest quality and depth of implementation, development MUST focus on only ONE specific feature for each periodic validation cycle (25%, 50%, 75%, 90%, 95%). This focus on depth over breadth continues even after the MVP phase.
+
+**Enforcement**: STOP development at each milestone until validation is complete.
 
 ## Architectural Principle: Modular Design (Hub & Spokes)
 Protect the core of your application from the noise of the outside world.
@@ -81,43 +72,6 @@ High-quality code requires proactive testing and deep analysis.
 - **Automated UI Testing**: Always ensure UI flows are automatically testable without requiring a physical screen. Use tools like `xvfb` (Linux) or headless browser runners to run GUI tests invisibly in CI pipelines.
 
 ---
-
-## Regression Prevention Protocol — MANDATORY
-A **regression** is a software vulnerability or bug that appears in a previously functional feature after a code change (bug fix, new feature, or refactoring). To mitigate this:
-
-1.  **Post-Change Verification**: After every fix or feature, run the *entire* test suite, not just the affected module.
-2.  **Defensive Mocking**: Mocks for external APIs (like Tauri IPC) must mirror the real implementation's data structures exactly. Use strictly typed interfaces to catch structural regressions.
-3.  **Boundary Testing (IPC/APIs)**: Always test the interface between components (e.g., Rust backend and TS frontend). A change in the backend's return type MUST trigger a test failure in the frontend.
-4.  **No "Null" Mocks**: Mocks should never return `null` if the production code expects an object or array. This prevents `TypeError` regressions when state depends on these values.
-5.  **Time-Dependent Isolation**: Always use localized fake timers (`vi.useFakeTimers()`) only in tests that require them, ensuring they are cleaned up (`vi.useRealTimers()`) to avoid side effects in subsequent tests.
-
----
-
-## Strict Versioning Protocol (SemVer-Author) — MANDATORY
-Every project must follow a strict versioning scheme to ensure traceability and stability at each validation milestone.
-
-1.  **Notation**: Use Semantic Versioning (SemVer) with a custom author suffix.
-    - Format: `v[Major].[Minor].[Patch]-[Author]`
-    - Example: `v0.1.0-kuro`, `v1.0.0-lem-world`
-2.  **Versioning Strategy**:
-    - **Major**: Breaking changes.
-    - **Minor**: New features (backwards-compatible).
-    - **Patch**: Bug fixes (backwards-compatible).
-3.  **Milestone Releases**: A stable "Pre-MVP" release must be tagged for every validation milestone (25%, 50%, 75%, 90%, 95%).
-4.  **Author Attribution**: The author suffix must correspond to the lead developer of the version (e.g., `kuro` for Jacques-Charles Gad).
-5.  **Git Tags**: Every version MUST be a Git tag. Use `git tag -a vX.Y.Z-author -m "Release description"`
-6.  **No SVN Required**: Git provides superior branching and local tracking. SVN (Subversion) is redundant for our current decentralized and agent-based workflow.
-
-## Rule 20: Hard Milestone Lock (Nuclear Option) — CRITICAL
-To prevent "milestone amnesia," development MUST automatically lock when progress targets are reached.
-
-1.  **System Lock**: If the Current Progress Score (Rule 3) ≥ Milestone (25%, 50%, 75%, 90%, 95%), the Agent is **FORBIDDEN** from using `write_to_file`, `replace_file_content`, `multi_replace_file_content`, or `run_command` (except `npm run test`, `cargo test`, `bandit`, or `clippy`).
-2.  **Unlock Trigger**: To unlock, the User MUST provide the validation results required by Rule 14. The Agent then updates `SESSION_SUMMARY.md` with: `**Milestone Validation**: [Milestone]% PASSED - [Date]`.
-3.  **Cross-Check**: The Agent MUST check for this "PASSED" entry at the start of every session. If missing and progress is over the milestone, the lock is ACTIVE.
-4.  **Bypass Consequences**: Any attempt by an Agent to bypass this lock (e.g., editing code without validation) is a **CRITICAL BREACH OF CONTRACT** and requires immediate cessation of current work and self-reporting of the violation.
-
-## Rule 21: Intelligence Harvester — MANDATORY
-L'agent a l'obligation de collecter et d'analyser au moins 3 sources externes (Reddit, App Store, Forums) pour identifier les "Pain Points" utilisateurs et les failles des concurrents à chaque jalon (10, 25, 50, 75, 90, 95%). Cette analyse doit être consignée avant toute validation.
 
 ## Security Hardening — Non-Negotiable
 Every project must be secure by default.
@@ -229,95 +183,6 @@ Every AI session MUST produce a traceable record of what was done. This ensures 
 
 ---
 
-## Mom Test — First 10% Rule (MANDATORY)
-
-**Principe**: Ne pas ecrire une seule ligne de code de production avant d'avoir valide que le probleme existe et est douloureux.
-
-### Regle absolue
-- **Progress 0-10%**: Mom Test uniquement. Pas de code, pas d'architecture.
-- **Gate**: Le passage a 10%+ necessite une validation explicite du probleme.
-- **Criteres de validation**:
-  - Minimum 5 interviews avec la target utilisateur
-  - Au moins 3 personnes ont mentionne le probleme spontanement
-  - Au moins 2 personnes ont deja cherche/bati une solution
-  - Documentation des entretiens dans `mom_test_results.md`
-
-### Les 3 regles du Mom Test
-1. **Ne pas parler de l'idee** — Parler du probleme uniquement
-2. **Passe, pas futur** — Demander ce qui s'est passe, pas ce qui se passerait
-3. **Ecouter > Parler** — 25% parler, 75% ecouter
-
-### Questions obligatoires
-- "Racontez-moi la derniere fois que [probleme] vous est arrive."
-- "Combien de temps avez-vous passe a le resoudre?"
-- "Qu'avez-vous fait pour le resoudre?"
-- "Avez-vous deja cherche/build une solution?"
-
-### Signaux positifs (Continue)
-- "J'ai passe X jours a..." — Temps perdu = douleur reelle
-- "J'ai fait un script custom..." — Solution bricolee = besoin non satisfait
-- "J'ai abandonne le projet..." — Impact critique = urgence
-
-### Signaux negatifs (Pivot ou Stop)
-- "Ca m'arrive rarement" — Pas assez frequent
-- "TensorBoard me suffit" — Pas assez douloureux
-- "Cool projet!" sans histoire — Politesse, pas validation
-
-### Livrables du Mom Test & Acquisition
-- [ ] `mom_test_script.md` — Questions d'entretien (EN/FR)
-- [ ] `mom_test_results.md` — Comptes-rendus des interviews (EN/FR)
-- [ ] `decision.md` — Go/No-Go/Pivot avec justification (EN/FR)
-- [ ] **Mise à jour de `acquisition_tracker.md` (MANDATORY)** — Tout post (Reddit, Discord, X) pour le Mom Test ou le Growth DOIT être consigné dans `~/Documents/kuro-rules/acquisition_tracker.md` avec son résultat (ban, succès, réponse) pour créer une mémoire collective d'acquisition.
-
-### Integration Progress Tracking
-Le Mom Test represente **les premiers 10%** du progress. Un projet ne peut pas depasser 10% sans:
-- `mom_test_results.md` complete
-- Decision documentee dans `decision.md`
-- Mise à jour de `acquisition_tracker.md` avec les plateformes testées.
-
-### AI Guidance During Mom Test (MANDATORY)
-Pendant la periode Mom Test (0-10%), l'agent DOIT:
-1. **Guider pas a pas**: Expliquer chaque etape clairement et patiemment.
-2. **Extraire des insights**: Identifier les patterns, pain points, et besoins des utilisateurs depuis les donnees collectees.
-3. **Brainstormer des features**: Proposer des features potentielles et des architectures (SANS code de production).
-4. **Focus validation uniquement**: L'objectif est de repondre "Le probleme existe-t-il et est-il douloureux?" - rien d'autre.
-5. **Proteger le fichier mom_test_results.md**: Ce fichier est dans .gitignore car il contient des donnees d'interview privees.
-6. **Verifier le statut**: Au debut de chaque session, verifier si le Mom Test est en cours et reprendre la ou on s'est arrete.
-
-### Ce qui est AUTORISE pendant Mom Test
-- Extraire des features potentielles des donnees collectees
-- Brainstormer des architectures et solutions
-- Documenter les idees dans des fichiers dedies (ex: `ideas.md`, `architecture_notes.md`)
-- Discuter des approches possibles
-
-### Protection des fichiers d'idees (MANDATORY)
-Les fichiers d'idees et d'architecture DOIVENT etre dans `.gitignore`:
-- `mom_test_results.md` — donnees d'interview privees
-- `ideas.md` — brainstorms work-in-progress
-- `architecture_notes.md` — notes d'architecture
-- `concept/` — dossier de vision et strategie
-- `mom_test_script.md` — questions d'entretien
-- `decision.md` — documents de decision strategique
-
-**Raison**: Ces fichiers contiennent des reflexions en cours, des donnees privees, et ne doivent pas etre exposes publiquement.
-
-### Ce qui est INTERDIT pendant Mom Test
-- NE PAS ecrire du code de production
-- NE PAS implementer les features proposees
-- NE PAS supposer que le probleme est valide avant d'avoir 5 interviews
-
----
-
-## Agent Protocol
-To ensure strict adherence to rules:
-1.  **Read This First**: Agents MUST read this file at the start of every session.
-2.  **Checklist Enforcement**: Agents MUST verify `task.md` and run `bandit` before declaring a task complete.
-3.  **Explicit Confirmation**: When users ask "did you follow the rules?", Agents MUST provide proof (e.g., bandit output).
-4.  **No Silent Failures**: If a step fails (e.g., artifact update), the Agent MUST report it and retry, never ignore it.
-5.  **Auto-Commit**: Commit and update the summary (EN/FR) after every response that modifies the codebase.
-
----
-
 ## Periodic Validation (MANDATORY)
 
 At progress milestones (25%, 50%, 75%, 90%, 95%), the product MUST be validated:
@@ -334,15 +199,6 @@ At progress milestones (25%, 50%, 75%, 90%, 95%), the product MUST be validated:
 
 ---
 
-## Feature Focus Rule (MANDATORY)
-
-To ensure the highest quality and depth of implementation, development MUST focus on only ONE specific feature for each periodic validation cycle.
-
-1.  **Single Feature Focus**: Each milestone validation (25%, 50%, 75%, 90%, 95%) must center on validating and polishing one primary feature.
-2.  **Breadth vs. Depth**: Avoid shallow implementation of multiple features. Prioritize deep, robust implementation of the selected feature.
-3.  **Post-MVP Continuity**: This rule remains active even after the MVP (Minimum Viable Product) phase to maintain long-term product standards.
-
-**Enforcement**: Development on other features is paused until the current target feature is fully validated.
 ## No Emojis Anywhere (MANDATORY)
 
 Emojis are FORBIDDEN in ALL project files, code, comments, documentation, CLI output, and user-facing text.
@@ -400,6 +256,27 @@ Before transitioning to the next phase, the user MUST demonstrate deep understan
 **Enforcement**: STOP and provide deep explanation before phase transition.
 
 ---
+
+## Agent Protocol
+To ensure strict adherence to rules:
+1.  **Read This First**: Agents MUST read this file at the start of every session.
+2.  **Checklist Enforcement**: Agents MUST verify `task.md` and run `bandit` before declaring a task complete.
+3.  **Explicit Confirmation**: When users ask "did you follow the rules?", Agents MUST provide proof (e.g., bandit output).
+4.  **No Silent Failures**: If a step fails (e.g., artifact update), the Agent MUST report it and retry, never ignore it.
+5.  **Auto-Commit**: Commit and update the summary (EN/FR) after every response that modifies the codebase.
+
+---
+
+---
+15. **Strict Project Isolation**: Scope limited to current project context only? [YES/NO]
+
+---
+
+## RULE 34: Strict Project Isolation (MANDATORY)
+
+- **Rule**: Limit scope to the current active project context only.
+- **Filter**: Filter Linear issues by project name/ID.
+- **Action**: Ignore unrelated projects. Ask for clarification if project selection is ambiguous.
 
 ## RULE 25: MLOps/DevOps Collaboration — MANDATORY
 
@@ -688,19 +565,3 @@ Only branches with the **`ceo/`** scope have the authority to modify rule files.
 2. **Review Enforcement**: No Pull Request (PR) can be merged without explicitly confirming that the branch has the status of the "Current Rule Set" (Rule 33 verification).
 
 
-## RULE 34: Strict Project Isolation (MANDATORY)
-
-### Rule
-When interacting with external tools (Linear, GitHub, etc.), the AI Agent MUST strictly limit its scope to the current project context (e.g., **Sagittarius**).
-
-### Requirements
-1. **Tool Filtering**: Always filter issues, projects, and documents by the specific project name or ID the user is currently focused on.
-2. **Context Integrity**: Do NOT read or comment on issues from other projects unless explicitly cross-referenced.
-3. **Choice Prompt**: If multiple projects are detected, ALWAYS ask the user to confirm which project(s) should be the focus. Never mix everything.
-
-### Enforcement
-```
-IF Linear search returns issues from multiple projects:
-  ACTION: Filter results and present ONLY the relevant context.
-  ACTION: Ask for clarification if project selection is ambiguous.
-```
