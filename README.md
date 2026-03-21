@@ -13,7 +13,6 @@ Building systems for futures that don’t exist yet.
 
 [![GitHub Views](https://komarev.com/ghpvc/?username=Lemniscate-world)](https://github.com/Lemniscate-world/)
 
-<<<<<<< HEAD
 # Startup Studio Architecture (λ-Sections)
 
 Operating at the edge of logic, language, and machine. We build systems for futures that do not exist yet. Here is the active progress across our 14 organizational nodes under **[LambdaSection](https://github.com/LambdaSection)**.
@@ -32,11 +31,6 @@ Operating at the edge of logic, language, and machine. We build systems for futu
 - **λ-Section-12 (Hypatia)**: Aether (5% - Minkowski Space-Time Visualizer), Logical Calculus, Theorization of Linguistics.
 - **λ-Section-13 (Apocalyptic Dexter)**: Sybil (Zero Day & Ethical Hacking of Neural Networks).
 - **λ-Section-14 (Charles)**: Audio Room Visualizer, Interpoem (VR Poetry), Charles (Algorithmic Beatmaking).
-
----
-
-=======
->>>>>>> 175f52fda0317bbc5fc05620ed669ec4c6d79076
 # Projects [FOCUS]
 
 <p align="center">
@@ -45,15 +39,9 @@ Operating at the edge of logic, language, and machine. We build systems for futu
 
 - **[Neural](https://github.com/Lemniscate-world/neural)** (Neural Networks, Parsers) --> This project introduces a new programming language designed specifically for defining neural network models, visualizing, and researching. **[Paused]**
 
-<<<<<<< HEAD
 - **[OpenQuant](https://github.com/Lemniscate-world/OpenQuant)** (Trading, Mathematical Modelling, Quantitative Finance) **[8% - In Regular Progress]**
 
 - **[Metatron](https://github.com/Lemniscate-world/Metatron)** --> is an advanced, AI-powered debugging tool designed to analyze and debug code across various programming languages, including Python, JavaScript, Java, C++, AI frameworks (TensorFlow, PyTorch), and blockchain (Solidity). This project aims to build an abductive reasoning debugger using Rust. Unlike traditional debuggers that rely on pattern matching, this system infers probable causes of bugs by logically analyzing the structure of errors. **[0% - Low to No Progress]**
-=======
-- **[OpenQuant](https://github.com/Lemniscate-world/OpenQuant)** (Trading, Mathematical Modelling, Quantitative Finance) **[In Regular Progress]**
-
-- **[Metatron](https://github.com/Lemniscate-world/Metatron)** --> is an advanced, AI-powered debugging tool designed to analyze and debug code across various programming languages, including Python, JavaScript, Java, C++, AI frameworks (TensorFlow, PyTorch), and blockchain (Solidity). This project aims to build an abductive reasoning debugger using Rust. Unlike traditional debuggers that rely on pattern matching, this system infers probable causes of bugs by logically analyzing the structure of errors. **[Low to No Progress]**
->>>>>>> 175f52fda0317bbc5fc05620ed669ec4c6d79076
 
 # Curiosities
 
