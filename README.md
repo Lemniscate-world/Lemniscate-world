@@ -1,114 +1,172 @@
-<pre>
-      ___           ___           ___           ___     
-     /__/\         /__/\         /  /\         /  /\    
-     \  \:\        \  \:\       /  /::\       /  /::\   
-      \  \:\        \  \:\     /  /:/\:\     /  /:/\:\  
-  _____\__\:\   ___  \  \:\   /  /:/~/:/    /  /:/  \:\ 
- /__/::::::::\ /__/\  \__\:\ /__/:/ /:/___ /__/:/ \__\:\
- \  \:\~~\~~\/ \  \:\ /  /:/ \  \:\/:::::/ \  \:\ /  /:/
-  \  \:\  ~~~   \  \:\  /:/   \  \::/~~~~   \  \:\  /:/ 
-   \  \:\        \  \:\/:/     \  \:\        \  \:\/:/  
-    \  \:\        \  \::/       \  \:\        \  \::/   
-     \__\/         \__\/         \__\/         \__\/    
-</pre>
-
-# System Identity: Gad Jacques-Charles (Kuro)
-
-I am a researcher and systems architect operating at the intersection of formal methods, neural architectures, and theoretical physics. My work is dedicated to formalizing abstract logical grounding and building high-performance, resilient computational implementations.
-
-**Social Telemetry:**
-[X / n_polymath](https://x.com/n_polymath) | [LinkedIn](https://www.linkedin.com/in/jacques-charles-gad-senouvo-a4ba462ba) | [ORCID / 0009-0004-7304-9339](https://orcid.org/0009-0004-7304-9339) | [Linktree](https://linktr.ee/Dio_nysos) | [Instagram](https://www.instagram.com/0_or_gad/)
-
-**Affiliations:**
-*   **[STABLE TURBO](https://github.com/STABLE-TURBO)**: Research and development in neural debugging and automated data validation.
-*   **[PARANOID](https://github.com/PARANOID-Game-Dev)**: Experimental game development and non-linear logic prototyping.
-
----
-
-## [I] Project Directory (52 Repositories)
-
-### 1. Neural Dynamics & AI Reasoning
-*   **NeuralDBG** <img src="https://img.icons8.com/ios-glyphs/50/ffffff/brain.png" height="20" />: Causal inference engine for DL training failure explanations.
-*   **DataLint** <img src="https://img.icons8.com/ios-glyphs/50/ffffff/data-configuration.png" height="20" />: Automated data validation for ML datasets (Successor to NeuralDSL).
-*   **inspectus** <img src="https://img.icons8.com/ios-glyphs/50/ffffff/search--v1.png" height="20" />: LLM Analytics and visualization platform.
-*   **ChatDev-X** <img src="https://img.icons8.com/ios-glyphs/50/ffffff/bot.png" height="20" />: Multi-agent collaboration for automated software generation.
-*   **NeuralDSL** <img src="https://img.icons8.com/ios-glyphs/50/ffffff/code.png" height="20" />: Domain-specific language for defining and deploying neural networks (Archived).
-*   **NeuralPaper / Neural-Aquarium**: Theoretical papers and simulation environments.
-*   **MLP-From-Scratch / LSTMVis**: Core implementations and visualization for neural layers.
-*   **PlotNeuralNet**: LaTeX framework for generating neural architectural diagrams.
-
-### 2. Formal Logic & Systems Engineering
-*   **Robust-Lambda**: Untyped lambda calculus interpreter with visual trace.
-*   **Formal-Trace**: Logical trace analysis for computational systems.
-*   **Cesium** <img src="https://img.icons8.com/ios-glyphs/50/ffffff/linux.png" height="20" />: Embedding autonomous AI agents into the Linux kernel core.
-*   **ZenDep**: Python dependency error resolver and analyzer.
-*   **Logos**: Intelligent writing environment for structured thinking.
-*   **APB / Mori / Noun**: Logical state management, bioarchitectural modeling, and TOR-based blockchain.
-*   **Lemniscate-SHA-256_**: Low-level cryptographic protocol implementation.
-
-### 3. Minkowski Physics & Infinity Analysis
-*   **AEther**: Minkowski's Space-Time visualizer for relativistic geometry.
-*   **Project-Dirac**: Comprehensive exploration of Complexity Numbers and Infinity-Analysis.
-*   **Time-as-Superfluid**: Theoretical modeling of time as a friction-less superfluid dimension.
-*   **Learning-Very-Interesting-Physics-Only**: Intuition-based physics exploration vault.
-*   **My-Theory-Of-Everything**: Unified mathematical and physical framework research.
-
-### 4. Knowledge Architecture & Productivity
-*   **EchoX**: Intelligent spaced repetition (SRS) using graph centrality for Obsidian.
-*   **Gnothi / uhabits**: AI journal for self-discovery and mobile habit tracking.
-*   **Scientific-Fasting-Tracking**: Biological telemetry for fasting cycles.
-*   **J.A.R.V.I.S**: Personal automation and assistant architecture.
-*   **Odin / fo-nu**: WhatsApp-based transcription and translation system (Ewe/Native).
-
-### 5. Market Systems & Quantitative Analysis
-*   **OpenQuant (st-khos)** <img src="https://img.icons8.com/ios-glyphs/50/ffffff/area-chart.png" height="20" />: High-frequency trading framework for market analysis.
-*   **StratAI / HMMAlgo**: Financial regime identification using Hidden Markov Models.
-*   **stock-pattern**: CLI tool for scanning and detecting chart patterns.
-*   **Console**: Minimalist, aesthetically refined trading journal.
-
-### 6. Creative Theory & Experimental Logic
-*   **Metatron** <img src="https://github.com/user-attachments/assets/763aad82-194f-4eeb-bb72-a1d7208d892a" height="20" /> / **MetatronCube**: Stepwise LLM code generation and Void IDE experimentation.
-*   **Charles** <img src="https://img.icons8.com/ios-glyphs/50/ffffff/musical-notes.png" height="20" />: Algorithmic music composition and modular synthesis system.
-*   **Yusuke**: Open-source advanced manga generation framework.
-*   **Interpoem / fo-nu**: Multimedia poetry and modular translation systems.
-*   **ROGUE / Stable-Algo**: Fuzzy logic programming and novel compression research.
-
----
-
-## [II] Technical Stack
-### [Languages & Theoretical Foundations]
-`C` `C++` `Rust` `Haskell` `Python` `Julia` `R` `LaTeX` `Assembly` `Fuzzy Logic`
-
-### [Infrastructure & Neural Frameworks]
-`Debian` `Docker` `Nginx` `AWS` `PyTorch` `TensorFlow` `Scikit-Learn` `FastAPI` `Node.js`
-
-### [Mathematics & Visualization]
-`D3.js` `Three.js` `Octave` `Lark (Parsing)` `Eigen` `Eigen` `Minkowski Geometry`
-
-### [Engineering & Graphics]
-`Blender` `Unity` `Unreal Engine` `Qt` `Ableton` `Figma` `PythonOCC`
-
----
-
-## [III] Library & Intellectual Inputs
-### [Read & Foundation]
-*   **12 Rules for Life** (Peterson) | **Hacking** (Erickson) | **Thus Spoke Zarathustra** (Nietzsche)
-*   **The 48 Laws of Power** (Greene) | **The Alchemist** (Coelho) | **Game Theory**
-*   **Discipline Equals Freedom** (Willink) | **Can't Hurt Me** (Goggins)
-
-### [Reading Now / Researching]
-*   **Haskell School Of Music** | **Mandelbrot Analysis** | **Quantum Calculus**
-*   **Lorentz Transformations** | **Poincaré Mechanics** | **Espace de Minkowski**
-
----
-
-## [IV] Sonic Architecture
-*   **Charles**: Core system for modular synthesis and algorithmic composition.
-*   **Production**: Engineering sounds via *Ableton Live* and *FoxDot*.
-
----
-
-## [V] Telemetry
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lemniscate-world/Lemniscate-world/main/github-metrics.svg" width="100%" />
+  <img src=https://github.com/user-attachments/assets/9c7d774f-2791-4815-9686-4c670d4c7b1f>
 </p>
+
+Self-taught college dropout.
+My brain is a multiplexer wired for chaos and clarity.
+Antisocial coder. Polymath. Borderline.
+I write code like it’s philosophy and think like it's war.
+Operating at the edge of logic, language, and machine.
+Building systems for futures that don’t exist yet.
+
+"The code was dark and impenetrable as night, yet my mind was clear and sharp as a blade."
+
+[![GitHub Views](https://komarev.com/ghpvc/?username=Lemniscate-world)](https://github.com/Lemniscate-world/)
+
+# Startup Studio Architecture (λ-Sections)
+
+Operating at the edge of logic, language, and machine. We build systems for futures that do not exist yet. Here is the active progress across our 14 organizational nodes under **[LambdaSection](https://github.com/LambdaSection)**.
+
+- **λ-Section-1 (User Lambda Enter Real AI)**: Neuraldbg (30%), DataLint (5%), Astral (5%), Aquarium (3%), TokenWise (0%), Metatron (0%).
+- **λ-Section-2 (Quant-Search)**: OpenQuant (8% - Automated quantitative trading, Markov models), Console.
+- **λ-Section-3 (Hackin’Life)**: Charmed (50% - Smart Spotify alarm), Echo (5%), Thanatos (0%), Neurodose (0%).
+- **λ-Section-4 (G&S Solutions)**: G&S Solutions (6% - Fintech), Iroko, Kapok.
+- **λ-Section-5 (Eclipse)**: Nirvana (0% - Aerospace rocket propulsor simulation in Rust).
+- **λ-Section-6 (Paranoid)**: Experimental algorithmic video game dev.
+- **λ-Section-7 (HeliumChain)**: Helium (5% - Compute-to-earn Blockchain for AI training).
+- **λ-Section-8 (AI8 / Algorithmic Intelligence 8)**: Dissect (8%), BloomDB (5% - Probabilistic DB), Algoritmi.
+- **λ-Section-9 (NetworkEuler)**: λ-ESN (0% - Private Enterprise Social Network).
+- **λ-Section-10 (QuSolve)**: Quantum Mechanics Research (Non-Hermitian systems).
+- **λ-Section-11 (SaasX)**: Automated SaaS Creation (0%).
+- **λ-Section-12 (Hypatia)**: Aether (5% - Minkowski Space-Time Visualizer), Logical Calculus, Theorization of Linguistics.
+- **λ-Section-13 (Apocalyptic Dexter)**: Sybil (Zero Day & Ethical Hacking of Neural Networks).
+- **λ-Section-14 (Charles)**: Audio Room Visualizer, Interpoem (VR Poetry), Charles (Algorithmic Beatmaking).
+
+---
+
+# Projects [FOCUS]
+
+<p align="center">
+  <img src=https://github.com/user-attachments/assets/b32ce6f4-ecd7-4040-a538-a78a298882dc>
+</p>
+
+- **[Neural](https://github.com/Lemniscate-world/neural)** (Neural Networks, Parsers) --> This project introduces a new programming language designed specifically for defining neural network models, visualizing, and researching. **[Paused]**
+
+- **[OpenQuant](https://github.com/Lemniscate-world/OpenQuant)** (Trading, Mathematical Modelling, Quantitative Finance) **[8% - In Regular Progress]**
+
+- **[Metatron](https://github.com/Lemniscate-world/Metatron)** --> is an advanced, AI-powered debugging tool designed to analyze and debug code across various programming languages, including Python, JavaScript, Java, C++, AI frameworks (TensorFlow, PyTorch), and blockchain (Solidity). This project aims to build an abductive reasoning debugger using Rust. Unlike traditional debuggers that rely on pattern matching, this system infers probable causes of bugs by logically analyzing the structure of errors. **[0% - Low to No Progress]**
+
+# Curiosities
+
+- **[Project Dirac](https://github.com/Lemniscate-world/Project-Dirac)** (Gamma Functions, Lambda-Calculus, Probability) --> Dedicated to exploring and understanding fascinating mathematical concepts that go beyond the basics. Whether you're a math enthusiast or someone looking to deepen your knowledge in intriguing areas of mathematics, this repository aims to provide resources and insights into the most captivating topics in the field.
+
+# Experimental Music & Beatmaking
+
+- **[Charles](https://github.com/Lemniscate-world/Charles)** (Sound Design, DSP) --> A hybrid music creation system combining algorithmic composition, modular synthesis, and traditional DAW workflows.
+- All music created with this system is released on:
+  - GitHub Releases - Download audio files and project files
+  - Bandcamp - Stream and purchase releases
+  - SoundCloud - Stream tracks and works in progress
+
+# Tiny Fun Projects
+
+- **[Debugex](https://github.com/Lemniscate-world/DebugReg)** (Regex) --> Lightweight Regex Debugger
+
+# Skills & Computer Languages
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,ts,replit,react,qt,pnpm,npm,flask,latex,github,linux,react,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,md,debian,devto,docker,githubactions,linkedin,obsidian,pytorch,js,haskell,electron,nextjs,c,dart,flutter,vite,r,autocad,fastapi,kali,neextjs,nginx,scala,supabase,tailwind,vercel&perline=30)](https://skillicons.dev)
+![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![ReadTheDocs](https://img.shields.io/badge/Readthedocs-%23000000.svg?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+-- AGDA -- ASSEMBLY X64X86 -- ABLETON LIVE -- JULIA
+
+# Advanced & Precise Skills
+![Lark](https://img.shields.io/badge/Lark-48%25-blue)
+![Optimization](https://img.shields.io/badge/Optimization-39%25-red)
+![TA-Lib](https://img.shields.io/badge/TALib-1%25-red)
+![Neural-Networks](https://img.shields.io/badge/NeuralNetworks-75%25-blue)
+![Marketing](https://img.shields.io/badge/Marketing-14%25-pink)
+![Lambda-Calculus](https://img.shields.io/badge/LambdaCalculus-5%25-violet)
+![Set-Theory](https://img.shields.io/badge/SetTheory-3%25-red)
+![Tensor-Calculus](https://img.shields.io/badge/TensorCalculus-7%25-red)
+![Optuna](https://img.shields.io/badge/Optuna-11%25-blue)
+![Category-Theory](https://img.shields.io/badge/CategoryTheory-3%25-red)
+![Statistics](https://img.shields.io/badge/Statistics-21%25-red)
+![Formal-Logic](https://img.shields.io/badge/FormalLogic-6%25-blue)
+![Genetic-Algorithms](https://img.shields.io/badge/GeneticAlgorithms-3%25-blue)
+![Data-Science](https://img.shields.io/badge/DataScience-18%25-blue)
+![Graph-Theory](https://img.shields.io/badge/GraphTheory-7%25-red)
+![Automata-Theory](https://img.shields.io/badge/AutomataTheory-3%25-red)
+![Probability](https://img.shields.io/badge/Probability-31%25-red)
+![System-Design](https://img.shields.io/badge/SystemDesign-11%25-pink)
+![Pytest](https://img.shields.io/badge/Pytest-11%25-blue)
+![Quants](https://img.shields.io/badge/Quants-2%25-blue)
+![TypeTheory](https://img.shields.io/badge/TypeTheory-2%25-blue)
+![DigitalSignalProcessing](https://img.shields.io/badge/DigitalSignalProcessing-3%25-violet)
+![Linguistics](https://img.shields.io/badge/Linguistics-2%25-blue)
+![ProductThinking](https://img.shields.io/badge/ProductThinking-5%25-blue)
+![ProofTheory](https://img.shields.io/badge/ProofTheory-1%25-red)
+![ExploratoryDataAnalysis(EDA)](https://img.shields.io/badge/ExploratoryDataAnalysis-2%25-red)
+![Topology](https://img.shields.io/badge/Topology-1%25-red)
+
+# Research & Papers
+- https://huggingface.co/Kuroio
+- [Notebooks On Kaggle](https://www.kaggle.com/kuroio)
+- https://huggingface.co/LambdasecR
+
+# ASAP(Always Strive And Prosper) Skills
+[Painting](https://www.deviantart.com/jacques-charles), [Beatmaking&Music](https://soundcloud.com/kuro-io), [Poetry](https://jacquescharles.framer.website/), Writing, Boxing, Krav Maga, Calisthenics, Chess, Photography, [Fashion Design](https://hermetic.company.site/)
+
+# Blogs
+[Neural](https://medium.com/@neural.lang0),
+n_polymath
+
+# Human Languages
+German[Read](Middle Low), French(High), English(High), Éwé(High), Russian(Very Low), Korean[Hangeul](Low to Middle Low)
+
+# Next
+- **[NeuroDose](https://github.com/Lemniscate-world/NeuroDose)** - Help biohackers fine-tune stimulants to enhance focus, energy, and productivity while minimizing side effects.  It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
+- **[HPCS.jl](https://github.com/Lemniscate-world/HPCS.jl)** - Building a High-Performance-Computer Simulator in Julia
+- **[Robust λ](https://github.com/Lemniscate-world/Robust-Lambda)** - Building a functional untyped lambda calculus interpreter with a visual reduction tracer.
+- **[Formal Trace](https://github.com/Lemniscate-world/Formal-Trace)** - Decompilation into formal logic, real-time combinatorial visualization, and mathematical program route modeling
+- **[Dissect](https://github.com/Lemniscate-world/Dissect)** - Automatically detect, analyze, and visualize algorithms in codebases
+- **BloomDB** - A probabilistic database language that would likely handle uncertain or probabilistic data, making it suitable for applications like machine learning, data integration, sensor data analysis, and more.
+
+# Books (Starred) 
+[Let's read on TheStoryGraph](https://app.thestorygraph.com/profile/gadkuro)
+- Set Theory and the Continuum Hypothesis (Paul J. Cohen)
+- Outliers (Malcolm Gladwell)
+- (Python) Python Crash Course - Classic Computer Science Problems In Python
+- (Deep Learning) Math For Deep Learning
+- (Neural Networks) Neural Networks | A Visual Introduction for Beginners by Michael Taylor
+- (Deep Learning) [Dive into Deep Learning](https://github.com/d2l-ai/d2l-en)
+- Transfer Learning for Natural Language Processing (Paul Azunre) 
+
+# Achievements
+
+[![CodeTime Badge](https://img.shields.io/endpoint?style=flat&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D31645%26project%3D%26in=0)](https://codetime.dev)
+
+![LeetCode](https://github.com/Lemniscate-world/Lemniscate-world/blob/main/metrics.plugin.leetcode.svg)
+
+![Metrics](https://github.com/Lemniscate-world/Lemniscate-world/blob/main/github-metrics.svg)
+
+# Just A Poor Lonesome Cyber Cowboy...
+
+
+![Trainride - Max Greene](https://github.com/user-attachments/assets/35a753b4-a1f1-40f6-ae6b-dc56c6c4a479)
+
+
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) 
+[I'm Lucky Luke](buymeacoffee.com/jacques.charles)
+
+Always More is coming soon ...
