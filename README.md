@@ -31,15 +31,12 @@ Operating at the edge of logic, language, and machine. We build systems for futu
 - **╬�-Section-12 (Hypatia)**: Aether (5% - Minkowski Space-Time Visualizer), Logical Calculus, Theorization of Linguistics.
 - **╬�-Section-13 (Apocalyptic Dexter)**: Sybil (Zero Day & Ethical Hacking of Neural Networks).
 - **╬�-Section-14 (Charles)**: Audio Room Visualizer, Interpoem (VR Poetry), Charles (Algorithmic Beatmaking).
-- **╬�-Section-15 (CADAM/Epure)**: Epure (20% - Assistant IA pour BTP/AEC, FastAPI + React, 132 tests frontend, couverture 95%).
 
 # Projects [FOCUS]
 
 <p align="center">
   <img src=https://github.com/user-attachments/assets/b32ce6f4-ecd7-4040-a538-a78a298882dc>
 </p>
-
-- **[Epure/CADAM](https://github.com/Lemniscate-world/Epure)** (Assistant IA pour BTP/AEC, FastAPI + React) --> Cabinet d'ingenierie hybride IA. Generation automatique de plans DXF, maquettes IFC, metres et CDC a partir de descriptions texte. **[20% - Phase 1 Core Business, 132 tests frontend, 95% couverture]**
 
 - **[Neural](https://github.com/Lemniscate-world/neural)** (Neural Networks, Parsers) --> This project introduces a new programming language designed specifically for defining neural network models, visualizing, and researching. **[Paused]**
 
