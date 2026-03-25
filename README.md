@@ -17,25 +17,29 @@ Building systems for futures that don’t exist yet.
 
 Operating at the edge of logic, language, and machine. We build systems for futures that do not exist yet. Here is the active progress across our 14 organizational nodes under **[LambdaSection](https://github.com/LambdaSection)**.
 
-- **╬╗-Section-1 (User Lambda Enter Real AI)**: Neuraldbg (30%), DataLint (5%), Astral (5%), Aquarium (3%), TokenWise (0%), Metatron (0%).
-- **╬╗-Section-2 (Quant-Search)**: OpenQuant (8% - Automated quantitative trading, Markov models), Console.
-- **╬╗-Section-3 (HackinÔÇÖLife)**: Charmed (50% - Smart Spotify alarm), Echo (5%), Thanatos (0%), Neurodose (0%).
-- **╬╗-Section-4 (G&S Solutions)**: G&S Solutions (6% - Fintech), Iroko, Kapok.
-- **╬╗-Section-5 (Eclipse)**: Nirvana (0% - Aerospace rocket propulsor simulation in Rust).
-- **╬╗-Section-6 (Paranoid)**: Experimental algorithmic video game dev.
-- **╬╗-Section-7 (HeliumChain)**: Helium (5% - Compute-to-earn Blockchain for AI training).
-- **╬╗-Section-8 (AI8 / Algorithmic Intelligence 8)**: Dissect (8%), BloomDB (5% - Probabilistic DB), Algoritmi.
-- **╬╗-Section-9 (NetworkEuler)**: ╬╗-ESN (0% - Private Enterprise Social Network).
-- **╬╗-Section-10 (QuSolve)**: Quantum Mechanics Research (Non-Hermitian systems).
-- **╬╗-Section-11 (SaasX)**: Automated SaaS Creation (0%).
-- **╬╗-Section-12 (Hypatia)**: Aether (5% - Minkowski Space-Time Visualizer), Logical Calculus, Theorization of Linguistics.
-- **╬╗-Section-13 (Apocalyptic Dexter)**: Sybil (Zero Day & Ethical Hacking of Neural Networks).
-- **╬╗-Section-14 (Charles)**: Audio Room Visualizer, Interpoem (VR Poetry), Charles (Algorithmic Beatmaking).
+- **╬�-Section-1 (User Lambda Enter Real AI)**: Neuraldbg (30%), DataLint (5%), Astral (5%), Aquarium (3%), TokenWise (0%), Metatron (0%).
+- **╬�-Section-2 (Quant-Search)**: OpenQuant (8% - Automated quantitative trading, Markov models), Console.
+- **╬�-Section-3 (Hackin'Life)**: Charmed (50% - Smart Spotify alarm), Echo (5%), Thanatos (0%), Neurodose (0%).
+- **╬�-Section-4 (G&S Solutions)**: G&S Solutions (6% - Fintech), Iroko, Kapok.
+- **╬�-Section-5 (Eclipse)**: Nirvana (0% - Aerospace rocket propulsor simulation in Rust).
+- **╬�-Section-6 (Paranoid)**: Experimental algorithmic video game dev.
+- **╬�-Section-7 (HeliumChain)**: Helium (5% - Compute-to-earn Blockchain for AI training).
+- **╬�-Section-8 (AI8 / Algorithmic Intelligence 8)**: Dissect (8%), BloomDB (5% - Probabilistic DB), Algoritmi.
+- **╬�-Section-9 (NetworkEuler)**: ╬╗-ESN (0% - Private Enterprise Social Network).
+- **╬�-Section-10 (QuSolve)**: Quantum Mechanics Research (Non-Hermitian systems).
+- **╬�-Section-11 (SaasX)**: Automated SaaS Creation (0%).
+- **╬�-Section-12 (Hypatia)**: Aether (5% - Minkowski Space-Time Visualizer), Logical Calculus, Theorization of Linguistics.
+- **╬�-Section-13 (Apocalyptic Dexter)**: Sybil (Zero Day & Ethical Hacking of Neural Networks).
+- **╬�-Section-14 (Charles)**: Audio Room Visualizer, Interpoem (VR Poetry), Charles (Algorithmic Beatmaking).
+- **╬�-Section-15 (CADAM/Epure)**: Epure (20% - Assistant IA pour BTP/AEC, FastAPI + React, 132 tests frontend, couverture 95%).
+
 # Projects [FOCUS]
 
 <p align="center">
   <img src=https://github.com/user-attachments/assets/b32ce6f4-ecd7-4040-a538-a78a298882dc>
 </p>
+
+- **[Epure/CADAM](https://github.com/Lemniscate-world/Epure)** (Assistant IA pour BTP/AEC, FastAPI + React) --> Cabinet d'ingenierie hybride IA. Generation automatique de plans DXF, maquettes IFC, metres et CDC a partir de descriptions texte. **[20% - Phase 1 Core Business, 132 tests frontend, 95% couverture]**
 
 - **[Neural](https://github.com/Lemniscate-world/neural)** (Neural Networks, Parsers) --> This project introduces a new programming language designed specifically for defining neural network models, visualizing, and researching. **[Paused]**
 
@@ -88,6 +92,7 @@ Operating at the edge of logic, language, and machine. We build systems for futu
 -- AGDA -- ASSEMBLY X64X86 -- ABLETON LIVE -- JULIA
 
 # Advanced & Precise Skills
+
 ![Lark](https://img.shields.io/badge/Lark-48%25-blue)
 ![Optimization](https://img.shields.io/badge/Optimization-39%25-red)
 ![TA-Lib](https://img.shields.io/badge/TALib-1%25-red)
@@ -115,39 +120,51 @@ Operating at the edge of logic, language, and machine. We build systems for futu
 ![ProofTheory](https://img.shields.io/badge/ProofTheory-1%25-red)
 ![ExploratoryDataAnalysis(EDA)](https://img.shields.io/badge/ExploratoryDataAnalysis-2%25-red)
 ![Topology](https://img.shields.io/badge/Topology-1%25-red)
+![Vitest](https://img.shields.io/badge/Vitest-15%25-blue)
+![React-Testing-Library](https://img.shields.io/badge/ReactTestingLibrary-12%25-blue)
+![Frontend-Testing](https://img.shields.io/badge/FrontendTesting-15%25-blue)
+![BIM](https://img.shields.io/badge/BIM-10%25-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-18%25-blue)
 
 # Research & Papers
+
 - https://huggingface.co/Kuroio
 - [Notebooks On Kaggle](https://www.kaggle.com/kuroio)
 - https://huggingface.co/LambdasecR
 
 # ASAP(Always Strive And Prosper) Skills
+
 [Painting](https://www.deviantart.com/jacques-charles), [Beatmaking&Music](https://soundcloud.com/kuro-io), [Poetry](https://jacquescharles.framer.website/), Writing, Boxing, Krav Maga, Calisthenics, Chess, Photography, [Fashion Design](https://hermetic.company.site/)
 
 # Blogs
+
 [Neural](https://medium.com/@neural.lang0),
 n_polymath
 
 # Human Languages
+
 German[Read](Middle Low), French(High), English(High), Éwé(High), Russian(Very Low), Korean[Hangeul](Low to Middle Low)
 
 # Next
-- **[NeuroDose](https://github.com/Lemniscate-world/NeuroDose)** - Help biohackers fine-tune stimulants to enhance focus, energy, and productivity while minimizing side effects.  It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
+
+- **[NeuroDose](https://github.com/Lemniscate-world/NeuroDose)** - Help biohackers fine-tune stimulants to enhance focus, energy, and productivity while minimizing side effects. It combines pharmacokinetic modeling, 3D brain visualization, and interactive analytics to provide insights into supplement intake, concentration levels, and circadian alignment.
 - **[HPCS.jl](https://github.com/Lemniscate-world/HPCS.jl)** - Building a High-Performance-Computer Simulator in Julia
 - **[Robust ╬╗](https://github.com/Lemniscate-world/Robust-Lambda)** - Building a functional untyped lambda calculus interpreter with a visual reduction tracer.
 - **[Formal Trace](https://github.com/Lemniscate-world/Formal-Trace)** - Decompilation into formal logic, real-time combinatorial visualization, and mathematical program route modeling
 - **[Dissect](https://github.com/Lemniscate-world/Dissect)** - Automatically detect, analyze, and visualize algorithms in codebases
 - **BloomDB** - A probabilistic database language that would likely handle uncertain or probabilistic data, making it suitable for applications like machine learning, data integration, sensor data analysis, and more.
 
-# Books (Starred) 
+# Books (Starred)
+
 [Let's read on TheStoryGraph](https://app.thestorygraph.com/profile/gadkuro)
+
 - Set Theory and the Continuum Hypothesis (Paul J. Cohen)
 - Outliers (Malcolm Gladwell)
 - (Python) Python Crash Course - Classic Computer Science Problems In Python
 - (Deep Learning) Math For Deep Learning
 - (Neural Networks) Neural Networks | A Visual Introduction for Beginners by Michael Taylor
 - (Deep Learning) [Dive into Deep Learning](https://github.com/d2l-ai/d2l-en)
-- Transfer Learning for Natural Language Processing (Paul Azunre) 
+- Transfer Learning for Natural Language Processing (Paul Azunre)
 
 # Achievements
 
@@ -159,11 +176,9 @@ German[Read](Middle Low), French(High), English(High), Éwé(High), Russian(Very
 
 # Just A Poor Lonesome Cyber Cowboy...
 
-
 ![Trainride - Max Greene](https://github.com/user-attachments/assets/35a753b4-a1f1-40f6-ae6b-dc56c6c4a479)
 
-
-![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black) 
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 [I'm Lucky Luke](buymeacoffee.com/jacques.charles)
 
 Always More is coming soon ...
