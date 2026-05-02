@@ -119,11 +119,11 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 ![Statistics](https://img.shields.io/badge/Statistics-35%25-red)
 ![Probability](https://img.shields.io/badge/Probability-31%25-red)
 ![Quants](https://img.shields.io/badge/Quants-25%25-blue)
-![System-Design](https://img.shields.io/badge/SystemDesign-20%25-pink)
+![System-Design](https://img.shields.io/badge/SystemDesign-25%25-pink)
 ![Data-Science](https://img.shields.io/badge/DataScience-18%25-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-18%25-blue)
-![Marketing](https://img.shields.io/badge/Marketing-14%25-pink)
-![Market-Intelligence](https://img.shields.io/badge/MarketIntelligence-12%25-blue)
+![Marketing](https://img.shields.io/badge/Marketing-16%25-pink)
+![Market-Intelligence](https://img.shields.io/badge/MarketIntelligence-15%25-blue)
 ![Pytest](https://img.shields.io/badge/Pytest-11%25-blue)
 ![Optuna](https://img.shields.io/badge/Optuna-11%25-blue)
 ![Swarm-Intelligence](https://img.shields.io/badge/SwarmIntelligence-15%25-violet)
@@ -136,7 +136,7 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 ![Graph-Theory](https://img.shields.io/badge/GraphTheory-7%25-red)
 ![Formal-Logic](https://img.shields.io/badge/FormalLogic-6%25-blue)
 ![Lambda-Calculus](https://img.shields.io/badge/LambdaCalculus-5%25-violet)
-![ProductThinking](https://img.shields.io/badge/ProductThinking-5%25-blue)
+![ProductThinking](https://img.shields.io/badge/ProductThinking-10%25-blue)
 ![Category-Theory](https://img.shields.io/badge/CategoryTheory-3%25-red)
 ![Set-Theory](https://img.shields.io/badge/SetTheory-3%25-red)
 ![Genetic-Algorithms](https://img.shields.io/badge/GeneticAlgorithms-3%25-blue)
@@ -147,6 +147,8 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 ![Topology](https://img.shields.io/badge/Topology-1%25-red)
 ![ProofTheory](https://img.shields.io/badge/ProofTheory-1%25-red)
 ![ExploratoryDataAnalysis](https://img.shields.io/badge/ExploratoryDataAnalysis-2%25-red)
+![AIAgentEngineering](https://img.shields.io/badge/AIAgentEngineering-12%25-violet)
+![Automation](https://img.shields.io/badge/Automation-10%25-blue)
 
 ---
 
