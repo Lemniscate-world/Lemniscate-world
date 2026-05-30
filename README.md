@@ -24,21 +24,17 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 
 | Section | Domain | Projects |
 |---------|--------|---------|
-| **S-1 User Lambda Enter Real AI** | AI, Neural Networks | NeuralDbg (30%), DataLint (5%), Astral (5%), Aquarium (3%), TokenWise (0%), Metatron (0%) |
-| **S-2 Quant-Search** | Algorithmic Trading, Math Modelling | OpenQuant (8%), Console (0%) |
-| **S-3 Hackin Life** | Biohacking, Nootropics, Sport | Charmed (50%), Echo (5%), NeuroDose (0%), Thanatos (0%) |
+| **S-1 User Lambda Enter Real AI** | AI, Neural Networks | [NeuralDBG](https://github.com/LambdaSection/NeuralDBG) (v1.3), [Aquarium](https://github.com/LambdaSection/Aquarium) (Beta), [Neural-Agent](https://github.com/LambdaSection/Neural-Agent) (Beta) |
+| **S-1b Intelligence** | Data, Observability | [Astral](https://github.com/LambdaSection/Astral) (v1.0), [Datalint](https://github.com/LambdaSection/Datalint), [TokenWise](https://github.com/LambdaSection/TokenWise) |
+| **S-1c LLM Tools** | Codegen, Assistants | [Metatron](https://github.com/LambdaSection/Metatron) (v1.0), [Sugar](https://github.com/LambdaSection/Sugar) (v0.1), [Logos](https://github.com/LambdaSection/Logos) |
+| **S-2 Quant-Search** | Algorithmic Trading | OpenQuant (8%), Console (0%) |
+| **S-3 Hackin Life** | Biohacking | Charmed (50%), Echo (5%), NeuroDose (0%) |
 | **S-4 G&S Solutions** | Fintech | G&S Solutions (6%), Iroko (0%), Kapok (0%) |
-| **S-5 Eclipse** | Aerospace Computer Engineering | Bad Bunny (0%) |
-| **S-6 Paranoid** | Experimental Game Dev | In definition |
 | **S-7 Helium Chain** | Blockchain, DeFi | Helium (5%) |
-| **S-8 AI8** | Algorithms, Data Structures | Dissect (8%), BloomDB (5%), Algoritmi (0%) |
-| **S-9 Network Euler** | DevOps, Automation | lambda-ESN (0%) |
-| **S-10 Qu Solve** | Quantum Mechanics | Non-Hermitian systems research |
-| **S-11 SaaS X** | Automated SaaS | SaaS X (0%) |
-| **S-12 Hypatia** | Physics & Mathematics | AEther (5%), Logical Calculus (0%), Math Theorization of Linguistics (0%) |
-| **S-13 Dexter.pwn** | Ethical Hacking, CTFs, Zero Day | Sybil (0%) |
-| **S-14 Charles** | BeatMaking, Art, Poetry, NFTs | Audio Room Visualizer (0%), Interpoem (0%), Charles (0%) |
-| **S-15 XCAD** | CAD, Civil & Electromechanical Engineering | Epure (0%), Mori (0%) |
+| **S-8 AI8** | Algorithms | Dissect (8%), BloomDB (5%), [Odin](https://github.com/LambdaSection/Odin) |
+| **S-12 Hypatia** | Physics & Math | [AEther](https://github.com/Lemniscate-world/AEther) (5%) |
+| **S-14 Charles** | BeatMaking, Art | Charles (0%) |
+| **S-15 XCAD** | CAD, Engineering | Epure (0%), Mori (0%) |
 
 ---
 
@@ -48,20 +44,38 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
   <img src=https://github.com/user-attachments/assets/b32ce6f4-ecd7-4040-a538-a78a298882dc>
 </p>
 
-- **[OpenQuant](https://github.com/Lemniscate-world/OpenQuant)** (Trading, Mathematical Modelling, Quantitative Finance) **[8% - Actif]**
-  Automated quantitative trading rigorously grounded in scientific research. 5 models planned for 2026: Probabilistic Transformer for price prediction, ML price prediction, Markov Regime Detection.
+- **[NeuralDBG](https://github.com/LambdaSection/NeuralDBG)** (AI, Neural Networks Debugging) **[v1.3 - Stable · PyPI](https://pypi.org/project/neuraldbg/)**
+  Causal inference engine for deep learning training. Explains *why* your model failed — not just *when*. 100% detection, 100% localization on public benchmark.
 
-- **[NeuralDbg](https://github.com/Lemniscate-world/NeuralDBG)** (AI, Neural Networks Debugging) **[30% - Actif]**
-  Interactive debugger and visualizer for neural networks. V1 archived as proof of concept.
+- **[Astral](https://github.com/LambdaSection/Astral)** (Intelligence Platform) **[v1.0 - Stable]**
+  Open-source intelligence platform — unified visibility across all repositories. Tracks dependencies, distinguishes human from AI agent activity.
+
+- **[Aquarium](https://github.com/LambdaSection/Aquarium)** (Neural Network IDE) **[Private Beta]**
+  Specialized IDE for designing, training, and deploying neural networks with real-time shape propagation and error detection.
+
+- **[Metatron](https://github.com/LambdaSection/Metatron)** (LLM Codegen) **[v1.0 - Stable · 5★]**
+  Minimal CLI for controlled LLM codegen: EXPLANATION → CODE → VERIFICATION. "Buy time."
+
+- **[Sugar](https://github.com/LambdaSection/Sugar)** (AI Assistant) **[v0.1]**
+  Local-first AI assistant connecting Linear, Obsidian, and web via Ollama. Free, private, local.
+
+- **[Datalint](https://github.com/LambdaSection/Datalint)** (Data Validation) **[Stable]**
+  Smart data validation for ML — learns rules from clean data to prevent model training failures.
+
+- **[Logos](https://github.com/LambdaSection/Logos)** (Writing Environment) **[Stable · 2★]**
+  Intelligent writing environment combining structured thinking methodologies with AI assistance.
+
+- **[Odin](https://github.com/LambdaSection/Odin)** (Graph Visualization) **[Stable]**
+  Graph visualization tool for exploring relationships, detecting biases, and deepening understanding.
+
+- **[OpenQuant](https://github.com/Lemniscate-world/OpenQuant)** (Quantitative Finance) **[8% - Actif]**
+  Automated quantitative trading grounded in scientific research. Probabilistic Transformer, Markov Regime Detection.
 
 - **[Charmed](https://github.com/Lemniscate-world/Charmed)** (Biohacking, UX) **[50% - Actif]**
   Smart Spotify alarm clock. Wake up to your music, not a beep. Desktop and Android.
 
 - **[Dissect](https://github.com/Lemniscate-world/Dissect)** (AI Orchestration) **[8% - Actif]**
-  Audit and visualize AI agent orchestration. Open-source, on GitHub.
-
-- **[Metatron](https://github.com/Lemniscate-world/Metatron)** (Multi-language Debugging) **[0% - Prototypage]**
-  Abductive reasoning debugger in Rust. Motto: "Buy time."
+  Audit and visualize AI agent orchestration. Open-source.
 
 ---
 
