@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>lambda-Section — Portfolio</title>
+<style>
+  :root {
+    --bg: #0d1117; --card: #161b22; --border: #30363d;
+    --text: #c9d1d9; --muted: #8b949e; --accent: #58a6ff;
+    --green: #3fb950; --yellow: #d2991d; --orange: #db6d28; --red: #f85149;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.5; padding: 2rem 1rem; max-width: 1100px; margin: 0 auto; }
+  h1 { font-size: 1.8rem; margin-bottom: 0.25rem; }
+  h2 { font-size: 1.2rem; color: var(--accent); margin: 2rem 0 0.75rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--border); }
+  h3 { font-size: 0.85rem; color: var(--muted); font-weight: normal; margin-bottom: 1.5rem; }
+  .subtitle { color: var(--muted); font-size: 0.9rem; margin-bottom: 0.5rem; }
+  .meta { color: var(--muted); font-size: 0.75rem; margin-bottom: 2rem; }
+  .section { margin-bottom: 1.5rem; }
+  .section-theme { color: var(--muted); font-style: italic; font-size: 0.8rem; margin-bottom: 0.5rem; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+  th { text-align: left; padding: 0.5rem 0.75rem; color: var(--muted); font-weight: 600; font-size: 0.75rem; text-transform: uppercase; border-bottom: 1px solid var(--border); }
+  td { padding: 0.6rem 0.75rem; border-bottom: 1px solid var(--border); vertical-align: middle; }
+  tr:hover { background: rgba(88,166,255,0.04); }
+  .proj-name { font-weight: 600; white-space: nowrap; }
+  .proj-desc { color: var(--muted); font-size: 0.8rem; max-width: 400px; }
+  .badge { display: inline-block; padding: 0.15rem 0.5rem; border-radius: 999px; font-size: 0.7rem; font-weight: 600; }
+  .badge-actif { background: rgba(63,185,80,0.15); color: var(--green); }
+  .badge-validation { background: rgba(210,153,29,0.15); color: var(--yellow); }
+  .badge-proto { background: rgba(88,166,255,0.12); color: var(--accent); }
+  .badge-nouveau { background: rgba(139,148,158,0.12); color: var(--muted); }
+  .badge-archive { background: rgba(248,81,73,0.1); color: var(--red); }
+  .badge-outil { background: rgba(139,148,158,0.08); color: var(--muted); }
+  .bar { height: 5px; background: var(--border); border-radius: 3px; min-width: 60px; overflow: hidden; }
+  .bar-fill { height: 100%; border-radius: 3px; }
+  .bar-high { background: var(--green); }
+  .bar-mid { background: var(--yellow); }
+  .bar-low { background: var(--orange); }
+  .bar-mini { background: var(--accent); }
+  .stats { display: flex; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 1rem; }
+  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 0.75rem 1rem; min-width: 100px; }
+  .stat-val { font-size: 1.3rem; font-weight: 700; }
+  .stat-label { font-size: 0.7rem; color: var(--muted); }
+  .footer { text-align: center; color: var(--muted); font-size: 0.7rem; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--border); }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  @media (max-width: 700px) { .proj-desc { display: none; } td { padding: 0.5rem 0.4rem; } }
+</style>
+</head>
+<body>
+
+<h1>&#955; lambda-Section</h1>
+<p class="subtitle">Portfolio — 55 projets · 13 sections · 2026</p>
+
+<div class="stats">
+  <div class="stat"><div class="stat-val">14</div><div class="stat-label">Projets Actifs</div></div>
+  <div class="stat"><div class="stat-val">3</div><div class="stat-label">En Validation</div></div>
+  <div class="stat"><div class="stat-val">21</div><div class="stat-label">Prototypage</div></div>
+  <div class="stat"><div class="stat-val">4</div><div class="stat-label">Archivés</div></div>
+</div>
+<p class="meta">Dernière mise à jour : 25 Juin 2026 · <a href="https://github.com/Lemniscate-world/kuro-rules/blob/master/Epingle_Projets.md">Source (Epingle_Projets.md)</a></p>
+
+<!-- λ-1: AI -->
+<h2>&#955;-1 &mdash; User Lambda Enter Real AI</h2>
+<p class="section-theme">AI, Réseaux de Neurones</p>
+<table>
+<tr><th>Projet</th><th>Progression</th><th>Statut</th><th>Description</th></tr>
+<tr><td class="proj-name">NeuralDBG</td><td><div class="bar"><div class="bar-fill bar-high" style="width:87%"></div></div>87%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Debugger causal PyTorch · 309 tests · 10 bugs · 3 PRs upstream</td></tr>
+<tr><td class="proj-name">NeuralDBG-Engine</td><td><div class="bar"><div class="bar-fill bar-high" style="width:80%"></div></div>80%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Moteur causal propriétaire · 45 tests · v1.0.0</td></tr>
+<tr><td class="proj-name">Neural-Agent</td><td><div class="bar"><div class="bar-fill bar-low" style="width:15%"></div></div>15%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Auto-correcteur entraînement RN · 87 tests · Pipeline CPU</td></tr>
+<tr><td class="proj-name">Aladin</td><td><div class="bar"><div class="bar-fill bar-mid" style="width:40%"></div></div>40%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Architecture Transformer & recherche LLM</td></tr>
+<tr><td class="proj-name">Astral</td><td><div class="bar"><div class="bar-fill bar-low" style="width:15%"></div></div>15%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Multi-repo intelligence · Data Gravity moat</td></tr>
+<tr><td class="proj-name">DataLint</td><td><div class="bar"><div class="bar-fill bar-low" style="width:15%"></div></div>15%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Gouvernance kuro-rules · 54 projets scannés</td></tr>
+<tr><td class="proj-name">Odin</td><td><div class="bar"><div class="bar-fill bar-low" style="width:10%"></div></div>10%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Fork Open Interpreter · LLM → exécution locale</td></tr>
+<tr><td class="proj-name">NeuroDose</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:5%"></div></div>5%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Cognitive Supplement Tracker</td></tr>
+<tr><td class="proj-name">Aquarium</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:5%"></div></div>5%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">IDE Tauri pour NeuralDBG · MVP dormant</td></tr>
+<tr><td class="proj-name">Damon</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-nouveau">Nouveau</span></td><td class="proj-desc">OS Arch Linux amélioré</td></tr>
+<tr><td class="proj-name">Metatron</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Multi-language debugger · abductive reasoning</td></tr>
+<tr><td class="proj-name">TokenWise</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Analyse coût par tokens · Mom Test</td></tr>
+<tr><td class="proj-name">Prompt2Model</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-validation">Validation</span></td><td class="proj-desc">Génération auto de modèles ML</td></tr>
+<tr><td class="proj-name">Automatons</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Agent orchestration framework</td></tr>
+<tr><td class="proj-name">Onlook</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Visual monitoring / observability</td></tr>
+<tr><td class="proj-name">Verbose</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Logging / communication</td></tr>
+<tr><td class="proj-name" style="color:var(--muted)">Neural-Again</td><td></td><td><span class="badge badge-archive">Archive</span></td><td class="proj-desc">DSL pour RN · Obsolète</td></tr>
+</table>
+
+<!-- λ-2: Quant -->
+<h2>&#955;-2 &mdash; Quant-Search</h2>
+<p class="section-theme">Trading Algorithmique, Modélisation Mathématique</p>
+<table>
+<tr><th>Projet</th><th>Progression</th><th>Statut</th><th>Description</th></tr>
+<tr><td class="proj-name">OpenQuant</td><td><div class="bar"><div class="bar-fill bar-low" style="width:15%"></div></div>15%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Trading quantitatif · MiroFish swarm LLM · 17 tests</td></tr>
+<tr><td class="proj-name">Console</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Outils de trading quantitatifs</td></tr>
+</table>
+
+<!-- λ-3: Hackin Life -->
+<h2>&#955;-3 &mdash; Hackin Life</h2>
+<p class="section-theme">Biohacking, Nootropiques, Sport, Discipline</p>
+<table>
+<tr><th>Projet</th><th>Progression</th><th>Statut</th><th>Description</th></tr>
+<tr><td class="proj-name">EchoX</td><td><div class="bar"><div class="bar-fill bar-mid" style="width:65%"></div></div>65%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">SRS forgetting curves · PyQt6 · 6 tests · Tauri init</td></tr>
+<tr><td class="proj-name">LifeTrack</td><td><div class="bar"><div class="bar-fill bar-low" style="width:15%"></div></div>15%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Habit tracker · Tauri v2 + React · Natif Windows</td></tr>
+<tr><td class="proj-name">Flow-Regulator</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:5%"></div></div>5%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Productivité premium · Pomodoro adaptatif</td></tr>
+<tr><td class="proj-name">Charmed</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:5%"></div></div>5%</td><td><span class="badge badge-proto">Pivot</span></td><td class="proj-desc">Réveil Spotify · ARRÊTÉ</td></tr>
+<tr><td class="proj-name">Thanatos</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Arts martiaux + callisthénie</td></tr>
+</table>
+
+<!-- λ-4: G&S -->
+<h2>&#955;-4 &mdash; G&amp;S Solutions</h2>
+<p class="section-theme">Fintech, Afrique de l'Ouest</p>
+<table>
+<tr><th>Projet</th><th>Progression</th><th>Statut</th><th>Description</th></tr>
+<tr><td class="proj-name">Epure</td><td><div class="bar"><div class="bar-fill bar-low" style="width:20%"></div></div>20%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Cabinet Ingénierie IA · Togo · CAD + Electron</td></tr>
+<tr><td class="proj-name">Hermes</td><td><div class="bar"><div class="bar-fill bar-low" style="width:12%"></div></div>12%</td><td><span class="badge badge-validation">Validation</span></td><td class="proj-desc">Livraisons Grand Lomé · Landing page</td></tr>
+<tr><td class="proj-name">G&amp;S Solutions</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:6%"></div></div>6%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Fintech · mindmapping</td></tr>
+<tr><td class="proj-name">Iroko</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Fintech</td></tr>
+<tr><td class="proj-name">Kapok</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Insurtech</td></tr>
+<tr><td class="proj-name">SOGEXCO</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Solution comptable client</td></tr>
+</table>
+
+<!-- λ-5: Eclipse -->
+<h2>&#955;-5 &mdash; Eclipse</h2>
+<p class="section-theme">Ingénierie Aérospatiale</p>
+<table>
+<tr><th>Projet</th><th>Progression</th><th>Statut</th><th>Description</th></tr>
+<tr><td class="proj-name">Bad Bunny</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Simulation propulseurs de fusées · Rust</td></tr>
+</table>
+
+<!-- λ-7: Helium -->
+<h2>&#955;-7 &mdash; Helium Chain</h2>
+<p class="section-theme">Blockchain, Crypto, Finance Décentralisée</p>
+<table>
+<tr><th>Projet</th><th>Progression</th><th>Statut</th><th>Description</th></tr>
+<tr><td class="proj-name">Helium</td><td><div class="bar"><div class="bar-fill bar-low" style="width:28%"></div></div>28%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Blockchain Rust · 4 crates · MVP complet</td></tr>
+<tr><td class="proj-name">POFS</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Proof of Stake / File System</td></tr>
+</table>
+
+<!-- λ-8: AI8 -->
+<h2>&#955;-8 &mdash; Algorithmic Intelligence 8</h2>
+<p class="section-theme">Algorithmes, Structures de Données</p>
+<table>
+<tr><th>Projet</th><th>Progression</th><th>Statut</th><th>Description</th></tr>
+<tr><td class="proj-name">Dissect</td><td><div class="bar"><div class="bar-fill bar-low" style="width:10%"></div></div>10%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Audit orchestration agents IA · 9 tests</td></tr>
+<tr><td class="proj-name">BloomDB</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:5%"></div></div>5%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Base données probabilistes</td></tr>
+<tr><td class="proj-name">Algoritmi</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Visualisation algorithmes</td></tr>
+</table>
+
+<!-- λ-9: Network Euler -->
+<h2>&#955;-9 &mdash; Network Euler</h2>
+<p class="section-theme">DevOps, Automatisations, MLOps</p>
+<table>
+<tr><th>Projet</th><th>Progression</th><th>Statut</th><th>Description</th></tr>
+<tr><td class="proj-name">Sagittarius</td><td><div class="bar"><div class="bar-fill bar-low" style="width:20%"></div></div>20%</td><td><span class="badge badge-validation">Validation</span></td><td class="proj-desc">MLOps Assistant · 40 jobs scrapés</td></tr>
+<tr><td class="proj-name">KuroGuardian</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:8%"></div></div>8%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Daemon surveillance 24/7 · 21 projets</td></tr>
+<tr><td class="proj-name">lambda-ESN</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Réseau social privé · Slack personnalisé</td></tr>
+</table>
+
+<!-- λ-12: Hypatia -->
+<h2>&#955;-12 &mdash; Hypatia</h2>
+<p class="section-theme">Physique & Mathématiques Avancées</p>
+<table>
+<tr><th>Projet</th><th>Progression</th><th>Statut</th><th>Description</th></tr>
+<tr><td class="proj-name">AEther</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:7%"></div></div>7%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Minkowski Space-Time Visualizer</td></tr>
+<tr><td class="proj-name">Logical Calculus</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Recherche</span></td><td class="proj-desc">Calcul infinitésimal logique</td></tr>
+<tr><td class="proj-name">Project-Dirac</td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Proto</span></td><td class="proj-desc">Physics-inspired computational model</td></tr>
+</table>
+
+<div class="footer">
+  <p>&#955; lambda-Section &copy; 2026 · <a href="https://github.com/Lemniscate-world">GitHub</a> · <a href="https://github.com/Lemniscate-world/kuro-rules/blob/master/Epingle_Projets.md">Source Markdown</a></p>
+</div>
+
+</body>
+</html>
