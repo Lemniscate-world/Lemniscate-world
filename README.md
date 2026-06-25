@@ -15,6 +15,13 @@ Building systems for futures that don't exist yet.
 
 ---
 
+## 🌐 [Portfolio Dashboard →](https://lemniscate-world.github.io/Lemniscate-world/)
+
+> **55 projets · 13 sections · Auto-généré depuis Epingle_Projets.md**
+> Barres de progression, statuts live, design sombre. [Ouvrir le dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+
+---
+
 # lambda-Section Studio Architecture
 
 Operating at the edge of logic, language, and machine. Building systems for futures that do not exist yet.
