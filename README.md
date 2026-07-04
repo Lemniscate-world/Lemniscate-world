@@ -1,4 +1,4 @@
-ï»¿<p align="center">
+<p align="center">
   <img src=https://github.com/user-attachments/assets/9c7d774f-2791-4815-9686-4c670d4c7b1f>
 </p>
 
@@ -15,9 +15,9 @@ Building systems for futures that don't exist yet.
 
 ---
 
-## ðŸŒ [Portfolio Dashboard â†’](https://lemniscate-world.github.io/Lemniscate-world/)
+## ?? [Portfolio Dashboard ?](https://lemniscate-world.github.io/Lemniscate-world/)
 
-> **55 projets Â· 13 sections Â· Auto-gÃ©nÃ©rÃ© depuis Epingle_Projets.md**
+> **55 projets · 13 sections · Auto-généré depuis Epingle_Projets.md**
 > Barres de progression, statuts live, design sombre. [Ouvrir le dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 ---
@@ -51,25 +51,25 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
   <img src=https://github.com/user-attachments/assets/b32ce6f4-ecd7-4040-a538-a78a298882dc>
 </p>
 
-- **[NeuralDBG](https://github.com/LambdaSection/NeuralDBG)** (AI, Neural Networks Debugging) **[v1.3 - Stable Â· PyPI](https://pypi.org/project/neuraldbg/)**
-  Causal inference engine for deep learning training. Explains *why* your model failed â€” not just *when*. 100% detection, 100% localization on public benchmark.
+- **[NeuralDBG](https://github.com/LambdaSection/NeuralDBG)** (AI, Neural Networks Debugging) **[v1.3 - Stable · PyPI](https://pypi.org/project/neuraldbg/)**
+  Causal inference engine for deep learning training. Explains *why* your model failed — not just *when*. 100% detection, 100% localization on public benchmark.
 
 - **[Astral](https://github.com/LambdaSection/Astral)** (Intelligence Platform) **[v1.0 - Stable]**
-  Open-source intelligence platform â€” unified visibility across all repositories. Tracks dependencies, distinguishes human from AI agent activity.
+  Open-source intelligence platform — unified visibility across all repositories. Tracks dependencies, distinguishes human from AI agent activity.
 
 - **[Aquarium](https://github.com/LambdaSection/Aquarium)** (Neural Network IDE) **[Private Beta]**
   Specialized IDE for designing, training, and deploying neural networks with real-time shape propagation and error detection.
 
-- **[Metatron](https://github.com/LambdaSection/Metatron)** (LLM Codegen) **[v1.0 - Stable Â· 5â˜…]**
-  Minimal CLI for controlled LLM codegen: EXPLANATION â†’ CODE â†’ VERIFICATION. "Buy time."
+- **[Metatron](https://github.com/LambdaSection/Metatron)** (LLM Codegen) **[v1.0 - Stable · 5?]**
+  Minimal CLI for controlled LLM codegen: EXPLANATION ? CODE ? VERIFICATION. "Buy time."
 
 - **[Sugar](https://github.com/LambdaSection/Sugar)** (AI Assistant) **[v0.1]**
   Local-first AI assistant connecting Linear, Obsidian, and web via Ollama. Free, private, local.
 
 - **[Datalint](https://github.com/LambdaSection/Datalint)** (Data Validation) **[Stable]**
-  Smart data validation for ML â€” learns rules from clean data to prevent model training failures.
+  Smart data validation for ML — learns rules from clean data to prevent model training failures.
 
-- **[Logos](https://github.com/LambdaSection/Logos)** (Writing Environment) **[Stable Â· 2â˜…]**
+- **[Logos](https://github.com/LambdaSection/Logos)** (Writing Environment) **[Stable · 2?]**
   Intelligent writing environment combining structured thinking methodologies with AI assistance.
 
 - **[Odin](https://github.com/LambdaSection/Odin)** (Graph Visualization) **[Stable]**
@@ -81,7 +81,11 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 - **[Charmed](https://github.com/Lemniscate-world/Charmed)** (Biohacking, UX) **[50% - Actif]**
   Smart Spotify alarm clock. Wake up to your music, not a beep. Desktop and Android.
 
-- **[Dissect](https://github.com/Lemniscate-world/Dissect)** (AI Orchestration) **[8% - Actif]**
+- **[Dissect](https://github.com/Lemniscate-world/Dissect)**
+
+- **[LifeTrack](https://github.com/Lemniscate-world/LifeTrack)** (Habit Tracker) **[v0.2.1 - Active]**
+  Local-first habit tracker with drag-and-drop, streak analytics, chaos detection, and smart stacking. Built with React + Tauri.
+ (AI Orchestration) **[8% - Actif]**
   Audit and visualize AI agent orchestration. Open-source.
 
 ---
