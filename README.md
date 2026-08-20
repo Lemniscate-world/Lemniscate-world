@@ -17,7 +17,7 @@ Building systems for futures that don't exist yet.
 
 ## 🌐 [Portfolio Dashboard →](https://lemniscate-world.github.io/Lemniscate-world/)
 
-> **55 projets · 13 sections · Auto-généré depuis Epingle_Projets.md**
+> **31 projets · 15 sections · Auto-généré depuis Epingle_Projets.md**
 > Barres de progression, statuts live, design sombre. [Ouvrir le dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 ---
@@ -34,14 +34,14 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 | **S-1 User Lambda Enter Real AI** | AI, Neural Networks | [NeuralDBG](https://github.com/LambdaSection/NeuralDBG) (v1.3), [Aquarium](https://github.com/LambdaSection/Aquarium) (Beta), [Neural-Agent](https://github.com/LambdaSection/Neural-Agent) (Beta) |
 | **S-1b Intelligence** | Data, Observability | [Astral](https://github.com/LambdaSection/Astral) (v1.0), [Datalint](https://github.com/LambdaSection/Datalint), [TokenWise](https://github.com/LambdaSection/TokenWise) |
 | **S-1c LLM Tools** | Codegen, Assistants | [Metatron](https://github.com/LambdaSection/Metatron) (v1.0), [Sugar](https://github.com/LambdaSection/Sugar) (v0.1), [Logos](https://github.com/LambdaSection/Logos) |
-| **S-2 Quant-Search** | Algorithmic Trading | OpenQuant (8%), Console (0%) |
-| **S-3 Hackin Life** | Biohacking | Charmed (50%), Echo (5%), NeuroDose (0%) |
-| **S-4 G&S Solutions** | Fintech | G&S Solutions (6%), Iroko (0%), Kapok (0%) |
-| **S-7 Helium Chain** | Blockchain, DeFi | Helium (5%) |
-| **S-8 AI8** | Algorithms | Dissect (8%), BloomDB (5%), [Odin](https://github.com/LambdaSection/Odin) |
-| **S-12 Hypatia** | Physics & Math | [AEther](https://github.com/Lemniscate-world/AEther) (5%) |
-| **S-14 Charles** | BeatMaking, Art | Charles (0%) |
-| **S-15 XCAD** | CAD, Engineering | Epure (0%), Mori (0%) |
+| **S-2 Quant-Search** | Algorithmic Trading | OpenQuant (25%), Console (0%) |
+| **S-3 Hackin Life** | Biohacking | EchoX (65%), LifeTrack (85%), Charmed (5% Pivot), Flow-Regulator (5%) |
+| **S-4 G&S Solutions** | Fintech | Epure (20%), Hermes (12%), G&S Solutions (6%) |
+| **S-7 Helium Chain** | Blockchain, DeFi | Helium (28%) |
+| **S-8 AI8** | Algorithms | Dissect (10%), BloomDB (5%), [Odin](https://github.com/LambdaSection/Odin) (10%) |
+| **S-12 Hypatia** | Physics & Math | [AEther](https://github.com/Lemniscate-world/AEther) (7%) |
+| **S-14 Charles** | BeatMaking, Art | OpenMind (15%), Charles (0%) |
+| **S-15 XCAD** | CAD, Engineering | Epure (20%), Mori (0%) |
 
 ---
 
@@ -75,14 +75,17 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 - **[Odin](https://github.com/LambdaSection/Odin)** (Graph Visualization) **[Stable]**
   Graph visualization tool for exploring relationships, detecting biases, and deepening understanding.
 
-- **[OpenQuant](https://github.com/Lemniscate-world/OpenQuant)** (Quantitative Finance) **[8% - Actif]**
-  Automated quantitative trading grounded in scientific research. Probabilistic Transformer, Markov Regime Detection.
+- **[OpenQuant](https://github.com/Lemniscate-world/OpenQuant)** (Quantitative Finance) **[25% - Actif]**
+  Trading quantitatif avec MiroFish (swarm LLM). 18+ fichiers de test, backtest harness + 1-year Gold validation. v0.3.0-kuro.
 
-- **[Charmed](https://github.com/Lemniscate-world/Charmed)** (Biohacking, UX) **[50% - Actif]**
-  Smart Spotify alarm clock. Wake up to your music, not a beep. Desktop and Android.
+- **[LifeTrack](https://github.com/Lemniscate-world/LifeTrack)** (Biohacking, Quantified Self) **[85% - Actif]**
+  Desktop habit tracker (Tauri v2 + React 19). 559 tests, 14 types de donnees, Ollama AI local, 7-location auto-backup, urge surfing. v0.3.2.
 
-- **[Dissect](https://github.com/Lemniscate-world/Dissect)** (AI Orchestration) **[8% - Actif]**
-  Audit and visualize AI agent orchestration. Open-source.
+- **[Charmed](https://github.com/Lemniscate-world/Charmed)** (Biohacking, UX) **[5% - Pivot]**
+  Smart Spotify alarm clock ARRETE (viabilite remise en cause). Phase recherche nouveau probleme.
+
+- **[Dissect](https://github.com/Lemniscate-world/Dissect)** (AI Orchestration) **[10% - Actif]**
+  Audit and visualize AI agent orchestration. Open-source. 9 tests.
 
 ---
 
