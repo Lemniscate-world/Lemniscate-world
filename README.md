@@ -15,9 +15,9 @@ Building systems for futures that don't exist yet.
 
 ---
 
-## 🌐 [Portfolio Dashboard →](https://lemniscate-world.github.io/Lemniscate-world/)
+## 🌐 [Portfolio Dashboard →](https://lemniscate-world.github.io/Lemniscate-world/) · [![Discord](https://img.shields.io/badge/Discord-lambda--Section-5865F2?logo=discord&logoColor=white)](https://discord.gg/lambda-section)
 
-> **31 projets · 15 sections · Auto-généré depuis Epingle_Projets.md**
+> **60 projets · 14 sections · Auto-généré depuis Epingle_Projets.md**
 > Barres de progression, statuts live, design sombre. [Ouvrir le dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 ---
@@ -31,9 +31,9 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 
 | Section | Domain | Projects |
 |---------|--------|---------|
-| **S-1 User Lambda Enter Real AI** | AI, Neural Networks | [NeuralDBG](https://github.com/LambdaSection/NeuralDBG) (v1.3), [Aquarium](https://github.com/LambdaSection/Aquarium) (Beta), [Neural-Agent](https://github.com/LambdaSection/Neural-Agent) (Beta) |
-| **S-1b Intelligence** | Data, Observability | [Astral](https://github.com/LambdaSection/Astral) (v1.0), [Datalint](https://github.com/LambdaSection/Datalint), [TokenWise](https://github.com/LambdaSection/TokenWise) |
-| **S-1c LLM Tools** | Codegen, Assistants | [Metatron](https://github.com/LambdaSection/Metatron) (v1.0), [Sugar](https://github.com/LambdaSection/Sugar) (v0.1), [Logos](https://github.com/LambdaSection/Logos) |
+| **S-1 User Lambda Enter Real AI** | AI, Neural Networks | [NeuralDBG](https://github.com/LambdaSection/NeuralDBG) (87%), [Aquarium](https://github.com/LambdaSection/Aquarium) (5%), [Neural-Agent](https://github.com/LambdaSection/Neural-Agent) (15%) |
+| **S-1b Intelligence** | Data, Observability | [Astral](https://github.com/LambdaSection/Astral) (15%), [Datalint](https://github.com/LambdaSection/Datalint) (15%), [TokenWise](https://github.com/LambdaSection/TokenWise) (0%) |
+| **S-1c LLM Tools** | Codegen, Assistants | [Metatron](https://github.com/LambdaSection/Metatron) (0%), [Sugar](https://github.com/LambdaSection/Sugar) (0%), [Logos](https://github.com/LambdaSection/Logos) (0%) |
 | **S-2 Quant-Search** | Algorithmic Trading | OpenQuant (25%), Console (0%) |
 | **S-3 Hackin Life** | Biohacking | EchoX (65%), LifeTrack (85%), Charmed (5% Pivot), Flow-Regulator (5%) |
 | **S-4 G&S Solutions** | Fintech | Epure (20%), Hermes (12%), G&S Solutions (6%) |
@@ -41,7 +41,7 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 | **S-8 AI8** | Algorithms | Dissect (10%), BloomDB (5%), [Odin](https://github.com/LambdaSection/Odin) (10%) |
 | **S-12 Hypatia** | Physics & Math | [AEther](https://github.com/Lemniscate-world/AEther) (7%) |
 | **S-14 Charles** | BeatMaking, Art | OpenMind (15%), Charles (0%) |
-| **S-15 XCAD** | CAD, Engineering | Epure (20%), Mori (0%) |
+| **S-15 XCAD** | CAD, Engineering | Epure (0%), Mori (0%) |
 
 ---
 
