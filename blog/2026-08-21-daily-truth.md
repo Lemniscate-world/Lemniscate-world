@@ -6,7 +6,7 @@ projects: 60
 
 # Daily Truth — 2026-08-21
 
-> **60 projets · 2 actifs 7j** · Généré depuis `TRUTH_DAILY.md` + `git log`
+> **60 projets · 3 actifs 7j** · Généré depuis `TRUTH_DAILY.md` + `git log`
 
 ## Faits du jour (TRUTH_DAILY)
 
@@ -40,7 +40,8 @@ projects: 60
 
 ## Projets actifs (7j)
 
-- **NeuralDBG** `f91d07e` 2026-08-21: _docs(ecosystem): add #80 criteria tracker — all governance r_ — 82% Actif (11 commits 30j)
+- **NeuralDBG** `f91d07eb` 2026-08-21: _docs(ecosystem): add #80 criteria tracker â€” all governance_ — 82% Actif (11 commits 30j)
+- **LifeTrack** `4057aa4` 2026-08-21: _feat(plans): ancrage scientifique + revue hebdo + heatmap 8 _ — 85% Actif (132 commits 30j)
 - **Helium** `0430af5` 2026-08-21: _feat(S1): CLI polish R9 compliant - no emojis, colored prefi_ — 33% Actif (5 commits 30j)
 
 ## Verite
