@@ -41,7 +41,7 @@ projects: 60
 ## Projets actifs (7j)
 
 - **NeuralDBG** `f91d07e` 2026-08-21: _docs(ecosystem): add #80 criteria tracker — all governance r_ — 82% Actif (11 commits 30j)
-- **Helium** `0430af5` 2026-08-21: _feat(S1): CLI polish R9 compliant - no emojis, colored prefi_ — 43% Actif (5 commits 30j)
+- **Helium** `0430af5` 2026-08-21: _feat(S1): CLI polish R9 compliant - no emojis, colored prefi_ — 48% Actif (5 commits 30j)
 
 ## Verite
 

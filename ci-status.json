@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T18:27:41+00:00",
+  "generated_at": "2026-08-21T18:39:06+00:00",
   "overall": "red",
   "repos": [
     {
@@ -143,8 +143,8 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32512674261",
-          "updated_at": "2026-08-21T18:19:12Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32514066723",
+          "updated_at": "2026-08-21T18:35:26Z"
         },
         {
           "name": "Metrics",
@@ -305,24 +305,24 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32513394173",
-          "updated_at": "2026-08-21T18:26:59Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32514346373",
+          "updated_at": "2026-08-21T18:38:11Z"
         },
         {
           "name": "Rules Audit",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32513380272",
-          "updated_at": "2026-08-21T18:26:54Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32514346029",
+          "updated_at": "2026-08-21T18:38:14Z"
         },
         {
           "name": "Kuro Rules Compliance",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32513380054",
-          "updated_at": "2026-08-21T18:26:56Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32514345890",
+          "updated_at": "2026-08-21T18:38:16Z"
         },
         {
           "name": "CI Guardian",
