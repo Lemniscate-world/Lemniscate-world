@@ -1,12 +1,12 @@
 ---
 title: "Daily Truth — 2026-08-21"
 date: 2026-08-21
-projects: 61
+projects: 60
 ---
 
 # Daily Truth — 2026-08-21
 
-> **61 projets · 3 actifs 7j** · Généré depuis `TRUTH_DAILY.md` + `git log`
+> **60 projets · 3 actifs 7j** · Généré depuis `TRUTH_DAILY.md` + `git log`
 
 ## Faits du jour (TRUTH_DAILY)
 

@@ -15,7 +15,7 @@ Building systems for futures that don't exist yet.
 
 ---
 
-## 🌐 [Portfolio Dashboard →](https://lemniscate-world.github.io/Lemniscate-world/) · [![Discord](https://img.shields.io/badge/Discord-lambda--Section-5865F2?logo=discord&logoColor=white)](https://discord.gg/lambda-section)
+## 🌐 [Portfolio Dashboard →](https://lemniscate-world.github.io/Lemniscate-world/) · [Mondes →](https://lemniscate-world.github.io/Lemniscate-world/sections/) · [Blog →](https://lemniscate-world.github.io/Lemniscate-world/blog/)
 
 > **60 projets · 14 sections · Auto-généré depuis Epingle_Projets.md**
 > Barres de progression, statuts live, design sombre. [Ouvrir le dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
