@@ -1,0 +1,71 @@
+<!DOCTYPE html><html lang="fr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>λ-Section-3 — Hackin Life — Monde</title>
+<style>:root{--accent:#db6d28;--bg:#1a0f0a}   :root {
+    --bg: #0d1117; --card: #161b22; --border: #30363d;
+    --text: #c9d1d9; --muted: #8b949e; --accent: #58a6ff;
+    --green: #3fb950; --yellow: #d2991d; --orange: #db6d28; --red: #f85149;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { background: var(--bg); color: var(--text); font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.5; padding: 2rem 1rem; max-width: 1100px; margin: 0 auto; }
+  h1 { font-size: 1.8rem; margin-bottom: 0.25rem; }
+  h2 { font-size: 1.2rem; color: var(--accent); margin: 2rem 0 0.75rem; padding-bottom: 0.4rem; border-bottom: 1px solid var(--border); }
+  h3 { font-size: 0.85rem; color: var(--muted); font-weight: normal; margin-bottom: 1.5rem; }
+  .subtitle { color: var(--muted); font-size: 0.9rem; margin-bottom: 0.5rem; }
+  .meta { color: var(--muted); font-size: 0.75rem; margin-bottom: 1rem; }
+  .nav { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-bottom: 1rem; }
+  .nav a { font-size: 0.7rem; padding: 0.2rem 0.5rem; border: 1px solid var(--border); border-radius: 999px; color: var(--muted); text-decoration: none; }
+  .nav a:hover { border-color: var(--accent); color: var(--accent); }
+  .filter-wrap { margin-bottom: 1.2rem; }
+  .filter-wrap input { width: 100%; max-width: 340px; padding: 0.5rem 0.7rem; border-radius: 6px; border: 1px solid var(--border); background: var(--card); color: var(--text); font-size: 0.85rem; }
+  .filter-wrap input::placeholder { color: var(--muted); }
+  .section { margin-bottom: 1.5rem; }
+  .section-theme { color: var(--muted); font-style: italic; font-size: 0.8rem; margin-bottom: 0.5rem; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+  th { text-align: left; padding: 0.5rem 0.75rem; color: var(--muted); font-weight: 600; font-size: 0.75rem; text-transform: uppercase; border-bottom: 1px solid var(--border); }
+  td { padding: 0.6rem 0.75rem; border-bottom: 1px solid var(--border); vertical-align: middle; }
+  tr:hover { background: rgba(88,166,255,0.04); }
+  .proj-name { font-weight: 600; white-space: nowrap; }
+  .proj-name a { color: var(--text); text-decoration: none; }
+  .proj-name a:hover { color: var(--accent); text-decoration: underline; }
+  .proj-desc { color: var(--muted); font-size: 0.8rem; max-width: 400px; }
+  .badge { display: inline-block; padding: 0.15rem 0.5rem; border-radius: 999px; font-size: 0.7rem; font-weight: 600; }
+  .badge-actif { background: rgba(63,185,80,0.15); color: var(--green); }
+  .badge-validation { background: rgba(210,153,29,0.15); color: var(--yellow); }
+  .badge-proto { background: rgba(88,166,255,0.12); color: var(--accent); }
+  .badge-nouveau { background: rgba(139,148,158,0.12); color: var(--muted); }
+  .badge-archive { background: rgba(248,81,73,0.1); color: var(--red); }
+  .badge-outil { background: rgba(139,148,158,0.08); color: var(--muted); }
+  .badge-recherche { background: rgba(139,148,158,0.1); color: var(--muted); }
+  .bar { height: 5px; background: var(--border); border-radius: 3px; min-width: 60px; overflow: hidden; }
+  .bar-fill { height: 100%; border-radius: 3px; }
+  .bar-high { background: var(--green); }
+  .bar-mid { background: var(--yellow); }
+  .bar-low { background: var(--orange); }
+  .bar-mini { background: var(--accent); }
+  .stats { display: flex; gap: 1rem; flex-wrap: wrap; margin-bottom: 1rem; }
+  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 0.75rem 1rem; min-width: 90px; text-align: center; }
+  .stat-val { font-size: 1.3rem; font-weight: 700; }
+  .stat-label { font-size: 0.7rem; color: var(--muted); }
+  .discord { background: var(--card); border: 1px solid var(--border); border-radius: 8px; padding: 1rem; margin-top: 2rem; display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: space-between; }
+  .discord a.btn { background: #5865F2; color: white; padding: 0.5rem 1rem; border-radius: 6px; font-weight: 600; font-size: 0.85rem; text-decoration: none; }
+  .discord a.btn:hover { background: #4752C4; }
+  .footer { text-align: center; color: var(--muted); font-size: 0.7rem; margin-top: 3rem; padding-top: 1rem; border-top: 1px solid var(--border); }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  @media (max-width: 700px) { .proj-desc { display: none; } td { padding: 0.5rem 0.4rem; } }
+ .hero{background:linear-gradient(135deg,var(--bg),var(--card));border:1px solid var(--border);border-radius:12px;padding:1.5rem;margin-bottom:1rem} .hero h1{color:var(--accent)} </style>
+</head><body>
+<p class="meta"><a href="../../">← Portfolio</a> · <a href="../">Mondes</a></p>
+<div class="hero"><div style="font-size:2rem">🧬</div><h1>λ-Section-3 — Hackin Life</h1><p class="section-theme">Biohacking, Nootropiques, Sport, Discipline par Biologie</p><p style="color:var(--muted);font-size:0.85rem">Biohacking, focus, corps & esprit</p></div>
+<div class="stats"><div class="stat"><div class="stat-val">5</div><div class="stat-label">Projets</div></div>
+<div class="stat"><div class="stat-val">32%</div><div class="stat-label">Moyen</div></div>
+<div class="stat"><div class="stat-val">1</div><div class="stat-label">75%+</div></div></div>
+<table><tr><th>Projet</th><th>Progression</th><th>Statut</th><th>Description</th></tr>
+<tr data-search="echox actif srs avec forgetting curves (pyqt6). validation l1 complète ($23.9b marché), gui desktop opérationnelle. 6 tests. structure tauri initialisée. [git:2026-03-07 2737bd6 &quot;feat: establish initial tauri applicatio...&quot;]"><td class="proj-name"><a href="https://github.com/Lemniscate-world/EchoX" target="_blank" rel="noopener">EchoX</a></td><td><div class="bar"><div class="bar-fill bar-mid" style="width:65%"></div></div>65%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">SRS avec forgetting curves (PyQt6). Validation L1 complète ($23.9B marché), GUI desktop opérationnelle. 6 tests. Structure Tauri initialisée. [git:2026-03-07 2737bd6 "feat: Establish initial Tauri applicatio..."]</td></tr>
+<tr data-search="flow-regulator actif environnement de productivité premium avec pomodoro adaptatif, binaural beats, contrôle philips hue et focus mode."><td class="proj-name"><a href="https://github.com/Lemniscate-world/Flow-Regulator" target="_blank" rel="noopener">Flow-Regulator</a></td><td><div class="bar"><div class="bar-fill bar-mini" style="width:5%"></div></div>5%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Environnement de productivité premium avec Pomodoro adaptatif, binaural beats, contrôle Philips Hue et focus mode.</td></tr>
+<tr data-search="charmed pivot projet réveil spotify arrêté (viabilité remise en cause). phase recherche nouveau problème. [git:2026-03-21 163785e &quot;feat: sync 53 strict ai rules including ...&quot;]"><td class="proj-name"><a href="https://github.com/Lemniscate-world/Charmed" target="_blank" rel="noopener">Charmed</a></td><td><div class="bar"><div class="bar-fill bar-mini" style="width:5%"></div></div>5%</td><td><span class="badge badge-recherche">Pivot</span></td><td class="proj-desc">Projet réveil Spotify ARRÊTÉ (viabilité remise en cause). Phase recherche nouveau problème. [git:2026-03-21 163785e "feat: Sync 53 Strict AI Rules including ..."]</td></tr>
+<tr data-search="thanatos prototypage application mobile mixant entraînements arts martiaux et callisthénie."><td class="proj-name"><a href="https://github.com/Lemniscate-world/Thanatos" target="_blank" rel="noopener">Thanatos</a></td><td><div class="bar"><div class="bar-fill bar-mini" style="width:0%"></div></div>0%</td><td><span class="badge badge-proto">Prototypage</span></td><td class="proj-desc">Application mobile mixant entraînements arts martiaux et callisthénie.</td></tr>
+<tr data-search="lifetrack actif desktop habit tracker (tauri v2 + react 19 + typescript). 559 tests, 14 types de donnees, ui pastel. ollama ai local (deep analysis), 7-location auto-backup (dropbox/onedrive/google drive), urge surfing, habit stacking, mood tracking, n=1 experiments. multi-os: windows msi + nsis. v0.3.2. [git:2026-08-21 0ae56d5 &quot;feat(insights->grid): jours planifies ce...&quot;]"><td class="proj-name"><a href="https://github.com/Lemniscate-world/LifeTrack" target="_blank" rel="noopener">LifeTrack</a></td><td><div class="bar"><div class="bar-fill bar-high" style="width:85%"></div></div>85%</td><td><span class="badge badge-actif">Actif</span></td><td class="proj-desc">Desktop habit tracker (Tauri v2 + React 19 + TypeScript). 559 tests, 14 types de donnees, UI pastel. Ollama AI local (Deep Analysis), 7-location auto-backup (Dropbox/OneDrive/Google Drive), urge surfing, habit stacking, mood tracking, N=1 experiments. Multi-OS: Windows MSI + NSIS. v0.3.2. [git:2026-08-21 0ae56d5 "feat(insights->grid): jours planifies ce..."]</td></tr>
+</table>
+<p class="meta">Monde S-3 · Mise a jour 21 Aout 2026 · <a href="../../">Retour portfolio</a></p>
+<div class="footer"><p>λ lambda-Section &copy; 2026</p></div></body></html>
