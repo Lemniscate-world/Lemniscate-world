@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:33:51+00:00",
+  "generated_at": "2026-08-21T18:18:15+00:00",
   "overall": "red",
   "repos": [
     {
@@ -143,8 +143,8 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32508717702",
-          "updated_at": "2026-08-21T17:33:41Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32509033406",
+          "updated_at": "2026-08-21T17:37:05Z"
         },
         {
           "name": "Metrics",
@@ -301,28 +301,36 @@
       "health": "green",
       "workflows": [
         {
-          "name": "CI Guardian",
+          "name": "Kuro",
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32508756991",
-          "updated_at": "2026-08-21T17:33:20Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32512556360",
+          "updated_at": "2026-08-21T18:17:18Z"
         },
         {
           "name": "Kuro Rules Compliance",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32508607547",
-          "updated_at": "2026-08-21T17:31:43Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32512536697",
+          "updated_at": "2026-08-21T18:17:17Z"
         },
         {
           "name": "Rules Audit",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32508607453",
-          "updated_at": "2026-08-21T17:31:43Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32512536633",
+          "updated_at": "2026-08-21T18:17:09Z"
+        },
+        {
+          "name": "CI Guardian",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32508756991",
+          "updated_at": "2026-08-21T17:33:55Z"
         },
         {
           "name": "Auto-Sync Portfolio",
