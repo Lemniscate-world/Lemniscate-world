@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T18:18:15+00:00",
+  "generated_at": "2026-08-21T18:27:41+00:00",
   "overall": "red",
   "repos": [
     {
@@ -143,8 +143,8 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32509033406",
-          "updated_at": "2026-08-21T17:37:05Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32512674261",
+          "updated_at": "2026-08-21T18:19:12Z"
         },
         {
           "name": "Metrics",
@@ -305,24 +305,24 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32512556360",
-          "updated_at": "2026-08-21T18:17:18Z"
-        },
-        {
-          "name": "Kuro Rules Compliance",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32512536697",
-          "updated_at": "2026-08-21T18:17:17Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32513394173",
+          "updated_at": "2026-08-21T18:26:59Z"
         },
         {
           "name": "Rules Audit",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32512536633",
-          "updated_at": "2026-08-21T18:17:09Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32513380272",
+          "updated_at": "2026-08-21T18:26:54Z"
+        },
+        {
+          "name": "Kuro Rules Compliance",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32513380054",
+          "updated_at": "2026-08-21T18:26:56Z"
         },
         {
           "name": "CI Guardian",
