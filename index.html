@@ -10,6 +10,10 @@
 <meta property="og:description" content="60 projets · 14 sections actives · Registre factuel auto-genere">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://lemniscate-world.github.io/Lemniscate-world/">
+<meta property="og:image" content="https://lemniscate-world.github.io/Lemniscate-world/assets/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
 <style>  :root {
     --paper: #faf9f5; --ink: #161513; --muted: #6f6c64;
     --hair: #d9d6cc; --zebra: #f1efe8; --hover: #eae7dd;
@@ -64,6 +68,11 @@
   .footer a { color: var(--ink); text-decoration: none; border-bottom: 1px solid var(--hair); }
   .footer a:hover { border-bottom-color: var(--ink); }
   a { color: inherit; }
+  .quickstarts { margin: 0.4rem 0 1.2rem; }
+  .quickstart { border: 1px solid var(--hair); border-left: 3px solid var(--ink); padding: 0.6rem 0.9rem; margin-bottom: 0.5rem; font-family: var(--mono); font-size: 0.78rem; background: var(--zebra); }
+  .quickstart .qs-title { display: block; color: var(--muted); font-size: 0.66rem; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 0.3rem; }
+  .quickstart a { color: var(--ink); border-bottom: 1px solid var(--hair); }
+  .quickstart a:hover { border-bottom-color: var(--ink); }
   @media (max-width: 700px) { .proj-desc { display: none; } td { padding: 0.5rem 0.4rem; } }
 </style>
 </head>
@@ -87,9 +96,29 @@
 </div>
 <p class="colophon" style="margin:0.7rem 0 1.6rem;">Relevé du 21 Aout 2026 · <a href="https://github.com/Lemniscate-world/kuro-rules/blob/master/Epingle_Projets.md">source : Epingle_Projets.md</a> · <a href="https://github.com/Lemniscate-world/Lemniscate-world">profil GitHub</a> · <a href="blog/">blog</a> · <a href="sections/">mondes</a></p>
 
+<div class="ci-box">
+  <p class="ci-head">Intégration continue</p>
+  <p>Relevé du 2026-08-21 · <span class="ok">28/38 checks verts</span> · 10 check(s) en échec</p>
+  <p><span class="">✕</span> <a href="https://github.com/LambdaSection/Metatron/actions" target="_blank" rel="noopener">LambdaSection/Metatron</a> — Build</p>
+  <p><span class="">✕</span> <a href="https://github.com/LambdaSection/NeuralDBG/actions" target="_blank" rel="noopener">LambdaSection/NeuralDBG</a> — Security Scans (Bandit, Safety & Trivy), Code Quality Review, Kuro Rules Compliance, Pre-commit, pages build and deployment</p>
+  <p><span class="">✕</span> <a href="https://github.com/Lemniscate-world/Lemniscate-world/actions" target="_blank" rel="noopener">Lemniscate-world/Lemniscate-world</a> — Metrics</p>
+  <p><span class="">✕</span> <a href="https://github.com/Lemniscate-world/kuro-rules/actions" target="_blank" rel="noopener">Lemniscate-world/kuro-rules</a> — Truth Daily — Audit factuel + Portfolio, Auto-Sync Portfolio</p>
+  <p><span class="ok">✓</span> <a href="https://github.com/LambdaSection/TokenWise/actions" target="_blank" rel="noopener">LambdaSection/TokenWise</a> — 1 checks</p>
+  <p><span class="ok">✓</span> <a href="https://github.com/Lemniscate-world/LifeTrack/actions" target="_blank" rel="noopener">Lemniscate-world/LifeTrack</a> — 15 checks</p>
+  <p>9 repo(s) sans CI (forks, archives)</p>
+</div>
+
 <nav class="index-nav"><a href="#lambda-section-1-mdash-user-lambda-enter-real-ai">λ-Section-1 — User Lambda Enter Real AI</a><span class="sep">/</span><a href="#lambda-section-2-mdash-quant-search">λ-Section-2 — Quant-Search</a><span class="sep">/</span><a href="#lambda-section-3-mdash-hackin-life">λ-Section-3 — Hackin Life</a><span class="sep">/</span><a href="#lambda-section-4-mdash-g-s-solutions">λ-Section-4 — G&S Solutions</a><span class="sep">/</span><a href="#lambda-section-5-mdash-eclipse">λ-Section-5 — Eclipse</a><span class="sep">/</span><a href="#lambda-section-7-mdash-helium-chain">λ-Section-7 — Helium Chain</a><span class="sep">/</span><a href="#lambda-section-8-mdash-ai8-algorithmic-intelligence-8">λ-Section-8 — AI8 (Algorithmic Intelligence 8)</a><span class="sep">/</span><a href="#lambda-section-9-mdash-network-euler">λ-Section-9 — Network Euler</a><span class="sep">/</span><a href="#lambda-section-11-mdash-saas-x">λ-Section-11 — SaaS X</a><span class="sep">/</span><a href="#lambda-section-12-mdash-hypatia">λ-Section-12 — Hypatia</a><span class="sep">/</span><a href="#lambda-section-13-mdash-dexter-pwn">λ-Section-13 — Dexter.pwn</a><span class="sep">/</span><a href="#lambda-section-14-mdash-charles">λ-Section-14 — Charles</a><span class="sep">/</span><a href="#lambda-section-15-mdash-xcad">λ-Section-15 — XCAD</a><span class="sep">/</span><a href="#projets-tiers-mdash-externes-demeter-labs">Projets Tiers — Externes (Demeter Labs)</a></nav>
 
 <div class="toolbar"><div class="filter"><input type="text" id="filter" placeholder="Filtrer par nom, statut, description..." oninput="filterProjects(this.value)"></div><span class="colophon">60 lignes</span></div>
+<div class="quickstarts">
+  <div class="quickstart"><span class="qs-title">NeuralDBG v1.3 — debugger causal PyTorch · PyPI</span>
+    <code>pip install neuraldbg</code> &nbsp; <a href="https://pypi.org/project/neuraldbg/">PyPI</a> · <a href="https://github.com/LambdaSection/NeuralDBG">source</a>
+  </div>
+  <div class="quickstart"><span class="qs-title">LifeTrack v0.3.2 — habit tracker desktop (Tauri)</span>
+    <a href="https://github.com/Lemniscate-world/LifeTrack/releases">Telecharger (Windows MSI/NSIS)</a> · <a href="https://github.com/Lemniscate-world/LifeTrack">source</a>
+  </div>
+</div>
 
 <!-- &#955;-Section-1 &mdash; User Lambda Enter Real AI -->
 <h2 id="lambda-section-1-mdash-user-lambda-enter-real-ai"><span class="no">01</span>λ-Section-1 — User Lambda Enter Real AI<span class="count">· 21</span></h2>
