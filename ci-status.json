@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:18:35+00:00",
+  "generated_at": "2026-08-21T17:33:51+00:00",
   "overall": "red",
   "repos": [
     {
@@ -143,8 +143,8 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32507212555",
-          "updated_at": "2026-08-21T17:16:11Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32508717702",
+          "updated_at": "2026-08-21T17:33:41Z"
         },
         {
           "name": "Metrics",
@@ -305,24 +305,24 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32507432207",
-          "updated_at": "2026-08-21T17:18:06Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32508756991",
+          "updated_at": "2026-08-21T17:33:20Z"
         },
         {
           "name": "Kuro Rules Compliance",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32507431503",
-          "updated_at": "2026-08-21T17:18:14Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32508607547",
+          "updated_at": "2026-08-21T17:31:43Z"
         },
         {
           "name": "Rules Audit",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32507431501",
-          "updated_at": "2026-08-21T17:18:21Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32508607453",
+          "updated_at": "2026-08-21T17:31:43Z"
         },
         {
           "name": "Auto-Sync Portfolio",
