@@ -237,17 +237,17 @@ Always More is coming soon ...
 
 <!-- CI-GUARDIAN:START auto-généré par kuro-rules/ci_guardian.py — ne pas éditer
 
-## 🔴 CI Guardian — Santé des repos
+## Intégration continue — état des repos
 
-Scan du 2026-08-21T16:21:55+00:00 · **28/38 workflows verts** · 9 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-08-21T17:18:35+00:00 · **30/38 checks verts** · 9 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
 | [LambdaSection/Metatron](https://github.com/LambdaSection/Metatron/actions) | 🔴 | Build |
 | [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🔴 | Security Scans (Bandit, Safety & Trivy), Code Quality Review, Kuro Rules Compliance, Pre-commit, pages build and deployment |
 | [Lemniscate-world/Lemniscate-world](https://github.com/Lemniscate-world/Lemniscate-world/actions) | 🔴 | Metrics |
-| [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🔴 | Truth Daily — Audit factuel + Portfolio, Auto-Sync Portfolio |
 | [LambdaSection/TokenWise](https://github.com/LambdaSection/TokenWise/actions) | 🟢 | 1 workflow(s) OK |
 | [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🟢 | 15 workflow(s) OK |
+| [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🟢 | 5 workflow(s) OK |
 
 <!-- CI-GUARDIAN:END -->

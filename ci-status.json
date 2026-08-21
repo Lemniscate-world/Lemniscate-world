@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:21:55+00:00",
+  "generated_at": "2026-08-21T17:18:35+00:00",
   "overall": "red",
   "repos": [
     {
@@ -48,17 +48,17 @@
           "name": "Security Scans (Bandit, Safety & Trivy)",
           "status": "completed",
           "conclusion": "failure",
-          "attempt": 1,
+          "attempt": 2,
           "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476230224",
-          "updated_at": "2026-08-21T11:13:59Z"
+          "updated_at": "2026-08-21T16:22:17Z"
         },
         {
           "name": "Code Quality Review",
           "status": "completed",
           "conclusion": "failure",
-          "attempt": 1,
+          "attempt": 2,
           "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476230214",
-          "updated_at": "2026-08-21T11:15:17Z"
+          "updated_at": "2026-08-21T16:23:20Z"
         },
         {
           "name": "Codacy",
@@ -80,17 +80,17 @@
           "name": "Kuro Rules Compliance",
           "status": "completed",
           "conclusion": "failure",
-          "attempt": 1,
+          "attempt": 2,
           "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476230084",
-          "updated_at": "2026-08-21T11:13:45Z"
+          "updated_at": "2026-08-21T16:22:00Z"
         },
         {
           "name": "Pre-commit",
           "status": "completed",
           "conclusion": "failure",
-          "attempt": 1,
+          "attempt": 2,
           "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476230049",
-          "updated_at": "2026-08-21T11:15:28Z"
+          "updated_at": "2026-08-21T16:23:44Z"
         },
         {
           "name": "Code Quality: Push on main",
@@ -112,9 +112,9 @@
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "failure",
-          "attempt": 1,
+          "attempt": 2,
           "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476229255",
-          "updated_at": "2026-08-21T11:14:19Z"
+          "updated_at": "2026-08-21T16:22:25Z"
         },
         {
           "name": "Code Quality: Scheduled",
@@ -143,8 +143,8 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32501143098",
-          "updated_at": "2026-08-21T16:06:38Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32507212555",
+          "updated_at": "2026-08-21T17:16:11Z"
         },
         {
           "name": "Metrics",
@@ -153,52 +153,6 @@
           "attempt": 1,
           "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/20940528765",
           "updated_at": "2026-01-13T00:54:46Z"
-        }
-      ]
-    },
-    {
-      "name": "Lemniscate-world/kuro-rules",
-      "health": "red",
-      "workflows": [
-        {
-          "name": "CI Guardian",
-          "status": "in_progress",
-          "conclusion": null,
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32502503491",
-          "updated_at": "2026-08-21T16:21:36Z"
-        },
-        {
-          "name": "Rules Audit",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32502494383",
-          "updated_at": "2026-08-21T16:21:37Z"
-        },
-        {
-          "name": "Kuro Rules Compliance",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32502494318",
-          "updated_at": "2026-08-21T16:21:41Z"
-        },
-        {
-          "name": "Truth Daily — Audit factuel + Portfolio",
-          "status": "completed",
-          "conclusion": "failure",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32501198440",
-          "updated_at": "2026-08-21T16:07:16Z"
-        },
-        {
-          "name": "Auto-Sync Portfolio",
-          "status": "completed",
-          "conclusion": "failure",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32489018360",
-          "updated_at": "2026-08-21T13:52:01Z"
         }
       ]
     },
@@ -341,6 +295,52 @@
           "updated_at": "2026-06-24T15:01:41Z"
         }
       ]
+    },
+    {
+      "name": "Lemniscate-world/kuro-rules",
+      "health": "green",
+      "workflows": [
+        {
+          "name": "CI Guardian",
+          "status": "in_progress",
+          "conclusion": null,
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32507432207",
+          "updated_at": "2026-08-21T17:18:06Z"
+        },
+        {
+          "name": "Kuro Rules Compliance",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32507431503",
+          "updated_at": "2026-08-21T17:18:14Z"
+        },
+        {
+          "name": "Rules Audit",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32507431501",
+          "updated_at": "2026-08-21T17:18:21Z"
+        },
+        {
+          "name": "Auto-Sync Portfolio",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32507193446",
+          "updated_at": "2026-08-21T17:15:33Z"
+        },
+        {
+          "name": "Truth Daily — Audit factuel + Portfolio",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32503651042",
+          "updated_at": "2026-08-21T16:35:45Z"
+        }
+      ]
     }
   ],
   "no_ci": [
@@ -358,56 +358,44 @@
     {
       "repo": "LambdaSection/Metatron",
       "workflow": "Build",
-      "action": "rerun_failed",
-      "detail": "relance jobs échoués (run 22545905912, tentative 1)"
+      "action": "issue_updated",
+      "detail": "issue #3 mise à jour"
     },
     {
       "repo": "LambdaSection/NeuralDBG",
       "workflow": "Security Scans (Bandit, Safety & Trivy)",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32476230224, tentative 1)"
+      "action": "issue_updated",
+      "detail": "issue #673 mise à jour"
     },
     {
       "repo": "LambdaSection/NeuralDBG",
       "workflow": "Code Quality Review",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32476230214, tentative 1)"
+      "action": "issue_updated",
+      "detail": "issue #674 mise à jour"
     },
     {
       "repo": "LambdaSection/NeuralDBG",
       "workflow": "Kuro Rules Compliance",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32476230084, tentative 1)"
+      "action": "issue_updated",
+      "detail": "issue #675 mise à jour"
     },
     {
       "repo": "LambdaSection/NeuralDBG",
       "workflow": "Pre-commit",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32476230049, tentative 1)"
+      "action": "issue_updated",
+      "detail": "issue #676 mise à jour"
     },
     {
       "repo": "LambdaSection/NeuralDBG",
       "workflow": "pages build and deployment",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32476229255, tentative 1)"
+      "action": "issue_updated",
+      "detail": "issue #677 mise à jour"
     },
     {
       "repo": "Lemniscate-world/Lemniscate-world",
       "workflow": "Metrics",
-      "action": "rerun_failed",
-      "detail": "relance jobs échoués (run 20940528765, tentative 1)"
-    },
-    {
-      "repo": "Lemniscate-world/kuro-rules",
-      "workflow": "Truth Daily — Audit factuel + Portfolio",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32501198440, tentative 1)"
-    },
-    {
-      "repo": "Lemniscate-world/kuro-rules",
-      "workflow": "Auto-Sync Portfolio",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32489018360, tentative 1)"
+      "action": "issue_failed",
+      "detail": "création issue impossible"
     }
   ]
 }
