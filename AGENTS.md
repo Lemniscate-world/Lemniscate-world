@@ -36,7 +36,7 @@
 | R69  | Same as R21 - Intelligence Harvester at each milestone. 3+ external sources. |
 | R70  | Landing page via v0.dev - use prompt template in rule_65_66_67_68_70_71_72.md. |
 | R71  | "Cry Test" at session end: log % of users who would lose value if deleted. If 0% x3 -> STRATEGIC REVIEW. |
-| R72  | All UI follows Impeccable Skitt design system (github.com/pbakaus/impeccable). |
+| R72  | All UI follows Impeccable design system (github.com/pbakaus/impeccable) + Ledger Brutal tokens (DESIGN.md). GATE: `npx -y impeccable detect <files>` = 0 issue obligatoire avant tout push UI. Jamais désactiver. |
 ---
 
 ## STARTUP PROJECT GATES (R2 applies; skip if client/verified/personal)
