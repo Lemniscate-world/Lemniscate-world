@@ -37,8 +37,8 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 | **S-2 Quant-Search** | Algorithmic Trading | OpenQuant (29%), Console (0%) |
 | **S-3 Hackin Life** | Biohacking | EchoX (22%), LifeTrack (85%), Charmed (0% Pivot), Flow-Regulator (5%) |
 | **S-4 G&S Solutions** | Fintech | Epure (15%), Hermes (0%), G&S Solutions (6%) |
-| **S-7 Helium Chain** | Blockchain, DeFi | Helium (38%) |
-| **S-8 AI8** | Algorithms | Dissect (25%), BloomDB (0%), [Odin](https://github.com/LambdaSection/Odin) (10%) |
+| **S-7 Helium Chain** | Blockchain, DeFi | Helium (48%) |
+| **S-8 AI8** | Algorithms | Dissect (30%), BloomDB (0%), [Odin](https://github.com/LambdaSection/Odin) (10%) |
 | **S-12 Hypatia** | Physics & Math | [AEther](https://github.com/Lemniscate-world/AEther) (7%) |
 | **S-14 Charles** | BeatMaking, Art | OpenMind (15%), Charles (0%) |
 | **S-15 XCAD** | CAD, Engineering | Epure (5%), Mori (0%) |
@@ -84,7 +84,7 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 - **[Charmed](https://github.com/Lemniscate-world/Charmed)** (Biohacking, UX) **[0% - Pivot]**
   Smart Spotify alarm clock ARRETE (viabilite remise en cause). Phase recherche nouveau probleme.
 
-- **[Dissect](https://github.com/Lemniscate-world/Dissect)** (AI Orchestration) **[25% - Actif]**
+- **[Dissect](https://github.com/Lemniscate-world/Dissect)** (AI Orchestration) **[30% - Actif]**
   Audit and visualize AI agent orchestration. Open-source. 9 tests.
 
 ---
