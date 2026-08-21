@@ -2,12 +2,12 @@
 title: "NeuralDBG — 2026-08-21"
 date: 2026-08-21
 project: NeuralDBG
-pct: 87
+pct: 82
 ---
 
 # NeuralDBG — 2026-08-21
 
-> **87% Actif** · Dernier commit `f91d07e`
+> **82% Actif** · Dernier commit `f91d07e`
 
 **Message:** _docs(ecosystem): add #80 criteria tracker — all governance resolved, community metrics pending_
 
