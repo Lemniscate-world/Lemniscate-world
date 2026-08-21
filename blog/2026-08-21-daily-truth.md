@@ -41,8 +41,8 @@ projects: 61
 ## Projets actifs (7j)
 
 - **NeuralDBG** `f91d07eb` 2026-08-21: _docs(ecosystem): add #80 criteria tracker â€” all governance_ — 87% Actif (11 commits 30j)
-- **LifeTrack** `0ae56d5` 2026-08-21: _feat(insights->grid): jours planifies cercles, stacks rails,_ — 85% Actif (131 commits 30j)
-- **Helium** `0430af5` 2026-08-21: _feat(S1): CLI polish R9 compliant - no emojis, colored prefi_ — 28% Actif (5 commits 30j)
+- **LifeTrack** `4057aa4` 2026-08-21: _feat(plans): ancrage scientifique + revue hebdo + heatmap 8 _ — 85% Actif (132 commits 30j)
+- **Helium** `0430af5` 2026-08-21: _feat(S1): CLI polish R9 compliant - no emojis, colored prefi_ — 23% Actif (5 commits 30j)
 
 ## Verite
 
