@@ -1,0 +1,413 @@
+{
+  "generated_at": "2026-08-21T16:21:55+00:00",
+  "overall": "red",
+  "repos": [
+    {
+      "name": "LambdaSection/Metatron",
+      "health": "red",
+      "workflows": [
+        {
+          "name": "Build",
+          "status": "completed",
+          "conclusion": "failure",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Metatron/actions/runs/22545905912",
+          "updated_at": "2026-03-01T14:57:44Z"
+        }
+      ]
+    },
+    {
+      "name": "LambdaSection/NeuralDBG",
+      "health": "red",
+      "workflows": [
+        {
+          "name": "Build",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476230256",
+          "updated_at": "2026-08-21T11:13:55Z"
+        },
+        {
+          "name": "Qodo Code Review",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476230242",
+          "updated_at": "2026-08-21T11:14:13Z"
+        },
+        {
+          "name": "CI",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476230239",
+          "updated_at": "2026-08-21T11:15:49Z"
+        },
+        {
+          "name": "Security Scans (Bandit, Safety & Trivy)",
+          "status": "completed",
+          "conclusion": "failure",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476230224",
+          "updated_at": "2026-08-21T11:13:59Z"
+        },
+        {
+          "name": "Code Quality Review",
+          "status": "completed",
+          "conclusion": "failure",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476230214",
+          "updated_at": "2026-08-21T11:15:17Z"
+        },
+        {
+          "name": "Codacy",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476230124",
+          "updated_at": "2026-08-21T11:24:30Z"
+        },
+        {
+          "name": "Validation Pipeline (R108)",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476230120",
+          "updated_at": "2026-08-21T11:15:18Z"
+        },
+        {
+          "name": "Kuro Rules Compliance",
+          "status": "completed",
+          "conclusion": "failure",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476230084",
+          "updated_at": "2026-08-21T11:13:45Z"
+        },
+        {
+          "name": "Pre-commit",
+          "status": "completed",
+          "conclusion": "failure",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476230049",
+          "updated_at": "2026-08-21T11:15:28Z"
+        },
+        {
+          "name": "Code Quality: Push on main",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476229280",
+          "updated_at": "2026-08-21T11:14:58Z"
+        },
+        {
+          "name": "Push on main",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476229257",
+          "updated_at": "2026-08-21T11:15:23Z"
+        },
+        {
+          "name": "pages build and deployment",
+          "status": "completed",
+          "conclusion": "failure",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32476229255",
+          "updated_at": "2026-08-21T11:14:19Z"
+        },
+        {
+          "name": "Code Quality: Scheduled",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/31875566022",
+          "updated_at": "2026-08-15T08:53:49Z"
+        },
+        {
+          "name": "Scheduled",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/31875565443",
+          "updated_at": "2026-08-15T08:54:01Z"
+        }
+      ]
+    },
+    {
+      "name": "Lemniscate-world/Lemniscate-world",
+      "health": "red",
+      "workflows": [
+        {
+          "name": "pages build and deployment",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32501143098",
+          "updated_at": "2026-08-21T16:06:38Z"
+        },
+        {
+          "name": "Metrics",
+          "status": "completed",
+          "conclusion": "failure",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/20940528765",
+          "updated_at": "2026-01-13T00:54:46Z"
+        }
+      ]
+    },
+    {
+      "name": "Lemniscate-world/kuro-rules",
+      "health": "red",
+      "workflows": [
+        {
+          "name": "CI Guardian",
+          "status": "in_progress",
+          "conclusion": null,
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32502503491",
+          "updated_at": "2026-08-21T16:21:36Z"
+        },
+        {
+          "name": "Rules Audit",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32502494383",
+          "updated_at": "2026-08-21T16:21:37Z"
+        },
+        {
+          "name": "Kuro Rules Compliance",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32502494318",
+          "updated_at": "2026-08-21T16:21:41Z"
+        },
+        {
+          "name": "Truth Daily — Audit factuel + Portfolio",
+          "status": "completed",
+          "conclusion": "failure",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32501198440",
+          "updated_at": "2026-08-21T16:07:16Z"
+        },
+        {
+          "name": "Auto-Sync Portfolio",
+          "status": "completed",
+          "conclusion": "failure",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32489018360",
+          "updated_at": "2026-08-21T13:52:01Z"
+        }
+      ]
+    },
+    {
+      "name": "LambdaSection/TokenWise",
+      "health": "green",
+      "workflows": [
+        {
+          "name": "Graph Update: pip in /. #1370674251",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/TokenWise/actions/runs/25989113812",
+          "updated_at": "2026-05-17T11:07:07Z"
+        }
+      ]
+    },
+    {
+      "name": "Lemniscate-world/LifeTrack",
+      "health": "green",
+      "workflows": [
+        {
+          "name": "CI",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/30759070615",
+          "updated_at": "2026-08-02T17:32:49Z"
+        },
+        {
+          "name": "github_actions in /. - Update #1499386501",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/30708485672",
+          "updated_at": "2026-08-01T16:36:28Z"
+        },
+        {
+          "name": "npm_and_yarn in / for vite - Update #1479975442",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/30119726924",
+          "updated_at": "2026-07-24T19:10:42Z"
+        },
+        {
+          "name": "npm_and_yarn in / for vite - Update #1475895155",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/29988674581",
+          "updated_at": "2026-07-23T07:36:15Z"
+        },
+        {
+          "name": "cargo in /src-tauri - Update #1472054366",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/29849164318",
+          "updated_at": "2026-07-21T16:35:30Z"
+        },
+        {
+          "name": "cargo in /src-tauri - Update #1460546987",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/29350159420",
+          "updated_at": "2026-07-14T16:34:53Z"
+        },
+        {
+          "name": "cargo in /src-tauri - Update #1451359908",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/28882424287",
+          "updated_at": "2026-07-07T16:35:03Z"
+        },
+        {
+          "name": "github_actions in /. - Update #1443904218",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/28532947666",
+          "updated_at": "2026-07-01T16:38:45Z"
+        },
+        {
+          "name": "cargo in /src-tauri for tauri - Update #1443247198",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/28505270825",
+          "updated_at": "2026-07-01T08:48:23Z"
+        },
+        {
+          "name": "npm_and_yarn in / for vite - Update #1442443372",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/28479019878",
+          "updated_at": "2026-06-30T22:08:53Z"
+        },
+        {
+          "name": "npm_and_yarn in / for @types/node - Update #1442443347",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/28479017760",
+          "updated_at": "2026-06-30T22:08:45Z"
+        },
+        {
+          "name": "cargo in /src-tauri for tauri - Update #1442418975",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/28477804335",
+          "updated_at": "2026-06-30T21:44:09Z"
+        },
+        {
+          "name": "npm_and_yarn in /. - Update #1442039564",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/28460220868",
+          "updated_at": "2026-06-30T16:35:33Z"
+        },
+        {
+          "name": "cargo in /src-tauri - Update #1442039550",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/28460220727",
+          "updated_at": "2026-06-30T16:34:46Z"
+        },
+        {
+          "name": "npm_and_yarn in / for @vitejs/plugin-react - Update #1433933640",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/28108043403",
+          "updated_at": "2026-06-24T15:01:41Z"
+        }
+      ]
+    }
+  ],
+  "no_ci": [
+    "LambdaSection/.github",
+    "LambdaSection/Astral",
+    "LambdaSection/Automatons",
+    "LambdaSection/Cesium",
+    "LambdaSection/Datalint",
+    "LambdaSection/Logos",
+    "LambdaSection/NeuralPaper",
+    "LambdaSection/Odin",
+    "LambdaSection/Sugar"
+  ],
+  "actions": [
+    {
+      "repo": "LambdaSection/Metatron",
+      "workflow": "Build",
+      "action": "rerun_failed",
+      "detail": "relance jobs échoués (run 22545905912, tentative 1)"
+    },
+    {
+      "repo": "LambdaSection/NeuralDBG",
+      "workflow": "Security Scans (Bandit, Safety & Trivy)",
+      "action": "rerun_triggered",
+      "detail": "relance jobs échoués (run 32476230224, tentative 1)"
+    },
+    {
+      "repo": "LambdaSection/NeuralDBG",
+      "workflow": "Code Quality Review",
+      "action": "rerun_triggered",
+      "detail": "relance jobs échoués (run 32476230214, tentative 1)"
+    },
+    {
+      "repo": "LambdaSection/NeuralDBG",
+      "workflow": "Kuro Rules Compliance",
+      "action": "rerun_triggered",
+      "detail": "relance jobs échoués (run 32476230084, tentative 1)"
+    },
+    {
+      "repo": "LambdaSection/NeuralDBG",
+      "workflow": "Pre-commit",
+      "action": "rerun_triggered",
+      "detail": "relance jobs échoués (run 32476230049, tentative 1)"
+    },
+    {
+      "repo": "LambdaSection/NeuralDBG",
+      "workflow": "pages build and deployment",
+      "action": "rerun_triggered",
+      "detail": "relance jobs échoués (run 32476229255, tentative 1)"
+    },
+    {
+      "repo": "Lemniscate-world/Lemniscate-world",
+      "workflow": "Metrics",
+      "action": "rerun_failed",
+      "detail": "relance jobs échoués (run 20940528765, tentative 1)"
+    },
+    {
+      "repo": "Lemniscate-world/kuro-rules",
+      "workflow": "Truth Daily — Audit factuel + Portfolio",
+      "action": "rerun_triggered",
+      "detail": "relance jobs échoués (run 32501198440, tentative 1)"
+    },
+    {
+      "repo": "Lemniscate-world/kuro-rules",
+      "workflow": "Auto-Sync Portfolio",
+      "action": "rerun_triggered",
+      "detail": "relance jobs échoués (run 32489018360, tentative 1)"
+    }
+  ]
+}
