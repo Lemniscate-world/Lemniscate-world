@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T05:16:26+00:00",
+  "generated_at": "2026-08-22T09:28:20+00:00",
   "overall": "red",
   "repos": [
     {
@@ -7,12 +7,20 @@
       "health": "red",
       "workflows": [
         {
+          "name": "CodeQL Setup",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Metatron/actions/runs/32563709121",
+          "updated_at": "2026-08-22T09:00:22Z"
+        },
+        {
           "name": "Build",
           "status": "completed",
           "conclusion": "failure",
-          "attempt": 1,
+          "attempt": 2,
           "url": "https://github.com/LambdaSection/Metatron/actions/runs/32535158737",
-          "updated_at": "2026-08-21T22:59:23Z"
+          "updated_at": "2026-08-22T05:16:34Z"
         }
       ]
     },
@@ -20,6 +28,22 @@
       "name": "LambdaSection/NeuralDBG",
       "health": "red",
       "workflows": [
+        {
+          "name": "Kuro Rules Compliance",
+          "status": "completed",
+          "conclusion": "failure",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32562498873",
+          "updated_at": "2026-08-22T08:31:19Z"
+        },
+        {
+          "name": "Validation Pipeline (R108)",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32557674212",
+          "updated_at": "2026-08-22T06:44:36Z"
+        },
         {
           "name": "Graph Update: pip in /. #1535913508",
           "status": "completed",
@@ -56,25 +80,17 @@
           "name": "Security Scans (Bandit, Safety & Trivy)",
           "status": "completed",
           "conclusion": "failure",
-          "attempt": 1,
+          "attempt": 2,
           "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32537170803",
-          "updated_at": "2026-08-21T23:32:10Z"
+          "updated_at": "2026-08-22T05:16:36Z"
         },
         {
           "name": "Code Quality Review",
           "status": "completed",
           "conclusion": "failure",
-          "attempt": 1,
+          "attempt": 2,
           "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32537170801",
-          "updated_at": "2026-08-21T23:34:05Z"
-        },
-        {
-          "name": "Kuro Rules Compliance",
-          "status": "completed",
-          "conclusion": "failure",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32537170779",
-          "updated_at": "2026-08-21T23:31:42Z"
+          "updated_at": "2026-08-22T05:17:32Z"
         },
         {
           "name": "Build",
@@ -93,14 +109,6 @@
           "updated_at": "2026-08-21T23:33:44Z"
         },
         {
-          "name": "Validation Pipeline (R108)",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32537170761",
-          "updated_at": "2026-08-21T23:33:09Z"
-        },
-        {
           "name": "CI",
           "status": "completed",
           "conclusion": "success",
@@ -112,9 +120,9 @@
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "failure",
-          "attempt": 1,
+          "attempt": 2,
           "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32537170568",
-          "updated_at": "2026-08-21T23:32:31Z"
+          "updated_at": "2026-08-22T05:16:42Z"
         },
         {
           "name": "Code Quality: Push on main",
@@ -135,16 +143,136 @@
       ]
     },
     {
+      "name": "LambdaSection/Astral",
+      "health": "green",
+      "workflows": [
+        {
+          "name": "CodeQL Setup",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Astral/actions/runs/32563703584",
+          "updated_at": "2026-08-22T09:00:18Z"
+        }
+      ]
+    },
+    {
+      "name": "LambdaSection/Automatons",
+      "health": "green",
+      "workflows": [
+        {
+          "name": "CodeQL Setup",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Automatons/actions/runs/32563704675",
+          "updated_at": "2026-08-22T09:00:06Z"
+        }
+      ]
+    },
+    {
+      "name": "LambdaSection/Datalint",
+      "health": "green",
+      "workflows": [
+        {
+          "name": "CodeQL Setup",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Datalint/actions/runs/32563706454",
+          "updated_at": "2026-08-22T08:59:54Z"
+        }
+      ]
+    },
+    {
+      "name": "LambdaSection/Logos",
+      "health": "green",
+      "workflows": [
+        {
+          "name": "CodeQL Setup",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Logos/actions/runs/32563707536",
+          "updated_at": "2026-08-22T09:00:20Z"
+        }
+      ]
+    },
+    {
+      "name": "LambdaSection/NeuralPaper",
+      "health": "green",
+      "workflows": [
+        {
+          "name": "CodeQL Setup",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralPaper/actions/runs/32563710986",
+          "updated_at": "2026-08-22T09:00:25Z"
+        }
+      ]
+    },
+    {
+      "name": "LambdaSection/Odin",
+      "health": "green",
+      "workflows": [
+        {
+          "name": "CodeQL Setup",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Odin/actions/runs/32563712550",
+          "updated_at": "2026-08-22T09:00:24Z"
+        }
+      ]
+    },
+    {
+      "name": "LambdaSection/Sugar",
+      "health": "green",
+      "workflows": [
+        {
+          "name": "CodeQL Setup",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Sugar/actions/runs/32563713940",
+          "updated_at": "2026-08-22T09:00:34Z"
+        }
+      ]
+    },
+    {
+      "name": "LambdaSection/TokenWise",
+      "health": "green",
+      "workflows": [
+        {
+          "name": "CodeQL Setup",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/TokenWise/actions/runs/32563715643",
+          "updated_at": "2026-08-22T09:00:10Z"
+        }
+      ]
+    },
+    {
       "name": "Lemniscate-world/Lemniscate-world",
       "health": "green",
       "workflows": [
+        {
+          "name": "CodeQL Setup",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32563718730",
+          "updated_at": "2026-08-22T08:59:57Z"
+        },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32527127492",
-          "updated_at": "2026-08-21T21:10:03Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32553929853",
+          "updated_at": "2026-08-22T05:17:35Z"
         }
       ]
     },
@@ -152,6 +280,14 @@
       "name": "Lemniscate-world/LifeTrack",
       "health": "green",
       "workflows": [
+        {
+          "name": "CodeQL Setup",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/32563719839",
+          "updated_at": "2026-08-22T09:01:25Z"
+        },
         {
           "name": "CI",
           "status": "completed",
@@ -219,24 +355,40 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32553863326",
-          "updated_at": "2026-08-22T05:15:20Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32564996422",
+          "updated_at": "2026-08-22T09:27:41Z"
         },
         {
           "name": "Kuro Rules Compliance",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32534274874",
-          "updated_at": "2026-08-21T22:45:43Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32564711978",
+          "updated_at": "2026-08-22T09:21:21Z"
         },
         {
           "name": "Rules Audit",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32534274841",
-          "updated_at": "2026-08-21T22:45:40Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32564711932",
+          "updated_at": "2026-08-22T09:21:20Z"
+        },
+        {
+          "name": "Push on master",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32564711415",
+          "updated_at": "2026-08-22T09:22:34Z"
+        },
+        {
+          "name": "CodeQL Setup",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32563717566",
+          "updated_at": "2026-08-22T09:00:43Z"
         },
         {
           "name": "CI Guardian",
@@ -267,46 +419,38 @@
   ],
   "no_ci": [
     "LambdaSection/.github",
-    "LambdaSection/Astral",
-    "LambdaSection/Automatons",
-    "LambdaSection/Cesium",
-    "LambdaSection/Datalint",
-    "LambdaSection/Logos",
-    "LambdaSection/NeuralPaper",
-    "LambdaSection/Odin",
-    "LambdaSection/Sugar",
-    "LambdaSection/TokenWise"
+    "LambdaSection/Cesium"
   ],
   "actions": [
     {
       "repo": "LambdaSection/Metatron",
       "workflow": "Build",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32535158737, tentative 1)"
-    },
-    {
-      "repo": "LambdaSection/NeuralDBG",
-      "workflow": "Security Scans (Bandit, Safety & Trivy)",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32537170803, tentative 1)"
-    },
-    {
-      "repo": "LambdaSection/NeuralDBG",
-      "workflow": "Code Quality Review",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32537170801, tentative 1)"
+      "action": "issue_updated",
+      "detail": "issue #3 mise à jour"
     },
     {
       "repo": "LambdaSection/NeuralDBG",
       "workflow": "Kuro Rules Compliance",
       "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32537170779, tentative 1)"
+      "detail": "relance jobs échoués (run 32562498873, tentative 1)"
+    },
+    {
+      "repo": "LambdaSection/NeuralDBG",
+      "workflow": "Security Scans (Bandit, Safety & Trivy)",
+      "action": "issue_updated",
+      "detail": "issue #673 mise à jour"
+    },
+    {
+      "repo": "LambdaSection/NeuralDBG",
+      "workflow": "Code Quality Review",
+      "action": "issue_updated",
+      "detail": "issue #674 mise à jour"
     },
     {
       "repo": "LambdaSection/NeuralDBG",
       "workflow": "pages build and deployment",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32537170568, tentative 1)"
+      "action": "issue_updated",
+      "detail": "issue #677 mise à jour"
     }
   ]
 }
