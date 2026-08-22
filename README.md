@@ -239,15 +239,14 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-08-21T21:09:02+00:00 · **31/39 checks verts** · 9 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-08-22T05:16:26+00:00 · **23/29 checks verts** · 10 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
 | [LambdaSection/Metatron](https://github.com/LambdaSection/Metatron/actions) | 🔴 | Build |
-| [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🔴 | Security Scans (Bandit, Safety & Trivy), Code Quality Review, Kuro Rules Compliance, Pre-commit, pages build and deployment |
-| [Lemniscate-world/Lemniscate-world](https://github.com/Lemniscate-world/Lemniscate-world/actions) | 🔴 | Metrics |
-| [LambdaSection/TokenWise](https://github.com/LambdaSection/TokenWise/actions) | 🟢 | 1 workflow(s) OK |
-| [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🟢 | 15 workflow(s) OK |
+| [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🔴 | Security Scans (Bandit, Safety & Trivy), Code Quality Review, Kuro Rules Compliance, pages build and deployment |
+| [Lemniscate-world/Lemniscate-world](https://github.com/Lemniscate-world/Lemniscate-world/actions) | 🟢 | 1 workflow(s) OK |
+| [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🟢 | 7 workflow(s) OK |
 | [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🟢 | 6 workflow(s) OK |
 
 <!-- CI-GUARDIAN:END -->
