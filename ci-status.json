@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T12:28:30+00:00",
+  "generated_at": "2026-08-22T12:40:53+00:00",
   "overall": "red",
   "repos": [
     {
@@ -263,16 +263,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32571191651",
-          "updated_at": "2026-08-22T11:47:12Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32573102211",
+          "updated_at": "2026-08-22T12:29:45Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32571191277",
-          "updated_at": "2026-08-22T11:47:16Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32573102011",
+          "updated_at": "2026-08-22T12:29:33Z"
         },
         {
           "name": "CodeQL Setup",
@@ -363,8 +363,16 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32573049291",
-          "updated_at": "2026-08-22T12:27:50Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32573620283",
+          "updated_at": "2026-08-22T12:40:25Z"
+        },
+        {
+          "name": "Push on master",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32573101464",
+          "updated_at": "2026-08-22T12:30:26Z"
         },
         {
           "name": "Rules Audit",
@@ -381,14 +389,6 @@
           "attempt": 1,
           "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32573031462",
           "updated_at": "2026-08-22T12:27:33Z"
-        },
-        {
-          "name": "Push on master",
-          "status": "in_progress",
-          "conclusion": null,
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32573030962",
-          "updated_at": "2026-08-22T12:27:27Z"
         },
         {
           "name": "CodeQL",
@@ -413,14 +413,6 @@
           "attempt": 1,
           "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32508756991",
           "updated_at": "2026-08-21T17:33:55Z"
-        },
-        {
-          "name": "Auto-Sync Portfolio",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32507193446",
-          "updated_at": "2026-08-21T17:15:33Z"
         }
       ]
     }
