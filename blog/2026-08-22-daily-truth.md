@@ -18,9 +18,9 @@ projects: 60
 
 | Projet | Dernier commit | Branche | Tests | LOC | 30j | Dirty |
 |--------|---------------|---------|-------|-----|-----|-------|
+| **NeuralDBG** | 2026-08-22 `b0122d0` feat(community): growth infrastructure (P1) — gree | main | 0 (0 funcs) | 0 | 14 |  |
 | **Helium** | 2026-08-21 `0430af5` feat(S1): CLI polish R9 compliant - no emojis, col | main | 0 (0 funcs) | 0 | 5 |  |
 | **Metatron** | 2026-08-21 `9db1875` chore: retrait GAD.md (retire du systeme Kuro) | main | 0 (0 funcs) | 0 | 1 |  |
-| **NeuralDBG** | 2026-08-21 `6c21124` chore(quality): P0.4-P0.6 README quickstart UX fix | main | 0 (0 funcs) | 0 | 13 |  |
 | **Neural-Agent** | 2026-08-08 `b5df6e1` model: v5 LoRA adapter retrained (93.7%) | master | 0 (0 funcs) | 0 | 2 |  |
 | **LifeTrack** | 2026-08-02 `98481cc` feat: adaptive challenges + local psychoanalysis + | master | 0 (0 funcs) | 0 | 31 |  |
 | **Aquarium** | 2026-07-19 `06db523` chore: gitignore private files (R76 compliance) | main | 0 (0 funcs) | 0 | 0 |  |
@@ -40,8 +40,8 @@ projects: 60
 
 ## Projets actifs (7j)
 
-- **NeuralDBG** `6c21124` 2026-08-21: _chore(quality): P0.4-P0.6 README quickstart UX fix, honest p_ — 82% Actif (13 commits 30j)
-- **Metatron** `9db1875` 2026-08-21: _chore: retrait GAD.md (retire du systeme Kuro)_ — 10% Prototypage (1 commits 30j)
+- **NeuralDBG** `b0122d0` 2026-08-22: _feat(community): growth infrastructure (P1) — greet, labeler_ — 82% Actif (14 commits 30j)
+- **Metatron** `9db1875` 2026-08-21: _chore: retrait GAD.md (retire du systeme Kuro)_ — 15% Prototypage (1 commits 30j)
 - **Helium** `0430af5` 2026-08-21: _feat(S1): CLI polish R9 compliant - no emojis, colored prefi_ — 48% Actif (5 commits 30j)
 
 ## Verite

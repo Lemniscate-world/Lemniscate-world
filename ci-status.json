@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:46:31+00:00",
+  "generated_at": "2026-08-22T12:28:30+00:00",
   "overall": "red",
   "repos": [
     {
@@ -32,17 +32,17 @@
           "name": "Kuro Rules Compliance",
           "status": "completed",
           "conclusion": "failure",
-          "attempt": 1,
+          "attempt": 2,
           "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32570774690",
-          "updated_at": "2026-08-22T11:37:29Z"
+          "updated_at": "2026-08-22T11:46:38Z"
         },
         {
           "name": "Codacy",
-          "status": "in_progress",
-          "conclusion": null,
+          "status": "completed",
+          "conclusion": "success",
           "attempt": 1,
           "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32570774674",
-          "updated_at": "2026-08-22T11:37:21Z"
+          "updated_at": "2026-08-22T11:46:51Z"
         },
         {
           "name": "Qodo Code Review",
@@ -72,9 +72,9 @@
           "name": "Security Scans (Bandit, Safety & Trivy)",
           "status": "completed",
           "conclusion": "failure",
-          "attempt": 1,
+          "attempt": 2,
           "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32570774662",
-          "updated_at": "2026-08-22T11:38:25Z"
+          "updated_at": "2026-08-22T11:46:49Z"
         },
         {
           "name": "Build",
@@ -120,9 +120,9 @@
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "failure",
-          "attempt": 1,
+          "attempt": 2,
           "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/32570774175",
-          "updated_at": "2026-08-22T11:37:56Z"
+          "updated_at": "2026-08-22T11:46:56Z"
         },
         {
           "name": "Graph Update: pip in /. #1535913508",
@@ -263,16 +263,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32570074642",
-          "updated_at": "2026-08-22T11:22:32Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32571191651",
+          "updated_at": "2026-08-22T11:47:12Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32570074149",
-          "updated_at": "2026-08-22T11:22:26Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/32571191277",
+          "updated_at": "2026-08-22T11:47:16Z"
         },
         {
           "name": "CodeQL Setup",
@@ -363,32 +363,32 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32571170844",
-          "updated_at": "2026-08-22T11:46:09Z"
-        },
-        {
-          "name": "Kuro Rules Compliance",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32570411425",
-          "updated_at": "2026-08-22T11:29:31Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32573049291",
+          "updated_at": "2026-08-22T12:27:50Z"
         },
         {
           "name": "Rules Audit",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32570411393",
-          "updated_at": "2026-08-22T11:29:32Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32573031484",
+          "updated_at": "2026-08-22T12:27:31Z"
         },
         {
-          "name": "Push on master",
+          "name": "Kuro Rules Compliance",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32570410906",
-          "updated_at": "2026-08-22T11:30:51Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32573031462",
+          "updated_at": "2026-08-22T12:27:33Z"
+        },
+        {
+          "name": "Push on master",
+          "status": "in_progress",
+          "conclusion": null,
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/32573030962",
+          "updated_at": "2026-08-22T12:27:27Z"
         },
         {
           "name": "CodeQL",
@@ -439,20 +439,20 @@
     {
       "repo": "LambdaSection/NeuralDBG",
       "workflow": "Kuro Rules Compliance",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32570774690, tentative 1)"
+      "action": "issue_updated",
+      "detail": "issue #675 mise à jour"
     },
     {
       "repo": "LambdaSection/NeuralDBG",
       "workflow": "Security Scans (Bandit, Safety & Trivy)",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32570774662, tentative 1)"
+      "action": "issue_updated",
+      "detail": "issue #673 mise à jour"
     },
     {
       "repo": "LambdaSection/NeuralDBG",
       "workflow": "pages build and deployment",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 32570774175, tentative 1)"
+      "action": "issue_updated",
+      "detail": "issue #677 mise à jour"
     }
   ]
 }
