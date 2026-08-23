@@ -18,7 +18,7 @@ projects: 60
 
 | Projet | Dernier commit | Branche | Tests | LOC | 30j | Dirty |
 |--------|---------------|---------|-------|-----|-----|-------|
-| **OpenQuant** | 2026-08-23 `3f83256` feat(ops): lot #1-#5,#9 + voix française — sécurit | main | 0 (0 funcs) | 0 | 17 |  |
+| **OpenQuant** | 2026-08-23 `a81e007` ci: build.yml en manuel uniquement (script build s | main | 0 (0 funcs) | 0 | 36 |  |
 | **NeuralDBG** | 2026-08-22 `b0122d0` feat(community): growth infrastructure (P1) — gree | main | 0 (0 funcs) | 0 | 14 |  |
 | **Helium** | 2026-08-21 `0430af5` feat(S1): CLI polish R9 compliant - no emojis, col | main | 0 (0 funcs) | 0 | 5 |  |
 | **Metatron** | 2026-08-21 `9db1875` chore: retrait GAD.md (retire du systeme Kuro) | main | 0 (0 funcs) | 0 | 1 |  |
@@ -42,7 +42,7 @@ projects: 60
 
 - **NeuralDBG** `b0122d0` 2026-08-22: _feat(community): growth infrastructure (P1) — greet, labeler_ — 82% Actif (14 commits 30j)
 - **Metatron** `9db1875` 2026-08-21: _chore: retrait GAD.md (retire du systeme Kuro)_ — 20% Prototypage (1 commits 30j)
-- **OpenQuant** `3f83256` 2026-08-23: _feat(ops): lot #1-#5,#9 + voix française — sécurité réelleme_ — 34% Actif (17 commits 30j)
+- **OpenQuant** `a81e007` 2026-08-23: _ci: build.yml en manuel uniquement (script build supprime, b_ — 39% Actif (36 commits 30j)
 - **Helium** `0430af5` 2026-08-21: _feat(S1): CLI polish R9 compliant - no emojis, colored prefi_ — 48% Actif (5 commits 30j)
 
 ## Verite
