@@ -251,11 +251,11 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-08-23T21:22:49+00:00 · **31/38 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-08-23T21:47:28+00:00 · **35/38 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
-| [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🔴 | Kuro Rules Compliance |
+| [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🔴 | Pre-commit, Kuro Rules Compliance |
 | [LambdaSection/Astral](https://github.com/LambdaSection/Astral/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Automatons](https://github.com/LambdaSection/Automatons/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Datalint](https://github.com/LambdaSection/Datalint/actions) | 🟢 | 1 workflow(s) OK |
