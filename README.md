@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src=https://github.com/user-attachments/assets/9c7d774f-2791-4815-9686-4c670d4c7b1f>
 </p>
 
@@ -110,6 +110,18 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 ---
 
 # Skills & Computer Languages
+
+<!-- KURO-SKILLS:START -->
+_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-08-23_
+
+- **Python** `█████████░` **90%** — 37 repo(s) · 319 commits 90j · CI 75% vert
+- **JavaScript** `██████░░░░` **65%** — 10 repo(s) · 233 commits 90j · CI 0% vert
+- **TypeScript** `██████░░░░` **55%** — 10 repo(s) · 192 commits 90j · CI 100% vert
+- **GitHub Actions** 🆕 `█████░░░░░` **50%** — 15 repo(s) · 443 commits 90j · CI 67% vert
+- **HTML** `█████░░░░░` **50%** — 12 repo(s) · 402 commits 90j · CI 50% vert
+- **CSS** `████░░░░░░` **45%** — 11 repo(s) · 401 commits 90j · CI 67% vert
+- _+ 30 autres : Pytest, NumPy, PyTorch, PowerShell, Vite, Docker, Shell, React, Rust, Vitest, Tailwind, FastAPI, Pandas, SciPy, Transformers, Plotly, Statsmodels, Streamlit, SQL, Selenium, Vercel, Flask, Kotlin, LangChain, Next.js, Optuna, TensorFlow, scikit-learn, Electron, Nginx_
+<!-- KURO-SKILLS:END -->
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,ts,replit,react,qt,pnpm,npm,flask,latex,github,linux,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,md,debian,docker,githubactions,linkedin,obsidian,pytorch,js,haskell,electron,nextjs,c,dart,flutter,vite,r,fastapi,kali,nginx,scala,supabase,tailwind&perline=30)](https://skillicons.dev)
 
