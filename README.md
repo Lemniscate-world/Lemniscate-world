@@ -114,13 +114,22 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 <!-- KURO-SKILLS:START -->
 _Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-08-23_
 
-- **Python** `█████████░` **90%** — 37 repo(s) · 319 commits 90j · CI 75% vert
-- **JavaScript** `██████░░░░` **65%** — 10 repo(s) · 233 commits 90j · CI 0% vert
-- **TypeScript** `██████░░░░` **55%** — 10 repo(s) · 192 commits 90j · CI 100% vert
-- **GitHub Actions** 🆕 `█████░░░░░` **50%** — 15 repo(s) · 443 commits 90j · CI 67% vert
-- **HTML** `█████░░░░░` **50%** — 12 repo(s) · 402 commits 90j · CI 50% vert
-- **CSS** `████░░░░░░` **45%** — 11 repo(s) · 401 commits 90j · CI 67% vert
-- _+ 30 autres : Pytest, NumPy, PyTorch, PowerShell, Vite, Docker, Shell, React, Rust, Vitest, Tailwind, FastAPI, Pandas, SciPy, Transformers, Plotly, Statsmodels, Streamlit, SQL, Selenium, Vercel, Flask, Kotlin, LangChain, Next.js, Optuna, TensorFlow, scikit-learn, Electron, Nginx_
+- **Python** `██████░░░░` **55%** — 14 repo(s) · 140 commits 90j · CI 100% vert
+- **CSS** `███░░░░░░░` **30%** — 7 repo(s) · 107 commits 90j · CI 100% vert
+- **GitHub Actions** 🆕 `███░░░░░░░` **30%** — 6 repo(s) · 152 commits 90j · CI 100% vert
+- **Pytest** `███░░░░░░░` **30%** — 6 repo(s) · 122 commits 90j · CI 100% vert
+- **TypeScript** `███░░░░░░░` **30%** — 4 repo(s) · 50 commits 90j · CI 100% vert
+- **HTML** `██░░░░░░░░` **25%** — 6 repo(s) · 107 commits 90j · CI 100% vert
+- **PyTorch** `██░░░░░░░░` **25%** — 4 repo(s) · 126 commits 90j · CI 100% vert
+- **Docker** `██░░░░░░░░` **25%** — 2 repo(s) · 100 commits 90j · CI 100% vert
+- **NumPy** `██░░░░░░░░` **25%** — 2 repo(s) · 100 commits 90j · CI 100% vert
+- **JavaScript** `██░░░░░░░░` **20%** — 4 repo(s) · 59 commits 90j · CI 100% vert
+- **PowerShell** `██░░░░░░░░` **20%** — 3 repo(s) · 105 commits 90j · CI 100% vert
+- **React** `██░░░░░░░░` **20%** — 3 repo(s) · 50 commits 90j · CI 100% vert
+- **Vite** `██░░░░░░░░` **20%** — 3 repo(s) · 50 commits 90j · CI 100% vert
+- **FastAPI** `██░░░░░░░░` **20%** — 2 repo(s) · 50 commits 90j
+- **LangChain** `██░░░░░░░░` **20%** — 2 repo(s) · 50 commits 90j
+- _+ 16 autres : Transformers, Flask, Optuna, Pandas, Plotly, SciPy, Selenium, Statsmodels, Streamlit, TensorFlow, Vitest, scikit-learn, Rust, Tailwind, Shell, Next.js_
 <!-- KURO-SKILLS:END -->
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,tensorflow,git,bash,d3,css,ts,replit,react,qt,pnpm,npm,flask,latex,github,linux,py,regex,svg,ubuntu,twitter,vercel,vscode,windows,md,debian,docker,githubactions,linkedin,obsidian,pytorch,js,haskell,electron,nextjs,c,dart,flutter,vite,r,fastapi,kali,nginx,scala,supabase,tailwind&perline=30)](https://skillicons.dev)
@@ -251,16 +260,16 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-08-23T23:22:07+00:00 · **35/38 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-08-23T23:45:31+00:00 · **36/38 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
-| [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🔴 | Kuro Rules Compliance, Pre-commit |
 | [LambdaSection/Astral](https://github.com/LambdaSection/Astral/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Automatons](https://github.com/LambdaSection/Automatons/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Datalint](https://github.com/LambdaSection/Datalint/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Logos](https://github.com/LambdaSection/Logos/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Metatron](https://github.com/LambdaSection/Metatron/actions) | 🟢 | 3 workflow(s) OK |
+| [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🟢 | 14 workflow(s) OK |
 | [LambdaSection/NeuralPaper](https://github.com/LambdaSection/NeuralPaper/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Odin](https://github.com/LambdaSection/Odin/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Sugar](https://github.com/LambdaSection/Sugar/actions) | 🟢 | 1 workflow(s) OK |
