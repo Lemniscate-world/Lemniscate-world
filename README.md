@@ -158,6 +158,11 @@ _Skills mesurés automatiquement depuis les repos — preuves dans `skills.json`
 
 # Advanced & Precise Skills
 
+_Basis faits projets 2026-08-21 — tests réels : LifeTrack 559 (Vitest/RTL) · NeuralDBG 309 / 92.6% cov · OpenQuant 18 fichiers_
+
+![Tauri](https://img.shields.io/badge/Tauri-20%25-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-20%25-blue)
+![Rust](https://img.shields.io/badge/Rust-8%25-red)
 ![Lark](https://img.shields.io/badge/Lark-48%25-blue)
 ![Optimization](https://img.shields.io/badge/Optimization-39%25-red)
 ![Neural-Networks](https://img.shields.io/badge/NeuralNetworks-75%25-blue)
@@ -169,14 +174,13 @@ _Skills mesurés automatiquement depuis les repos — preuves dans `skills.json`
 ![FastAPI](https://img.shields.io/badge/FastAPI-18%25-blue)
 ![Marketing](https://img.shields.io/badge/Marketing-16%25-pink)
 ![Market-Intelligence](https://img.shields.io/badge/MarketIntelligence-15%25-blue)
-![Pytest](https://img.shields.io/badge/Pytest-11%25-blue)
+![Pytest](https://img.shields.io/badge/Pytest-25%25-blue)
 ![Optuna](https://img.shields.io/badge/Optuna-11%25-blue)
 ![Swarm-Intelligence](https://img.shields.io/badge/SwarmIntelligence-15%25-violet)
-![Frontend-Testing](https://img.shields.io/badge/FrontendTesting-15%25-blue)
-![Vitest](https://img.shields.io/badge/Vitest-15%25-blue)
-![React-Testing-Library](https://img.shields.io/badge/ReactTestingLibrary-12%25-blue)
+![Frontend-Testing](https://img.shields.io/badge/FrontendTesting-25%25-blue)
+![Vitest](https://img.shields.io/badge/Vitest-25%25-blue)
+![React-Testing-Library](https://img.shields.io/badge/ReactTestingLibrary-20%25-blue)
 ![BIM](https://img.shields.io/badge/BIM-10%25-green)
-![Swarm-Intelligence](https://img.shields.io/badge/SwarmIntelligence-10%25-blue)
 ![Tensor-Calculus](https://img.shields.io/badge/TensorCalculus-7%25-red)
 ![Graph-Theory](https://img.shields.io/badge/GraphTheory-7%25-red)
 ![Formal-Logic](https://img.shields.io/badge/FormalLogic-6%25-blue)
@@ -193,7 +197,7 @@ _Skills mesurés automatiquement depuis les repos — preuves dans `skills.json`
 ![ProofTheory](https://img.shields.io/badge/ProofTheory-1%25-red)
 ![ExploratoryDataAnalysis](https://img.shields.io/badge/ExploratoryDataAnalysis-2%25-red)
 ![AIAgentEngineering](https://img.shields.io/badge/AIAgentEngineering-12%25-violet)
-![Automation](https://img.shields.io/badge/Automation-10%25-blue)
+![Automation](https://img.shields.io/badge/Automation-15%25-blue)
 
 ---
 
