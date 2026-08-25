@@ -264,7 +264,7 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-08-25T09:36:37+00:00 · **32/33 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-08-25T10:34:27+00:00 · **39/40 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
@@ -279,6 +279,7 @@ Scan du 2026-08-25T09:36:37+00:00 · **32/33 checks verts** · 3 repo(s) sans CI
 | [LambdaSection/Sugar](https://github.com/LambdaSection/Sugar/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/TokenWise](https://github.com/LambdaSection/TokenWise/actions) | 🟢 | 1 workflow(s) OK |
 | [Lemniscate-world/Lemniscate-world](https://github.com/Lemniscate-world/Lemniscate-world/actions) | 🟢 | 2 workflow(s) OK |
+| [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🟢 | 7 workflow(s) OK |
 | [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🟢 | 4 workflow(s) OK |
 
 <!-- CI-GUARDIAN:END -->
