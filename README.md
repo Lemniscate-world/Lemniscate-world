@@ -264,7 +264,7 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-08-26T05:21:43+00:00 · **39/40 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-08-26T05:35:35+00:00 · **40/41 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
@@ -275,7 +275,7 @@ Scan du 2026-08-26T05:21:43+00:00 · **39/40 checks verts** · 2 repo(s) sans CI
 | [LambdaSection/Metatron](https://github.com/LambdaSection/Metatron/actions) | 🟢 | 3 workflow(s) OK |
 | [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🟢 | 16 workflow(s) OK |
 | [LambdaSection/NeuralPaper](https://github.com/LambdaSection/NeuralPaper/actions) | 🟢 | 1 workflow(s) OK |
-| [LambdaSection/Odin](https://github.com/LambdaSection/Odin/actions) | 🟢 | 1 workflow(s) OK |
+| [LambdaSection/Odin](https://github.com/LambdaSection/Odin/actions) | 🟢 | 2 workflow(s) OK |
 | [LambdaSection/Sugar](https://github.com/LambdaSection/Sugar/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/TokenWise](https://github.com/LambdaSection/TokenWise/actions) | 🟢 | 1 workflow(s) OK |
 | [Lemniscate-world/Lemniscate-world](https://github.com/Lemniscate-world/Lemniscate-world/actions) | 🟢 | 2 workflow(s) OK |
