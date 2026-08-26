@@ -264,22 +264,22 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-08-26T08:44:58+00:00 · **40/41 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-08-26T09:42:54+00:00 · **45/49 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
-| [LambdaSection/Astral](https://github.com/LambdaSection/Astral/actions) | 🟢 | 1 workflow(s) OK |
-| [LambdaSection/Automatons](https://github.com/LambdaSection/Automatons/actions) | 🟢 | 1 workflow(s) OK |
+| [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🔴 | Pre-commit |
+| [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🔴 | kuro-rules-compliance, CI |
+| [LambdaSection/Astral](https://github.com/LambdaSection/Astral/actions) | 🟢 | 3 workflow(s) OK |
+| [LambdaSection/Automatons](https://github.com/LambdaSection/Automatons/actions) | 🟢 | 3 workflow(s) OK |
 | [LambdaSection/Datalint](https://github.com/LambdaSection/Datalint/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Logos](https://github.com/LambdaSection/Logos/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Metatron](https://github.com/LambdaSection/Metatron/actions) | 🟢 | 3 workflow(s) OK |
-| [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🟢 | 16 workflow(s) OK |
 | [LambdaSection/NeuralPaper](https://github.com/LambdaSection/NeuralPaper/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Odin](https://github.com/LambdaSection/Odin/actions) | 🟢 | 2 workflow(s) OK |
 | [LambdaSection/Sugar](https://github.com/LambdaSection/Sugar/actions) | 🟢 | 1 workflow(s) OK |
-| [LambdaSection/TokenWise](https://github.com/LambdaSection/TokenWise/actions) | 🟢 | 1 workflow(s) OK |
+| [LambdaSection/TokenWise](https://github.com/LambdaSection/TokenWise/actions) | 🟢 | 3 workflow(s) OK |
 | [Lemniscate-world/Lemniscate-world](https://github.com/Lemniscate-world/Lemniscate-world/actions) | 🟢 | 2 workflow(s) OK |
-| [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🟢 | 7 workflow(s) OK |
 | [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🟢 | 4 workflow(s) OK |
 
 <!-- CI-GUARDIAN:END -->
