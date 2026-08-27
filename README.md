@@ -114,16 +114,16 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 <!-- KURO-SKILLS:START -->
 _Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-08-27_
 
-- **Python** `██████░░░░` **55%** — 14 repo(s) · 155 commits 90j · CI 83% vert
-- **GitHub Actions** 🆕 `████░░░░░░` **35%** — 14 repo(s) · 205 commits 90j · CI 67% vert
+- **Python** `██████░░░░` **55%** — 14 repo(s) · 152 commits 90j · CI 83% vert
+- **GitHub Actions** 🆕 `████░░░░░░` **35%** — 14 repo(s) · 202 commits 90j · CI 67% vert
 - **TypeScript** `███░░░░░░░` **30%** — 4 repo(s) · 54 commits 90j · CI 50% vert
-- **CSS** `██░░░░░░░░` **25%** — 7 repo(s) · 112 commits 90j · CI 50% vert
-- **Pytest** `██░░░░░░░░` **25%** — 6 repo(s) · 130 commits 90j · CI 50% vert
-- **HTML** `██░░░░░░░░` **20%** — 6 repo(s) · 110 commits 90j · CI 33% vert
-- **PyTorch** `██░░░░░░░░` **20%** — 4 repo(s) · 129 commits 90j · CI 0% vert
+- **CSS** `██░░░░░░░░` **25%** — 7 repo(s) · 110 commits 90j · CI 50% vert
+- **Pytest** `██░░░░░░░░` **25%** — 6 repo(s) · 129 commits 90j · CI 50% vert
+- **HTML** `██░░░░░░░░` **20%** — 6 repo(s) · 108 commits 90j · CI 33% vert
+- **PyTorch** `██░░░░░░░░` **20%** — 4 repo(s) · 128 commits 90j · CI 0% vert
 - **FastAPI** `██░░░░░░░░` **20%** — 2 repo(s) · 52 commits 90j
 - **LangChain** `██░░░░░░░░` **20%** — 2 repo(s) · 52 commits 90j
-- **Transformers** `██░░░░░░░░` **20%** — 2 repo(s) · 74 commits 90j
+- **Transformers** `██░░░░░░░░` **20%** — 2 repo(s) · 73 commits 90j
 - **Flask** `██░░░░░░░░` **20%** — 1 repo(s) · 50 commits 90j
 - **Optuna** `██░░░░░░░░` **20%** — 1 repo(s) · 50 commits 90j
 - **Pandas** `██░░░░░░░░` **20%** — 1 repo(s) · 50 commits 90j
@@ -264,7 +264,7 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-08-27T10:57:56+00:00 · **47/51 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-08-27T15:57:10+00:00 · **48/52 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
@@ -280,6 +280,6 @@ Scan du 2026-08-27T10:57:56+00:00 · **47/51 checks verts** · 2 repo(s) sans CI
 | [LambdaSection/Sugar](https://github.com/LambdaSection/Sugar/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/TokenWise](https://github.com/LambdaSection/TokenWise/actions) | 🟢 | 3 workflow(s) OK |
 | [Lemniscate-world/Lemniscate-world](https://github.com/Lemniscate-world/Lemniscate-world/actions) | 🟢 | 2 workflow(s) OK |
-| [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🟢 | 4 workflow(s) OK |
+| [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🟢 | 5 workflow(s) OK |
 
 <!-- CI-GUARDIAN:END -->

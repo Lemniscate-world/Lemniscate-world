@@ -2,12 +2,12 @@
 title: "Neural-Agent — 2026-08-26"
 date: 2026-08-26
 project: Neural-Agent
-pct: 60
+pct: 65
 ---
 
 # Neural-Agent — 2026-08-26
 
-> **60% Actif** · Dernier commit `0f72256`
+> **65% Actif** · Dernier commit `0f72256`
 
 **Message:** _chore(rules): synchro redirector 52 regles + workflow compliance + manifest [kuro-guard]_
 

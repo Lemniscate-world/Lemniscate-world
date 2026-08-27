@@ -42,9 +42,9 @@ projects: 60
 
 - **NeuralDBG** `803a6bf` 2026-08-26: _chore(rules): synchro redirector 52 regles + workflow compli_ — 82% Actif (19 commits 30j)
 - **NeuralDBG-Engine** `ab63b0c` 2026-08-26: _chore(rules): synchro redirector 52 regles + workflow compli_ — 47% Actif (1 commits 30j)
-- **Neural-Agent** `0f72256` 2026-08-26: _chore(rules): synchro redirector 52 regles + workflow compli_ — 60% Actif (4 commits 30j)
-- **Astral** `2ae3098` 2026-08-26: _fix(compliance): untrack protected files (R76) [kuro-guard]_ — 20% Actif (2 commits 30j)
-- **Aquarium** `6c917bf` 2026-08-26: _chore(rules): synchro redirector 52 regles + workflow compli_ — 15% Prototypage (1 commits 30j)
+- **Neural-Agent** `0f72256` 2026-08-26: _chore(rules): synchro redirector 52 regles + workflow compli_ — 65% Actif (4 commits 30j)
+- **Astral** `2ae3098` 2026-08-26: _fix(compliance): untrack protected files (R76) [kuro-guard]_ — 25% Actif (2 commits 30j)
+- **Aquarium** `6c917bf` 2026-08-26: _chore(rules): synchro redirector 52 regles + workflow compli_ — 20% Prototypage (1 commits 30j)
 
 ## Verite
 
