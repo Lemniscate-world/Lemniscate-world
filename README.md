@@ -112,7 +112,7 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 # Skills & Computer Languages
 
 <!-- KURO-SKILLS:START -->
-_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-08-27_
+_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-08-28_
 
 - **Python** `██████░░░░` **55%** — 14 repo(s) · 152 commits 90j · CI 83% vert
 - **GitHub Actions** 🆕 `████░░░░░░` **35%** — 14 repo(s) · 202 commits 90j · CI 67% vert
@@ -264,7 +264,7 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-08-28T05:11:29+00:00 · **48/52 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-08-28T16:58:49+00:00 · **49/53 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
@@ -277,7 +277,7 @@ Scan du 2026-08-28T05:11:29+00:00 · **48/52 checks verts** · 2 repo(s) sans CI
 | [LambdaSection/Metatron](https://github.com/LambdaSection/Metatron/actions) | 🟢 | 3 workflow(s) OK |
 | [LambdaSection/NeuralPaper](https://github.com/LambdaSection/NeuralPaper/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Odin](https://github.com/LambdaSection/Odin/actions) | 🟢 | 2 workflow(s) OK |
-| [LambdaSection/Sugar](https://github.com/LambdaSection/Sugar/actions) | 🟢 | 1 workflow(s) OK |
+| [LambdaSection/Sugar](https://github.com/LambdaSection/Sugar/actions) | 🟢 | 2 workflow(s) OK |
 | [LambdaSection/TokenWise](https://github.com/LambdaSection/TokenWise/actions) | 🟢 | 3 workflow(s) OK |
 | [Lemniscate-world/Lemniscate-world](https://github.com/Lemniscate-world/Lemniscate-world/actions) | 🟢 | 2 workflow(s) OK |
 | [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🟢 | 5 workflow(s) OK |
