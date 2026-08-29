@@ -264,7 +264,7 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-08-28T18:33:44+00:00 · **48/52 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-08-29T01:30:44+00:00 · **50/54 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
@@ -272,8 +272,8 @@ Scan du 2026-08-28T18:33:44+00:00 · **48/52 checks verts** · 2 repo(s) sans CI
 | [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🔴 | kuro-rules-compliance, CI |
 | [LambdaSection/Astral](https://github.com/LambdaSection/Astral/actions) | 🟢 | 4 workflow(s) OK |
 | [LambdaSection/Automatons](https://github.com/LambdaSection/Automatons/actions) | 🟢 | 4 workflow(s) OK |
-| [LambdaSection/Datalint](https://github.com/LambdaSection/Datalint/actions) | 🟢 | 1 workflow(s) OK |
-| [LambdaSection/Logos](https://github.com/LambdaSection/Logos/actions) | 🟢 | 1 workflow(s) OK |
+| [LambdaSection/Datalint](https://github.com/LambdaSection/Datalint/actions) | 🟢 | 2 workflow(s) OK |
+| [LambdaSection/Logos](https://github.com/LambdaSection/Logos/actions) | 🟢 | 2 workflow(s) OK |
 | [LambdaSection/Metatron](https://github.com/LambdaSection/Metatron/actions) | 🟢 | 3 workflow(s) OK |
 | [LambdaSection/NeuralPaper](https://github.com/LambdaSection/NeuralPaper/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Odin](https://github.com/LambdaSection/Odin/actions) | 🟢 | 2 workflow(s) OK |
