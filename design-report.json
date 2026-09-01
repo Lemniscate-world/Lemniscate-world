@@ -277,7 +277,7 @@
     "category": "quality",
     "file": "/home/runner/work/kuro-rules/kuro-rules/lemniscate-world/index.html",
     "line": 0,
-    "snippet": "10.56px functional text \"Actif\" (below 11px floor)"
+    "snippet": "10.56px functional text \"En Pause\" (below 11px floor)"
   },
   {
     "antipattern": "undersized-ui-text",
@@ -287,7 +287,7 @@
     "category": "quality",
     "file": "/home/runner/work/kuro-rules/kuro-rules/lemniscate-world/index.html",
     "line": 0,
-    "snippet": "10.56px functional text \"Actif\" (below 11px floor)"
+    "snippet": "10.56px functional text \"En Pause\" (below 11px floor)"
   },
   {
     "antipattern": "undersized-ui-text",
@@ -297,7 +297,7 @@
     "category": "quality",
     "file": "/home/runner/work/kuro-rules/kuro-rules/lemniscate-world/index.html",
     "line": 0,
-    "snippet": "10.56px functional text \"Actif\" (below 11px floor)"
+    "snippet": "10.56px functional text \"En Pause\" (below 11px floor)"
   },
   {
     "antipattern": "undersized-ui-text",
@@ -347,7 +347,7 @@
     "category": "quality",
     "file": "/home/runner/work/kuro-rules/kuro-rules/lemniscate-world/index.html",
     "line": 0,
-    "snippet": "10.56px functional text \"Prototypage\" (below 11px floor)"
+    "snippet": "10.56px functional text \"En Pause\" (below 11px floor)"
   },
   {
     "antipattern": "undersized-ui-text",
@@ -367,7 +367,7 @@
     "category": "quality",
     "file": "/home/runner/work/kuro-rules/kuro-rules/lemniscate-world/index.html",
     "line": 0,
-    "snippet": "10.56px functional text \"Prototypage\" (below 11px floor)"
+    "snippet": "10.56px functional text \"En Pause\" (below 11px floor)"
   },
   {
     "antipattern": "undersized-ui-text",
@@ -387,7 +387,7 @@
     "category": "quality",
     "file": "/home/runner/work/kuro-rules/kuro-rules/lemniscate-world/index.html",
     "line": 0,
-    "snippet": "10.56px functional text \"Prototypage\" (below 11px floor)"
+    "snippet": "10.56px functional text \"En Pause\" (below 11px floor)"
   },
   {
     "antipattern": "undersized-ui-text",
@@ -547,7 +547,7 @@
     "category": "quality",
     "file": "/home/runner/work/kuro-rules/kuro-rules/lemniscate-world/index.html",
     "line": 0,
-    "snippet": "10.56px functional text \"Actif\" (below 11px floor)"
+    "snippet": "10.56px functional text \"En Pause\" (below 11px floor)"
   },
   {
     "antipattern": "undersized-ui-text",
@@ -847,7 +847,7 @@
     "category": "quality",
     "file": "/home/runner/work/kuro-rules/kuro-rules/lemniscate-world/index.html",
     "line": 0,
-    "snippet": "10.56px functional text \"Actif\" (below 11px floor)"
+    "snippet": "10.56px functional text \"En Pause\" (below 11px floor)"
   },
   {
     "antipattern": "undersized-ui-text",
@@ -1037,7 +1037,7 @@
     "category": "quality",
     "file": "/home/runner/work/kuro-rules/kuro-rules/lemniscate-world/index.html",
     "line": 0,
-    "snippet": "10.56px functional text \"Actif\" (below 11px floor)"
+    "snippet": "10.56px functional text \"En Pause\" (below 11px floor)"
   },
   {
     "antipattern": "undersized-ui-text",
