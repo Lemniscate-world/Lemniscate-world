@@ -1393,7 +1393,7 @@
     "antipattern": "em-dash-overuse",
     "name": "Em-dash overuse",
     "description": "Em-dash saturation in body copy is an AI cadence tell. Advisory only: humans use em-dashes legitimately, so this fires only on saturation — at least 8 em-dashes (— or --) at a density near one per 500 characters of body text — never on a long article that uses a few. Prefer commas, colons, periods, or parentheses.",
-    "severity": "warning",
+    "severity": "advisory",
     "category": "slop",
     "file": "/home/runner/work/kuro-rules/kuro-rules/lemniscate-world/index.html",
     "line": 0,
