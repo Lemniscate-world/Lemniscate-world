@@ -112,18 +112,18 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 # Skills & Computer Languages
 
 <!-- KURO-SKILLS:START -->
-_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-09-05_
+_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-09-06_
 
-- **Python** `██████░░░░` **55%** — 14 repo(s) · 152 commits 90j · CI 83% vert
-- **GitHub Actions** 🆕 `████░░░░░░` **35%** — 14 repo(s) · 202 commits 90j · CI 67% vert
+- **Python** `██████░░░░` **55%** — 14 repo(s) · 149 commits 90j · CI 83% vert
+- **GitHub Actions** 🆕 `████░░░░░░` **35%** — 14 repo(s) · 199 commits 90j · CI 67% vert
 - **TypeScript** `███░░░░░░░` **30%** — 4 repo(s) · 54 commits 90j · CI 50% vert
 - **CSS** `██░░░░░░░░` **25%** — 7 repo(s) · 110 commits 90j · CI 50% vert
-- **Pytest** `██░░░░░░░░` **25%** — 6 repo(s) · 129 commits 90j · CI 50% vert
+- **Pytest** `██░░░░░░░░` **25%** — 6 repo(s) · 127 commits 90j · CI 50% vert
 - **HTML** `██░░░░░░░░` **20%** — 6 repo(s) · 108 commits 90j · CI 33% vert
-- **PyTorch** `██░░░░░░░░` **20%** — 4 repo(s) · 128 commits 90j · CI 0% vert
+- **PyTorch** `██░░░░░░░░` **20%** — 4 repo(s) · 125 commits 90j · CI 0% vert
 - **FastAPI** `██░░░░░░░░` **20%** — 2 repo(s) · 52 commits 90j
 - **LangChain** `██░░░░░░░░` **20%** — 2 repo(s) · 52 commits 90j
-- **Transformers** `██░░░░░░░░` **20%** — 2 repo(s) · 73 commits 90j
+- **Transformers** `██░░░░░░░░` **20%** — 2 repo(s) · 71 commits 90j
 - **Flask** `██░░░░░░░░` **20%** — 1 repo(s) · 50 commits 90j
 - **Optuna** `██░░░░░░░░` **20%** — 1 repo(s) · 50 commits 90j
 - **Pandas** `██░░░░░░░░` **20%** — 1 repo(s) · 50 commits 90j
@@ -264,7 +264,7 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-09-06T05:36:23+00:00 · **54/58 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-09-06T09:00:58+00:00 · **54/58 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
