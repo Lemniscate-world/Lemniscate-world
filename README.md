@@ -34,10 +34,10 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 | **S-1 User Lambda Enter Real AI** | AI, Neural Networks | [NeuralDBG](https://github.com/LambdaSection/NeuralDBG) (87%), [Aquarium](https://github.com/LambdaSection/Aquarium) (5%), [Neural-Agent](https://github.com/LambdaSection/Neural-Agent) (15%) |
 | **S-1b Intelligence** | Data, Observability | [Astral](https://github.com/LambdaSection/Astral) (15%), [Datalint](https://github.com/LambdaSection/Datalint) (15%), [TokenWise](https://github.com/LambdaSection/TokenWise) (0%) |
 | **S-1c LLM Tools** | Codegen, Assistants | [Metatron](https://github.com/LambdaSection/Metatron) (0%), [Sugar](https://github.com/LambdaSection/Sugar) (0%), [Logos](https://github.com/LambdaSection/Logos) (0%) |
-| **S-2 Quant-Search** | Algorithmic Trading | OpenQuant (29%), Console (0%) |
+| **S-2 Quant-Search** | Algorithmic Trading | OpenQuant (84%), Console (0%) |
 | **S-3 Hackin Life** | Biohacking | EchoX (22%), LifeTrack (85%), Charmed (0% Pivot), Flow-Regulator (5%) |
 | **S-4 G&S Solutions** | Fintech | Epure (15%), Hermes (0%), G&S Solutions (6%) |
-| **S-7 Helium Chain** | Blockchain, DeFi | Helium (48%) |
+| **S-7 Helium Chain** | Blockchain, DeFi | Helium (53%) |
 | **S-8 AI8** | Algorithms | Dissect (30%), BloomDB (0%), [Odin](https://github.com/LambdaSection/Odin) (10%) |
 | **S-12 Hypatia** | Physics & Math | [AEther](https://github.com/Lemniscate-world/AEther) (7%) |
 | **S-14 Charles** | BeatMaking, Art | OpenMind (15%), Charles (0%) |
@@ -75,7 +75,7 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 - **[Odin](https://github.com/LambdaSection/Odin)** (Graph Visualization) **[Stable]**
   Graph visualization tool for exploring relationships, detecting biases, and deepening understanding.
 
-- **[OpenQuant](https://github.com/Lemniscate-world/OpenQuant)** (Quantitative Finance) **[29% - Actif]**
+- **[OpenQuant](https://github.com/Lemniscate-world/OpenQuant)** (Quantitative Finance) **[84% - Actif]**
   Trading quantitatif avec MiroFish (swarm LLM). 18+ fichiers de test, backtest harness + 1-year Gold validation. v0.3.0-kuro.
 
 - **[LifeTrack](https://github.com/Lemniscate-world/LifeTrack)** (Biohacking, Quantified Self) **[85% - Actif]**

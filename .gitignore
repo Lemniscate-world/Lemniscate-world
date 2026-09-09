@@ -1,7 +1,16 @@
-﻿# --- kuro-rules private research ---
+﻿# --- kuro-rules private research & planning (R10, R76, R101, R106) ---
+PLAN.md
+PRD.md
+SESSION_SUMMARY.md
+SESSION_SUMMARY.md.bak
+SESSION_SUMMARY.docx
+SESSION_SUMMARY.docx.bak
 mom_test_results.md
 mom_test_script.md
 decision.md
+decision-memo.md
+LAUNCH_POSTS.md
+acquisition_tracker.md
 ideas.md
 architecture_notes.md
 concept/
@@ -13,4 +22,11 @@ notes-private.md
 contacts.csv
 leads.csv
 prospects.csv
+.env*
+*.pem
+*.key
+secrets/
+data/
+logs/
+dist/
 # --- end kuro-rules private research ---
