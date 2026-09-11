@@ -41,6 +41,19 @@ brand (portfolio public et dashboard de pilotage).
 - Intégration Continue (`.ci-box`) : Panneau structuré sur fond blanc/surface, indicateurs de santé discrets.
 - Tableau des Projets : Lignes zebra avec transitions douces, badges de statut tintés selon la donnée.
 
+## Influence OpenDesign (Voie B — 2026)
+Design systems de reference installes dans `kuro-rules/design-systems/` :
+- `linear-app/` — typographie precise, tracking negatif en display, poids intermediaire (510), achromaticite + accent unique.
+- `stripe/` — clarte light-mode, hierarchie de surfaces, bordures discretes.
+
+### Principe adoptes (transposes en light-mode)
+- **Tracking negatif sur les titres display** : `letter-spacing: -0.01em` a -0.02em sur h1/h2 (deja applique sur h1).
+- **Poids intermediaires** : eviter le binaire 400/700 ; utiliser 500/550 pour l'emphase douce (au lieu du 600 partout).
+- **Achromatite d'abord** : la couleur reservee aux donnees et au statut (deja regle) ; un seul accent possible si besoin.
+- **Bordures semi-transparentes** : `rgba(0,0,0,0.06)` equivalent light de `rgba(255,255,255,0.05)` chez Linear — plus doux que le hair opaque sur les grandes surfaces.
+- Chaque regle doit passer la gate Impeccable avant integration (R72).
+
 ## Gate
-`npx -y impeccable detect --no-config index.html sections/s-1/index.html` → 0 issue.
+`powershell -ExecutionPolicy Bypass -File tools\run_design_pipeline.ps1` → regenere + gate sur 15 pages, 0 issue.
+Gate unitaire : `npx -y impeccable detect index.html sections/s-1/index.html --no-advisory` → 0 issue.
 
