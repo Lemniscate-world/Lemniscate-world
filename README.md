@@ -264,13 +264,12 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-09-13T12:35:39+00:00 · **53/58 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-09-13T16:52:10+00:00 · **54/58 checks verts** · 2 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
 | [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🔴 | Pre-commit |
 | [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🔴 | kuro-rules-compliance, CI |
-| [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🔴 | Push on master |
 | [LambdaSection/Astral](https://github.com/LambdaSection/Astral/actions) | 🟢 | 4 workflow(s) OK |
 | [LambdaSection/Automatons](https://github.com/LambdaSection/Automatons/actions) | 🟢 | 4 workflow(s) OK |
 | [LambdaSection/Datalint](https://github.com/LambdaSection/Datalint/actions) | 🟢 | 2 workflow(s) OK |
@@ -281,5 +280,6 @@ Scan du 2026-09-13T12:35:39+00:00 · **53/58 checks verts** · 2 repo(s) sans CI
 | [LambdaSection/Sugar](https://github.com/LambdaSection/Sugar/actions) | 🟢 | 2 workflow(s) OK |
 | [LambdaSection/TokenWise](https://github.com/LambdaSection/TokenWise/actions) | 🟢 | 4 workflow(s) OK |
 | [Lemniscate-world/Lemniscate-world](https://github.com/Lemniscate-world/Lemniscate-world/actions) | 🟢 | 4 workflow(s) OK |
+| [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🟢 | 6 workflow(s) OK |
 
 <!-- CI-GUARDIAN:END -->
