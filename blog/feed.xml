@@ -3,6 +3,9 @@
 <title>lambda-Section — Blog</title>
 <link>https://lemniscate-world.github.io/Lemniscate-world/blog/</link>
 <description>Billets factuels auto-generes depuis git log + Epingle_Projets.md</description>
+<item><title>Daily Truth — 2026-09-15</title><link>https://lemniscate-world.github.io/Lemniscate-world/blog/2026-09-15-daily-truth.md</link><guid>2026-09-15-daily-truth.md</guid><pubDate>2026-09-15</pubDate></item>
+<item><title>NeuralDBG — 2026-09-14</title><link>https://lemniscate-world.github.io/Lemniscate-world/blog/2026-09-14-neuraldbg.md</link><guid>2026-09-14-neuraldbg.md</guid><pubDate>2026-09-14</pubDate></item>
+<item><title>LifeTrack — 2026-09-14</title><link>https://lemniscate-world.github.io/Lemniscate-world/blog/2026-09-14-lifetrack.md</link><guid>2026-09-14-lifetrack.md</guid><pubDate>2026-09-14</pubDate></item>
 <item><title>Daily Truth — 2026-09-13</title><link>https://lemniscate-world.github.io/Lemniscate-world/blog/2026-09-13-daily-truth.md</link><guid>2026-09-13-daily-truth.md</guid><pubDate>2026-09-13</pubDate></item>
 <item><title>Daily Truth — 2026-09-12</title><link>https://lemniscate-world.github.io/Lemniscate-world/blog/2026-09-12-daily-truth.md</link><guid>2026-09-12-daily-truth.md</guid><pubDate>2026-09-12</pubDate></item>
 <item><title>Daily Truth — 2026-09-11</title><link>https://lemniscate-world.github.io/Lemniscate-world/blog/2026-09-11-daily-truth.md</link><guid>2026-09-11-daily-truth.md</guid><pubDate>2026-09-11</pubDate></item>
@@ -20,7 +23,4 @@
 <item><title>Daily Truth — 2026-09-01</title><link>https://lemniscate-world.github.io/Lemniscate-world/blog/2026-09-01-daily-truth.md</link><guid>2026-09-01-daily-truth.md</guid><pubDate>2026-09-01</pubDate></item>
 <item><title>OpenQuant — 2026-08-31</title><link>https://lemniscate-world.github.io/Lemniscate-world/blog/2026-08-31-openquant.md</link><guid>2026-08-31-openquant.md</guid><pubDate>2026-08-31</pubDate></item>
 <item><title>NeuralDBG — 2026-08-26</title><link>https://lemniscate-world.github.io/Lemniscate-world/blog/2026-08-30-neuraldbg.md</link><guid>2026-08-30-neuraldbg.md</guid><pubDate>2026-08-26</pubDate></item>
-<item><title>NeuralDBG-Engine — 2026-08-26</title><link>https://lemniscate-world.github.io/Lemniscate-world/blog/2026-08-30-neuraldbg-engine.md</link><guid>2026-08-30-neuraldbg-engine.md</guid><pubDate>2026-08-26</pubDate></item>
-<item><title>Neural-Agent — 2026-08-26</title><link>https://lemniscate-world.github.io/Lemniscate-world/blog/2026-08-30-neural-agent.md</link><guid>2026-08-30-neural-agent.md</guid><pubDate>2026-08-26</pubDate></item>
-<item><title>Daily Truth — 2026-08-30</title><link>https://lemniscate-world.github.io/Lemniscate-world/blog/2026-08-30-daily-truth.md</link><guid>2026-08-30-daily-truth.md</guid><pubDate>2026-08-30</pubDate></item>
 </channel></rss>
