@@ -6,7 +6,7 @@ projects: 60
 
 # Daily Truth — 2026-09-16
 
-> **60 projets · 3 actifs 7j** · Généré depuis `TRUTH_DAILY.md` + `git log`
+> **60 projets · 0 actifs 7j** · Généré depuis `TRUTH_DAILY.md` + `git log`
 
 ## Faits du jour (TRUTH_DAILY)
 
@@ -14,35 +14,32 @@ projects: 60
 # TRUTH DAILY — 2026-09-16
 
 > **Auto-généré** chaque jour à partir de `git log` + comptage tests. Aucune estimation, que des faits.
-> **Projects scannés:** 17 | **Source:** `~/Documents` + `Epingle_Projets.md`
+> **Projects scannés:** 62 | **Source:** `~/Documents` + `Epingle_Projets.md`
 
 | Projet | Dernier commit | Branche | Tests | LOC | 30j | Dirty |
 |--------|---------------|---------|-------|-----|-----|-------|
-| **LifeTrack** | 2026-09-14 `a45b80c` fix(ci): compliance R76 + eslint no-undef (minimal | master | 0 (0 funcs) | 0 | 31 |  |
-| **NeuralDBG** | 2026-09-14 `caa6c7f` fix(ci): newline final manifest (end-of-file-fixer | main | 48 (60 funcs) | 0 | 17 |  |
-| **OpenQuant** | 2026-09-10 `7d64911` test: isolate post_positions_update_empty from rea | main | 83 (242 funcs) | 0 | 50 |  |
-| **Aquarium** | 2026-08-26 `6c917bf` chore(rules): synchro redirector 52 regles + workf | main | 0 (0 funcs) | 0 | 1 |  |
-| **Astral** | 2026-08-26 `2ae3098` fix(compliance): untrack protected files (R76) [ku | main | 0 (0 funcs) | 0 | 2 |  |
-| **Automatons** | 2026-08-26 `1105136` fix(compliance): untrack protected files (R76) [ku | main | 3 (20 funcs) | 0 | 2 |  |
-| **Dissect** | 2026-08-26 `9f6ff08` fix(compliance): untrack protected files (R76) [ku | main | 10 (79 funcs) | 0 | 2 |  |
-| **EchoX** | 2026-08-26 `a1fa54c` fix(compliance): untrack protected files (R76) [ku | main | 5 (48 funcs) | 0 | 2 |  |
-| **Helium** | 2026-08-26 `05c19c8` chore(rules): synchro redirector 52 regles + workf | main | 0 (0 funcs) | 0 | 6 |  |
-| **Neural-Agent** | 2026-08-26 `0f72256` chore(rules): synchro redirector 52 regles + workf | master | 11 (92 funcs) | 0 | 1 |  |
-| **NeuralDBG-Engine** | 2026-08-26 `ab63b0c` chore(rules): synchro redirector 52 regles + workf | master | 6 (45 funcs) | 0 | 1 |  |
-| **TokenWise** | 2026-08-26 `9a524c2` fix(compliance): untrack protected files (R76) [ku | master | 2 (13 funcs) | 0 | 2 |  |
-| **Metatron** | 2026-08-23 `69be135` fix(ci): scan SonarQube non bloquant - secret SONA | main | 0 (0 funcs) | 0 | 2 |  |
-| **AEther** | 2026-03-09 `b061374` docs: update README with comprehensive documentati | main | 0 (0 funcs) | 0 | 0 |  |
-| **Verbose** | 2026-01-12 `222af9f` Enhance features list | main | 0 (0 funcs) | 0 | 0 |  |
-| **DataLint** | 2025-12-25 `925ca42` feat(validators): add check_correlations for multi | main | 2 (0 funcs) | 0 | 0 |  |
-| **Odin** | 2024-12-26 `aceee58` Resize Observer loop completed with undelivered no | main | 0 (0 funcs) | 0 | 0 |  |
-
+| **AEther** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **Agent-Reach** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **Aquarium** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **Astral** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **Automatons** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **BloomDB** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **bodydouble** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **Charmed** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **codebase-memory-mcp** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **Console** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **Damon** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **Datalint** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **DevDemeterDAO** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **DevisPro** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **Dissect** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **driftscape** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **EchoX** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
+| **Epure** | — `—` no commits | — | 0 (0 funcs) | 0 | 0 |  |
 ```
 
 ## Projets actifs (7j)
 
-- **NeuralDBG** `caa6c7f` 2026-09-14: _fix(ci): newline final manifest (end-of-file-fixer) (#683)_ — 82% Actif (17 commits 30j)
-- **OpenQuant** `7d64911` 2026-09-10: _test: isolate post_positions_update_empty from real data fil_ — 84% Actif (50 commits 30j)
-- **LifeTrack** `a45b80c` 2026-09-14: _fix(ci): compliance R76 + eslint no-undef (minimal) (#24)_ — 85% Actif (31 commits 30j)
 
 ## Verite
 
