@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T01:35:22+00:00",
+  "generated_at": "2026-09-16T07:21:30+00:00",
   "overall": "green",
   "repos": [
     {
@@ -399,16 +399,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/35035851751",
-          "updated_at": "2026-09-15T23:29:59Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/35044685832",
+          "updated_at": "2026-09-16T01:36:28Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/35035851162",
-          "updated_at": "2026-09-15T23:29:48Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/35044685461",
+          "updated_at": "2026-09-16T01:36:04Z"
         },
         {
           "name": "Scheduled",
@@ -499,8 +499,8 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/35044646676",
-          "updated_at": "2026-09-16T01:34:55Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/35068064108",
+          "updated_at": "2026-09-16T07:20:56Z"
         },
         {
           "name": "Kuro Rules Compliance",
@@ -533,14 +533,6 @@
           "attempt": 1,
           "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/34835155160",
           "updated_at": "2026-09-14T10:51:47Z"
-        },
-        {
-          "name": "Scheduled",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/34682632436",
-          "updated_at": "2026-09-12T08:13:01Z"
         }
       ]
     }
