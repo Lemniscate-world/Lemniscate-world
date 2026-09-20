@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T14:06:37+00:00",
+  "generated_at": "2026-09-20T17:35:10+00:00",
   "overall": "green",
   "repos": [
     {
@@ -399,16 +399,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/35503769795",
-          "updated_at": "2026-09-20T09:59:52Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/35515478351",
+          "updated_at": "2026-09-20T14:07:41Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/35503769510",
-          "updated_at": "2026-09-20T10:00:00Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/35515478165",
+          "updated_at": "2026-09-20T14:07:23Z"
         },
         {
           "name": "Scheduled",
@@ -483,8 +483,8 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/35515449209",
-          "updated_at": "2026-09-20T14:06:08Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/35526297343",
+          "updated_at": "2026-09-20T17:34:37Z"
         },
         {
           "name": "Kuro Rules Compliance",
@@ -531,7 +531,8 @@
   ],
   "no_ci": [
     "LambdaSection/.github",
-    "LambdaSection/Cesium"
+    "LambdaSection/Cesium",
+    "Lemniscate-world/Horcruxe-Labs"
   ],
   "actions": []
 }
