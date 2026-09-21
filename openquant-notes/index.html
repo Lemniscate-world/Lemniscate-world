@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OpenQuant Notes — Des backtests honnêtes, pas des promesses</title>
+<meta name="description" content="Chaque semaine : la revue chiffrée d'un vrai système de trading (gagnant ou perdant), ses garde-fous statistiques et ses leçons.">
+<style>
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;max-width:640px;margin:0 auto;padding:2rem 1rem;color:#1a1a1a;line-height:1.6}
+  h1{font-size:1.9rem;margin-bottom:.5rem} .sub{color:#555;font-size:1.1rem}
+  .cta{background:#f4f4f4;border:1px solid #ddd;border-radius:8px;padding:1.5rem;margin:2rem 0}
+  input[type=email]{width:100%;padding:.7rem;margin:.5rem 0;border:1px solid #bbb;border-radius:4px;font-size:1rem;box-sizing:border-box}
+  button{background:#111;color:#fff;border:0;border-radius:4px;padding:.8rem 1.5rem;font-size:1rem;cursor:pointer}
+  .proof{color:#777;font-size:.9rem} li{margin-bottom:.5rem} footer{margin-top:3rem;color:#777;font-size:.85rem}
+</style>
+</head>
+<body>
+<h1>Des backtests honnêtes, pas des promesses.</h1>
+<p class="sub">Chaque semaine : la revue chiffrée d'un vrai système de trading — gagnant <em>ou</em> perdant — ses garde-fous statistiques et ses leçons. Pour traders et quants qui en ont marre du marketing.</p>
+
+<div class="cta">
+  <strong>Recevoir la note hebdo (gratuit)</strong>
+  <!-- OPTION A (recommandé) : remplace ce bloc par le snippet Kit
+       (Dashboard Kit > Forms > Embed) des que le form est créé. -->
+  <!-- OPTION B : remplace TON-EMAIL par ton adresse (1er envoi = activation) -->
+  <form action="https://formsubmit.co/TON-EMAIL" method="POST">
+    <input type="email" name="email" placeholder="ton@email.com" required>
+    <input type="hidden" name="_subject" value="OpenQuant Notes : nouvel inscrit">
+    <button type="submit">Je m'abonne</button>
+  </form>
+  <p class="proof"><span id="count">X</span> lecteurs déjà inscrits · désinscription 1-clic · zéro spam</p>
+</div>
+
+<h2>Le problème</h2>
+<ol>
+  <li><strong>Les backtests mentent.</strong> 90 % des stratégies qui brillent en backtest meurent en live : overfitting, biais de survie, coûts ignorés.</li>
+  <li><strong>Les vendeurs de signaux ne montrent jamais leurs semaines rouges.</strong> Nous, si : notre paper trading a fait 0/7 avec -$102.85 une semaine. Publié tel quel.</li>
+  <li><strong>Personne ne t'apprend à valider.</strong> Walk-forward, corrections multi-tests, discipline paper-first : la méthode existe, elle n'est juste jamais partagée.</li>
+</ol>
+
+<h2>Ce que tu reçois</h2>
+<ul>
+  <li><strong>Revue hebdo chiffrée</strong> → les vrais chiffres d'un système réel, verdict vert ou rouge, sans fard.</li>
+  <li><strong>Framework anti-overfitting</strong> → les garde-fous qu'on applique (gates, validation, tailles de position).</li>
+  <li><strong>Discipline paper-first</strong> → comment on évite de trader une idée non prouvée, semaine après semaine.</li>
+</ul>
+
+<p><strong>Ce que tu ne recevras jamais :</strong> des promesses de rendement, des signaux "achetez maintenant", du marketing déguisé. Contenu éducatif uniquement — pas un conseil financier.</p>
+
+<footer>OpenQuant Notes · par l'équipe OpenQuant · <a href="https://github.com/Quant-Search/OpenQuant">GitHub</a></footer>
+</body>
+</html>
