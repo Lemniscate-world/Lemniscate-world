@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T12:25:35+00:00",
+  "generated_at": "2026-09-22T17:10:28+00:00",
   "overall": "green",
   "repos": [
     {
@@ -165,20 +165,20 @@
       "health": "green",
       "workflows": [
         {
+          "name": "Kuro Rules Compliance",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/35731768686",
+          "updated_at": "2026-09-22T13:10:54Z"
+        },
+        {
           "name": "Validation Pipeline (R108)",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
           "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/35719975122",
           "updated_at": "2026-09-22T11:12:26Z"
-        },
-        {
-          "name": "Kuro Rules Compliance",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/35615326842",
-          "updated_at": "2026-09-21T14:54:52Z"
         },
         {
           "name": "Code Quality: Scheduled",
@@ -399,16 +399,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/35710996947",
-          "updated_at": "2026-09-22T09:34:02Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/35727102876",
+          "updated_at": "2026-09-22T12:26:47Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/35710996651",
-          "updated_at": "2026-09-22T09:35:14Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/35727102587",
+          "updated_at": "2026-09-22T12:26:17Z"
         },
         {
           "name": "Scheduled",
@@ -424,6 +424,22 @@
       "name": "Lemniscate-world/LifeTrack",
       "health": "green",
       "workflows": [
+        {
+          "name": "npm_and_yarn in /. - Update #1587608313",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/35754850665",
+          "updated_at": "2026-09-22T16:36:28Z"
+        },
+        {
+          "name": "cargo in /src-tauri - Update #1587608311",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/35754850464",
+          "updated_at": "2026-09-22T16:34:33Z"
+        },
         {
           "name": "Scheduled",
           "status": "completed",
@@ -483,8 +499,16 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/35727028404",
-          "updated_at": "2026-09-22T12:24:58Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/35758884573",
+          "updated_at": "2026-09-22T17:09:59Z"
+        },
+        {
+          "name": "Kuro Rules Compliance",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/35731880108",
+          "updated_at": "2026-09-22T13:13:10Z"
         },
         {
           "name": "kuro-rules-guard",
@@ -493,14 +517,6 @@
           "attempt": 1,
           "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/35707258044",
           "updated_at": "2026-09-22T08:53:25Z"
-        },
-        {
-          "name": "Kuro Rules Compliance",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/35615440853",
-          "updated_at": "2026-09-21T14:55:49Z"
         },
         {
           "name": "Scheduled",
