@@ -112,21 +112,21 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 # Skills & Computer Languages
 
 <!-- KURO-SKILLS:START -->
-_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-09-20_
+_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-09-22_
 
-- **Python** `██████░░░░` **55%** — 14 repo(s) · 147 commits 90j · CI 100% vert
-- **GitHub Actions** 🆕 `████░░░░░░` **40%** — 14 repo(s) · 197 commits 90j · CI 100% vert
+- **Python** `██████░░░░` **60%** — 14 repo(s) · 151 commits 90j · CI 100% vert
+- **GitHub Actions** 🆕 `████░░░░░░` **40%** — 14 repo(s) · 201 commits 90j · CI 100% vert
 - **TypeScript** `████░░░░░░` **35%** — 4 repo(s) · 54 commits 90j · CI 100% vert
 - **CSS** `███░░░░░░░` **30%** — 7 repo(s) · 110 commits 90j · CI 100% vert
 - **Pytest** `███░░░░░░░` **30%** — 6 repo(s) · 126 commits 90j · CI 100% vert
 - **HTML** `██░░░░░░░░` **25%** — 6 repo(s) · 108 commits 90j · CI 100% vert
-- **PyTorch** `██░░░░░░░░` **25%** — 4 repo(s) · 123 commits 90j · CI 100% vert
+- **PyTorch** `██░░░░░░░░` **25%** — 4 repo(s) · 122 commits 90j · CI 100% vert
+- **PowerShell** `██░░░░░░░░` **25%** — 3 repo(s) · 111 commits 90j · CI 100% vert
 - **Docker** `██░░░░░░░░` **25%** — 2 repo(s) · 100 commits 90j · CI 100% vert
 - **NumPy** `██░░░░░░░░` **25%** — 2 repo(s) · 100 commits 90j · CI 100% vert
 - **JavaScript** `██░░░░░░░░` **20%** — 4 repo(s) · 58 commits 90j · CI 100% vert
-- **PowerShell** `██░░░░░░░░` **20%** — 3 repo(s) · 106 commits 90j · CI 100% vert
 - **React** `██░░░░░░░░` **20%** — 3 repo(s) · 52 commits 90j · CI 100% vert
-- **Rust** `██░░░░░░░░` **20%** — 3 repo(s) · 62 commits 90j · CI 100% vert
+- **Rust** `██░░░░░░░░` **20%** — 3 repo(s) · 67 commits 90j · CI 100% vert
 - **Vite** `██░░░░░░░░` **20%** — 3 repo(s) · 52 commits 90j · CI 100% vert
 - **FastAPI** `██░░░░░░░░` **20%** — 2 repo(s) · 52 commits 90j
 - _+ 16 autres : LangChain, Transformers, Flask, Optuna, Pandas, Plotly, SciPy, Selenium, Statsmodels, Streamlit, TensorFlow, Vitest, scikit-learn, Tailwind, Shell, Next.js_
@@ -264,7 +264,7 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-09-22T06:37:11+00:00 · **53/54 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-09-22T09:31:58+00:00 · **53/54 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
