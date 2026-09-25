@@ -1,0 +1,47 @@
+---
+title: "Daily Truth — 2026-09-25"
+date: 2026-09-25
+projects: 60
+---
+
+# Daily Truth — 2026-09-25
+
+> **60 projets · 1 actifs 7j** · Généré depuis `TRUTH_DAILY.md` + `git log`
+
+## Faits du jour (TRUTH_DAILY)
+
+```
+# TRUTH DAILY — 2026-09-25
+
+> **Auto-généré** chaque jour à partir de `git log` + comptage tests. Aucune estimation, que des faits.
+> **Projects scannés:** 17 | **Source:** `~/Documents` + `Epingle_Projets.md`
+
+| Projet | Dernier commit | Branche | Tests | LOC | 30j | Dirty |
+|--------|---------------|---------|-------|-----|-----|-------|
+| **Helium** | 2026-09-24 `ce13c9e` feat: VM template PyTorch + robustness (resize, ro | main | 0 (0 funcs) | 0 | 7 |  |
+| **LifeTrack** | 2026-09-14 `a45b80c` fix(ci): compliance R76 + eslint no-undef (minimal | master | 0 (0 funcs) | 0 | 1 |  |
+| **NeuralDBG** | 2026-09-14 `caa6c7f` fix(ci): newline final manifest (end-of-file-fixer | main | 48 (53 funcs) | 0 | 2 |  |
+| **OpenQuant** | 2026-09-10 `7d64911` test: isolate post_positions_update_empty from rea | main | 83 (199 funcs) | 0 | 50 |  |
+| **Aquarium** | 2026-08-26 `6c917bf` chore(rules): synchro redirector 52 regles + workf | main | 0 (0 funcs) | 0 | 0 |  |
+| **Astral** | 2026-08-26 `2ae3098` fix(compliance): untrack protected files (R76) [ku | main | 0 (0 funcs) | 0 | 0 |  |
+| **Automatons** | 2026-08-26 `1105136` fix(compliance): untrack protected files (R76) [ku | main | 3 (20 funcs) | 0 | 0 |  |
+| **Dissect** | 2026-08-26 `9f6ff08` fix(compliance): untrack protected files (R76) [ku | main | 10 (79 funcs) | 0 | 0 |  |
+| **EchoX** | 2026-08-26 `a1fa54c` fix(compliance): untrack protected files (R76) [ku | main | 5 (48 funcs) | 0 | 0 |  |
+| **Neural-Agent** | 2026-08-26 `0f72256` chore(rules): synchro redirector 52 regles + workf | master | 11 (92 funcs) | 0 | 0 |  |
+| **NeuralDBG-Engine** | 2026-08-26 `ab63b0c` chore(rules): synchro redirector 52 regles + workf | master | 6 (45 funcs) | 0 | 0 |  |
+| **TokenWise** | 2026-08-26 `9a524c2` fix(compliance): untrack protected files (R76) [ku | master | 2 (13 funcs) | 0 | 0 |  |
+| **Metatron** | 2026-08-23 `69be135` fix(ci): scan SonarQube non bloquant - secret SONA | main | 0 (0 funcs) | 0 | 0 |  |
+| **AEther** | 2026-03-09 `b061374` docs: update README with comprehensive documentati | main | 0 (0 funcs) | 0 | 0 |  |
+| **Verbose** | 2026-01-12 `222af9f` Enhance features list | main | 0 (0 funcs) | 0 | 0 |  |
+| **DataLint** | 2025-12-25 `925ca42` feat(validators): add check_correlations for multi | main | 2 (0 funcs) | 0 | 0 |  |
+| **Odin** | 2024-12-26 `aceee58` Resize Observer loop completed with undelivered no | main | 0 (0 funcs) | 0 | 0 |  |
+
+```
+
+## Projets actifs (7j)
+
+- **Helium** `ce13c9e` 2026-09-24: _feat: VM template PyTorch + robustness (resize, route, expos_ — 53% Actif (7 commits 30j)
+
+## Verite
+
+Tous les chiffres proviennent de `git log`, comptage tests, `Epingle_Projets.md`. Aucune estimation manuelle. Voir [portfolio](/).
