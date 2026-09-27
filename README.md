@@ -112,15 +112,15 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 # Skills & Computer Languages
 
 <!-- KURO-SKILLS:START -->
-_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-09-26_
+_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-09-27_
 
-- **Python** `██████░░░░` **60%** — 14 repo(s) · 153 commits 90j · CI 100% vert
-- **GitHub Actions** 🆕 `████░░░░░░` **40%** — 14 repo(s) · 203 commits 90j · CI 100% vert
+- **Python** `██████░░░░` **60%** — 14 repo(s) · 151 commits 90j · CI 100% vert
+- **GitHub Actions** 🆕 `████░░░░░░` **40%** — 14 repo(s) · 201 commits 90j · CI 100% vert
 - **TypeScript** `████░░░░░░` **35%** — 4 repo(s) · 54 commits 90j · CI 100% vert
 - **CSS** `███░░░░░░░` **30%** — 7 repo(s) · 109 commits 90j · CI 100% vert
 - **HTML** `███░░░░░░░` **30%** — 7 repo(s) · 121 commits 90j · CI 100% vert
-- **Pytest** `███░░░░░░░` **30%** — 6 repo(s) · 126 commits 90j · CI 100% vert
-- **PyTorch** `██░░░░░░░░` **25%** — 4 repo(s) · 122 commits 90j · CI 100% vert
+- **Pytest** `███░░░░░░░` **30%** — 6 repo(s) · 124 commits 90j · CI 100% vert
+- **PyTorch** `██░░░░░░░░` **25%** — 4 repo(s) · 120 commits 90j · CI 100% vert
 - **PowerShell** `██░░░░░░░░` **25%** — 3 repo(s) · 114 commits 90j · CI 100% vert
 - **Docker** `██░░░░░░░░` **25%** — 2 repo(s) · 100 commits 90j · CI 100% vert
 - **NumPy** `██░░░░░░░░` **25%** — 2 repo(s) · 100 commits 90j · CI 100% vert
@@ -264,7 +264,7 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-09-27T06:21:48+00:00 · **55/56 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-09-27T10:15:37+00:00 · **55/56 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
