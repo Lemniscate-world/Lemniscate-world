@@ -1,11 +1,35 @@
 {
-  "generated_at": "2026-10-04T07:53:17+00:00",
-  "overall": "green",
+  "generated_at": "2026-10-04T10:48:46+00:00",
+  "overall": "red",
   "repos": [
     {
       "name": "LambdaSection/Astral",
-      "health": "green",
+      "health": "red",
       "workflows": [
+        {
+          "name": "CodeQL",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Astral/actions/runs/37195424414",
+          "updated_at": "2026-10-04T10:29:14Z"
+        },
+        {
+          "name": "kuro-rules-compliance",
+          "status": "completed",
+          "conclusion": "failure",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Astral/actions/runs/37195421240",
+          "updated_at": "2026-10-04T10:27:35Z"
+        },
+        {
+          "name": "Push on main",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Astral/actions/runs/37195421107",
+          "updated_at": "2026-10-04T10:28:29Z"
+        },
         {
           "name": "Scheduled",
           "status": "completed",
@@ -13,22 +37,6 @@
           "attempt": 1,
           "url": "https://github.com/LambdaSection/Astral/actions/runs/36351558641",
           "updated_at": "2026-09-27T21:24:52Z"
-        },
-        {
-          "name": "kuro-rules-compliance",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/Astral/actions/runs/32950662866",
-          "updated_at": "2026-08-26T09:00:18Z"
-        },
-        {
-          "name": "Push on main",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/Astral/actions/runs/32950660567",
-          "updated_at": "2026-08-26T09:01:31Z"
         },
         {
           "name": "CodeQL Setup",
@@ -45,28 +53,36 @@
       "health": "green",
       "workflows": [
         {
-          "name": "Scheduled",
+          "name": "CodeQL",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/LambdaSection/Automatons/actions/runs/36345916990",
-          "updated_at": "2026-09-27T19:53:05Z"
-        },
-        {
-          "name": "kuro-rules-compliance",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/Automatons/actions/runs/32950672057",
-          "updated_at": "2026-08-26T09:00:21Z"
+          "url": "https://github.com/LambdaSection/Automatons/actions/runs/37195428946",
+          "updated_at": "2026-10-04T10:28:35Z"
         },
         {
           "name": "Push on main",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/LambdaSection/Automatons/actions/runs/32950670659",
-          "updated_at": "2026-08-26T09:01:12Z"
+          "url": "https://github.com/LambdaSection/Automatons/actions/runs/37195425057",
+          "updated_at": "2026-10-04T10:28:25Z"
+        },
+        {
+          "name": "kuro-rules-compliance",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Automatons/actions/runs/37195425042",
+          "updated_at": "2026-10-04T10:27:38Z"
+        },
+        {
+          "name": "Scheduled",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Automatons/actions/runs/36345916990",
+          "updated_at": "2026-09-27T19:53:05Z"
         },
         {
           "name": "CodeQL Setup",
@@ -357,28 +373,36 @@
       "health": "green",
       "workflows": [
         {
-          "name": "Scheduled",
+          "name": "CodeQL",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/LambdaSection/TokenWise/actions/runs/36932444470",
-          "updated_at": "2026-10-01T22:02:15Z"
+          "url": "https://github.com/LambdaSection/TokenWise/actions/runs/37195739665",
+          "updated_at": "2026-10-04T10:34:38Z"
         },
         {
           "name": "kuro-rules-compliance",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/LambdaSection/TokenWise/actions/runs/32950760468",
-          "updated_at": "2026-08-26T09:01:17Z"
+          "url": "https://github.com/LambdaSection/TokenWise/actions/runs/37195736514",
+          "updated_at": "2026-10-04T10:33:30Z"
         },
         {
           "name": "Push on master",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/LambdaSection/TokenWise/actions/runs/32950759199",
-          "updated_at": "2026-08-26T09:02:10Z"
+          "url": "https://github.com/LambdaSection/TokenWise/actions/runs/37195735994",
+          "updated_at": "2026-10-04T10:34:15Z"
+        },
+        {
+          "name": "Scheduled",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/TokenWise/actions/runs/36932444470",
+          "updated_at": "2026-10-01T22:02:15Z"
         },
         {
           "name": "CodeQL Setup",
@@ -399,16 +423,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/37169294128",
-          "updated_at": "2026-10-04T01:52:57Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/37187151985",
+          "updated_at": "2026-10-04T07:54:17Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/37169294099",
-          "updated_at": "2026-10-04T01:52:45Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/37187151617",
+          "updated_at": "2026-10-04T07:53:59Z"
         },
         {
           "name": "Scheduled",
@@ -507,8 +531,16 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37187121752",
-          "updated_at": "2026-10-04T07:52:45Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37196531070",
+          "updated_at": "2026-10-04T10:47:57Z"
+        },
+        {
+          "name": "kuro-rules-guard",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37194896908",
+          "updated_at": "2026-10-04T10:17:48Z"
         },
         {
           "name": "Kuro Rules Compliance",
@@ -517,14 +549,6 @@
           "attempt": 1,
           "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37125160708",
           "updated_at": "2026-10-03T13:08:24Z"
-        },
-        {
-          "name": "kuro-rules-guard",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37113313396",
-          "updated_at": "2026-10-03T09:31:14Z"
         },
         {
           "name": "Scheduled",
@@ -542,5 +566,12 @@
     "LambdaSection/Cesium",
     "Lemniscate-world/Horcruxe-Labs"
   ],
-  "actions": []
+  "actions": [
+    {
+      "repo": "LambdaSection/Astral",
+      "workflow": "kuro-rules-compliance",
+      "action": "rerun_triggered",
+      "detail": "relance jobs échoués (run 37195421240, tentative 1)"
+    }
+  ]
 }
