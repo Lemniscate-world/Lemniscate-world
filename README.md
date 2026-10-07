@@ -264,22 +264,22 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-10-07T06:55:26+00:00 · **60/62 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-10-07T14:17:22+00:00 · **50/55 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
 | [LambdaSection/Astral](https://github.com/LambdaSection/Astral/actions) | 🔴 | kuro-rules-compliance |
-| [LambdaSection/Automatons](https://github.com/LambdaSection/Automatons/actions) | 🟢 | 5 workflow(s) OK |
-| [LambdaSection/Datalint](https://github.com/LambdaSection/Datalint/actions) | 🟢 | 2 workflow(s) OK |
-| [LambdaSection/Logos](https://github.com/LambdaSection/Logos/actions) | 🟢 | 2 workflow(s) OK |
-| [LambdaSection/Metatron](https://github.com/LambdaSection/Metatron/actions) | 🟢 | 4 workflow(s) OK |
-| [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🟢 | 15 workflow(s) OK |
-| [LambdaSection/NeuralPaper](https://github.com/LambdaSection/NeuralPaper/actions) | 🟢 | 2 workflow(s) OK |
-| [LambdaSection/Odin](https://github.com/LambdaSection/Odin/actions) | 🟢 | 2 workflow(s) OK |
-| [LambdaSection/Sugar](https://github.com/LambdaSection/Sugar/actions) | 🟢 | 2 workflow(s) OK |
-| [LambdaSection/TokenWise](https://github.com/LambdaSection/TokenWise/actions) | 🟢 | 5 workflow(s) OK |
+| [LambdaSection/Datalint](https://github.com/LambdaSection/Datalint/actions) | 🔴 | Release Please |
+| [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🔴 | Release Please |
+| [LambdaSection/TokenWise](https://github.com/LambdaSection/TokenWise/actions) | 🔴 | Release Please |
+| [LambdaSection/Automatons](https://github.com/LambdaSection/Automatons/actions) | 🟢 | 4 workflow(s) OK |
+| [LambdaSection/Logos](https://github.com/LambdaSection/Logos/actions) | 🟢 | 1 workflow(s) OK |
+| [LambdaSection/Metatron](https://github.com/LambdaSection/Metatron/actions) | 🟢 | 3 workflow(s) OK |
+| [LambdaSection/NeuralPaper](https://github.com/LambdaSection/NeuralPaper/actions) | 🟢 | 1 workflow(s) OK |
+| [LambdaSection/Odin](https://github.com/LambdaSection/Odin/actions) | 🟢 | 1 workflow(s) OK |
+| [LambdaSection/Sugar](https://github.com/LambdaSection/Sugar/actions) | 🟢 | 1 workflow(s) OK |
 | [Lemniscate-world/Lemniscate-world](https://github.com/Lemniscate-world/Lemniscate-world/actions) | 🟢 | 3 workflow(s) OK |
-| [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🟢 | 9 workflow(s) OK |
-| [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🟢 | 6 workflow(s) OK |
+| [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🟢 | 8 workflow(s) OK |
+| [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🟢 | 5 workflow(s) OK |
 
 <!-- CI-GUARDIAN:END -->
