@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T06:30:20+00:00",
+  "generated_at": "2026-10-08T13:57:13+00:00",
   "overall": "red",
   "repos": [
     {
@@ -41,39 +41,17 @@
       ]
     },
     {
-      "name": "LambdaSection/Datalint",
-      "health": "red",
-      "workflows": [
-        {
-          "name": "Scheduled",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/Datalint/actions/runs/37671815809",
-          "updated_at": "2026-10-07T19:06:54Z"
-        },
-        {
-          "name": "Push on main",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/Datalint/actions/runs/37615547660",
-          "updated_at": "2026-10-07T11:40:30Z"
-        },
-        {
-          "name": "Release Please",
-          "status": "completed",
-          "conclusion": "failure",
-          "attempt": 2,
-          "url": "https://github.com/LambdaSection/Datalint/actions/runs/37611012470",
-          "updated_at": "2026-10-07T11:24:28Z"
-        }
-      ]
-    },
-    {
       "name": "LambdaSection/NeuralDBG",
       "health": "red",
       "workflows": [
+        {
+          "name": "Validation Pipeline (R108)",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/37781138900",
+          "updated_at": "2026-10-08T13:03:58Z"
+        },
         {
           "name": "Kuro Rules Compliance",
           "status": "completed",
@@ -89,14 +67,6 @@
           "attempt": 1,
           "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/37635408774",
           "updated_at": "2026-10-07T14:17:39Z"
-        },
-        {
-          "name": "Validation Pipeline (R108)",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/37624239247",
-          "updated_at": "2026-10-07T12:54:37Z"
         },
         {
           "name": "Push on main",
@@ -297,6 +267,44 @@
       ]
     },
     {
+      "name": "LambdaSection/Datalint",
+      "health": "green",
+      "workflows": [
+        {
+          "name": "CodeQL",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Datalint/actions/runs/37749028022",
+          "updated_at": "2026-10-08T08:20:20Z"
+        },
+        {
+          "name": "Release Please",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Datalint/actions/runs/37749019237",
+          "updated_at": "2026-10-08T08:19:10Z"
+        },
+        {
+          "name": "Push on main",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Datalint/actions/runs/37749018733",
+          "updated_at": "2026-10-08T08:19:54Z"
+        },
+        {
+          "name": "Scheduled",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/Datalint/actions/runs/37671815809",
+          "updated_at": "2026-10-07T19:06:54Z"
+        }
+      ]
+    },
+    {
       "name": "LambdaSection/Logos",
       "health": "green",
       "workflows": [
@@ -391,16 +399,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/37679475297",
-          "updated_at": "2026-10-07T20:07:06Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/37737972091",
+          "updated_at": "2026-10-08T06:31:12Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/37679473678",
-          "updated_at": "2026-10-07T20:06:53Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/37737971106",
+          "updated_at": "2026-10-08T06:31:11Z"
         },
         {
           "name": "Scheduled",
@@ -491,48 +499,48 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37737877714",
-          "updated_at": "2026-10-08T06:29:28Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37788306145",
+          "updated_at": "2026-10-08T13:56:02Z"
         },
         {
           "name": "Kuro Rules Compliance",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37653954748",
-          "updated_at": "2026-10-07T16:41:14Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37775843222",
+          "updated_at": "2026-10-08T12:17:55Z"
         },
         {
           "name": "Rules Audit",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37653954727",
-          "updated_at": "2026-10-07T16:41:07Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37775843187",
+          "updated_at": "2026-10-08T12:17:50Z"
         },
         {
           "name": "Quality",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37653954704",
-          "updated_at": "2026-10-07T16:41:47Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37775843185",
+          "updated_at": "2026-10-08T12:18:23Z"
         },
         {
           "name": "Push on master",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37653954660",
-          "updated_at": "2026-10-07T16:42:15Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37775842949",
+          "updated_at": "2026-10-08T12:19:23Z"
         },
         {
           "name": "kuro-rules-guard",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37609031415",
-          "updated_at": "2026-10-07T10:41:19Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/37767318188",
+          "updated_at": "2026-10-08T11:01:32Z"
         }
       ]
     }
@@ -548,12 +556,6 @@
       "workflow": "kuro-rules-compliance",
       "action": "issue_updated",
       "detail": "issue #1 mise à jour"
-    },
-    {
-      "repo": "LambdaSection/Datalint",
-      "workflow": "Release Please",
-      "action": "issue_updated",
-      "detail": "issue #6 mise à jour"
     },
     {
       "repo": "LambdaSection/NeuralDBG",
