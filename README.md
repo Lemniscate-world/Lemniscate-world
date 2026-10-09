@@ -264,7 +264,7 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-10-08T19:44:53+00:00 · **54/58 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-10-09T06:32:00+00:00 · **52/56 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
@@ -274,7 +274,7 @@ Scan du 2026-10-08T19:44:53+00:00 · **54/58 checks verts** · 3 repo(s) sans CI
 | [LambdaSection/Automatons](https://github.com/LambdaSection/Automatons/actions) | 🟢 | 4 workflow(s) OK |
 | [LambdaSection/Datalint](https://github.com/LambdaSection/Datalint/actions) | 🟢 | 4 workflow(s) OK |
 | [LambdaSection/Logos](https://github.com/LambdaSection/Logos/actions) | 🟢 | 1 workflow(s) OK |
-| [LambdaSection/Metatron](https://github.com/LambdaSection/Metatron/actions) | 🟢 | 3 workflow(s) OK |
+| [LambdaSection/Metatron](https://github.com/LambdaSection/Metatron/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/NeuralPaper](https://github.com/LambdaSection/NeuralPaper/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Odin](https://github.com/LambdaSection/Odin/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Sugar](https://github.com/LambdaSection/Sugar/actions) | 🟢 | 1 workflow(s) OK |
