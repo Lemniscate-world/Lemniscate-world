@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T01:45:54+00:00",
+  "generated_at": "2026-10-24T11:32:51+00:00",
   "overall": "red",
   "repos": [
     {
@@ -45,36 +45,36 @@
       "health": "red",
       "workflows": [
         {
-          "name": "Kuro Rules Compliance",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/39787887656",
-          "updated_at": "2026-10-22T13:34:26Z"
-        },
-        {
           "name": "Validation Pipeline (R108)",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/39770098639",
-          "updated_at": "2026-10-22T11:24:06Z"
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/40086233537",
+          "updated_at": "2026-10-24T10:32:51Z"
         },
         {
           "name": "Code Quality: Scheduled",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/39019008891",
-          "updated_at": "2026-10-17T08:53:17Z"
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/40079696683",
+          "updated_at": "2026-10-24T08:52:48Z"
         },
         {
           "name": "Scheduled",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/39019007851",
-          "updated_at": "2026-10-17T08:53:58Z"
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/40079695629",
+          "updated_at": "2026-10-24T08:53:21Z"
+        },
+        {
+          "name": "Kuro Rules Compliance",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/39958860356",
+          "updated_at": "2026-10-23T13:09:28Z"
         },
         {
           "name": "Community — greet first-time contributors",
@@ -225,6 +225,92 @@
           "attempt": 1,
           "url": "https://github.com/LambdaSection/TokenWise/actions/runs/37195739665",
           "updated_at": "2026-10-04T10:34:38Z"
+        }
+      ]
+    },
+    {
+      "name": "Lemniscate-world/kuro-rules",
+      "health": "red",
+      "workflows": [
+        {
+          "name": "Kuro",
+          "status": "completed",
+          "conclusion": "failure",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/40080042960",
+          "updated_at": "2026-10-24T09:00:57Z"
+        },
+        {
+          "name": "kuro-rules-guard",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/40078220790",
+          "updated_at": "2026-10-24T08:29:24Z"
+        },
+        {
+          "name": "Scheduled",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/40077039355",
+          "updated_at": "2026-10-24T08:12:37Z"
+        },
+        {
+          "name": "Kuro Rules Compliance",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/39959099828",
+          "updated_at": "2026-10-23T13:11:18Z"
+        },
+        {
+          "name": ".github/workflows/kuro-rules-spec.yml",
+          "status": "completed",
+          "conclusion": "failure",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/39915683620",
+          "updated_at": "2026-10-23T07:06:39Z"
+        },
+        {
+          "name": "release-please",
+          "status": "completed",
+          "conclusion": "failure",
+          "attempt": 2,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/39887613574",
+          "updated_at": "2026-10-23T07:11:08Z"
+        },
+        {
+          "name": "Rules Audit",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/39887613530",
+          "updated_at": "2026-10-23T02:05:13Z"
+        },
+        {
+          "name": "Evals",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/39887613519",
+          "updated_at": "2026-10-23T02:05:10Z"
+        },
+        {
+          "name": "Quality",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/39887613514",
+          "updated_at": "2026-10-23T02:05:48Z"
+        },
+        {
+          "name": "Push on master",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/39887611766",
+          "updated_at": "2026-10-23T02:06:21Z"
         }
       ]
     },
@@ -383,16 +469,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/39869036956",
-          "updated_at": "2026-10-22T23:02:33Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/39885839012",
+          "updated_at": "2026-10-23T01:46:51Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/39869036784",
-          "updated_at": "2026-10-22T23:02:37Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/39885838404",
+          "updated_at": "2026-10-23T01:46:50Z"
         },
         {
           "name": "Scheduled",
@@ -465,36 +551,6 @@
           "updated_at": "2026-09-14T10:32:19Z"
         }
       ]
-    },
-    {
-      "name": "Lemniscate-world/kuro-rules",
-      "health": "green",
-      "workflows": [
-        {
-          "name": "Kuro",
-          "status": "in_progress",
-          "conclusion": null,
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/39885745691",
-          "updated_at": "2026-10-23T01:45:03Z"
-        },
-        {
-          "name": "Kuro Rules Compliance",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/39788176493",
-          "updated_at": "2026-10-22T13:35:52Z"
-        },
-        {
-          "name": "kuro-rules-guard",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/39752095637",
-          "updated_at": "2026-10-22T09:00:57Z"
-        }
-      ]
     }
   ],
   "no_ci": [
@@ -520,6 +576,24 @@
       "workflow": "Release Please",
       "action": "issue_updated",
       "detail": "issue #2 mise à jour"
+    },
+    {
+      "repo": "Lemniscate-world/kuro-rules",
+      "workflow": "Kuro",
+      "action": "rerun_triggered",
+      "detail": "relance jobs échoués (run 40080042960, tentative 1)"
+    },
+    {
+      "repo": "Lemniscate-world/kuro-rules",
+      "workflow": ".github/workflows/kuro-rules-spec.yml",
+      "action": "issue_updated",
+      "detail": "issue #26 mise à jour"
+    },
+    {
+      "repo": "Lemniscate-world/kuro-rules",
+      "workflow": "release-please",
+      "action": "issue_updated",
+      "detail": "issue #27 mise à jour"
     }
   ]
 }
