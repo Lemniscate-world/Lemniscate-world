@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T12:57:01+00:00",
+  "generated_at": "2026-10-24T13:09:55+00:00",
   "overall": "red",
   "repos": [
     {
@@ -237,8 +237,8 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/40095968986",
-          "updated_at": "2026-10-24T12:55:54Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/40096863639",
+          "updated_at": "2026-10-24T13:08:41Z"
         },
         {
           "name": "Evals",
@@ -268,9 +268,9 @@
           "name": "release-please",
           "status": "completed",
           "conclusion": "failure",
-          "attempt": 1,
+          "attempt": 2,
           "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/40095638922",
-          "updated_at": "2026-10-24T12:53:54Z"
+          "updated_at": "2026-10-24T12:59:12Z"
         },
         {
           "name": "Rules Audit",
@@ -477,16 +477,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/40090421584",
-          "updated_at": "2026-10-24T11:35:02Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/40096114885",
+          "updated_at": "2026-10-24T12:58:49Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/40090421274",
-          "updated_at": "2026-10-24T11:34:46Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/40096114447",
+          "updated_at": "2026-10-24T12:58:38Z"
         },
         {
           "name": "Scheduled",
@@ -588,8 +588,8 @@
     {
       "repo": "Lemniscate-world/kuro-rules",
       "workflow": "release-please",
-      "action": "rerun_triggered",
-      "detail": "relance jobs échoués (run 40095638922, tentative 1)"
+      "action": "issue_updated",
+      "detail": "issue #27 mise à jour"
     },
     {
       "repo": "Lemniscate-world/kuro-rules",
