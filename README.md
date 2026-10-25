@@ -112,7 +112,7 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 # Skills & Computer Languages
 
 <!-- KURO-SKILLS:START -->
-_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-10-24_
+_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-10-25_
 
 - **Python** `██████░░░░` **60%** — 17 repo(s) · 157 commits 90j · CI 50% vert
 - **GitHub Actions** 🆕 `████░░░░░░` **40%** — 17 repo(s) · 207 commits 90j · CI 56% vert
@@ -264,7 +264,7 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-10-25T05:06:36+00:00 · **54/60 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-10-25T09:15:59+00:00 · **54/60 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
