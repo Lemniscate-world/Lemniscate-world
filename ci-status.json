@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T15:50:34+00:00",
+  "generated_at": "2026-10-27T20:29:31+00:00",
   "overall": "red",
   "repos": [
     {
@@ -237,8 +237,8 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/40534770041",
-          "updated_at": "2026-10-27T15:49:21Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/40578351044",
+          "updated_at": "2026-10-27T20:28:29Z"
         },
         {
           "name": "Kuro Rules Compliance",
@@ -311,14 +311,6 @@
           "attempt": 1,
           "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/40077039355",
           "updated_at": "2026-10-24T08:12:37Z"
-        },
-        {
-          "name": ".github/workflows/kuro-rules-spec.yml",
-          "status": "completed",
-          "conclusion": "failure",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/39915683620",
-          "updated_at": "2026-10-23T07:06:39Z"
         }
       ]
     },
@@ -477,16 +469,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/40484892728",
-          "updated_at": "2026-10-27T09:59:42Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/40535002426",
+          "updated_at": "2026-10-27T15:51:47Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/40484892604",
-          "updated_at": "2026-10-27T09:59:26Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/40535002092",
+          "updated_at": "2026-10-27T15:51:21Z"
         },
         {
           "name": "Scheduled",
@@ -590,12 +582,6 @@
       "workflow": "release-please",
       "action": "issue_updated",
       "detail": "issue #27 mise à jour"
-    },
-    {
-      "repo": "Lemniscate-world/kuro-rules",
-      "workflow": ".github/workflows/kuro-rules-spec.yml",
-      "action": "issue_updated",
-      "detail": "issue #26 mise à jour"
     }
   ]
 }
