@@ -112,7 +112,7 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 # Skills & Computer Languages
 
 <!-- KURO-SKILLS:START -->
-_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-10-29_
+_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-10-30_
 
 - **Python** `██████░░░░` **60%** — 17 repo(s) · 157 commits 90j · CI 50% vert
 - **GitHub Actions** 🆕 `████░░░░░░` **40%** — 17 repo(s) · 207 commits 90j · CI 56% vert
@@ -264,7 +264,7 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-10-30T06:16:57+00:00 · **53/58 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-10-30T10:57:36+00:00 · **50/55 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
@@ -280,6 +280,6 @@ Scan du 2026-10-30T06:16:57+00:00 · **53/58 checks verts** · 3 repo(s) sans CI
 | [LambdaSection/Odin](https://github.com/LambdaSection/Odin/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Sugar](https://github.com/LambdaSection/Sugar/actions) | 🟢 | 1 workflow(s) OK |
 | [Lemniscate-world/Lemniscate-world](https://github.com/Lemniscate-world/Lemniscate-world/actions) | 🟢 | 3 workflow(s) OK |
-| [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🟢 | 7 workflow(s) OK |
+| [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🟢 | 4 workflow(s) OK |
 
 <!-- CI-GUARDIAN:END -->
