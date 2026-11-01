@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T20:18:20+00:00",
+  "generated_at": "2026-11-01T23:48:07+00:00",
   "overall": "red",
   "repos": [
     {
@@ -95,8 +95,8 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/41346071120",
-          "updated_at": "2026-11-01T20:17:22Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/41363779516",
+          "updated_at": "2026-11-01T23:47:10Z"
         },
         {
           "name": "Kuro Rules Compliance",
@@ -453,16 +453,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/41323381543",
-          "updated_at": "2026-11-01T15:52:56Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/41346166310",
+          "updated_at": "2026-11-01T20:19:25Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/41323381149",
-          "updated_at": "2026-11-01T15:52:47Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/41346165526",
+          "updated_at": "2026-11-01T20:19:07Z"
         },
         {
           "name": "Scheduled",
