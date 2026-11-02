@@ -112,19 +112,19 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 # Skills & Computer Languages
 
 <!-- KURO-SKILLS:START -->
-_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-11-01_
+_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-11-02_
 
-- **Python** `██████░░░░` **65%** — 17 repo(s) · 158 commits 90j · CI 67% vert
-- **GitHub Actions** 🆕 `████░░░░░░` **40%** — 17 repo(s) · 208 commits 90j · CI 71% vert
+- **Python** `██████░░░░` **65%** — 17 repo(s) · 159 commits 90j · CI 67% vert
+- **GitHub Actions** 🆕 `████░░░░░░` **40%** — 17 repo(s) · 209 commits 90j · CI 71% vert
 - **TypeScript** `████░░░░░░` **35%** — 5 repo(s) · 82 commits 90j · CI 50% vert
-- **CSS** `███░░░░░░░` **30%** — 8 repo(s) · 110 commits 90j · CI 75% vert
-- **HTML** `██░░░░░░░░` **25%** — 8 repo(s) · 100 commits 90j · CI 100% vert
-- **Pytest** `██░░░░░░░░` **25%** — 7 repo(s) · 98 commits 90j · CI 50% vert
-- **PyTorch** `██░░░░░░░░` **25%** — 5 repo(s) · 88 commits 90j · CI 100% vert
+- **CSS** `███░░░░░░░` **30%** — 8 repo(s) · 111 commits 90j · CI 75% vert
+- **HTML** `███░░░░░░░` **30%** — 8 repo(s) · 101 commits 90j · CI 100% vert
+- **Pytest** `██░░░░░░░░` **25%** — 7 repo(s) · 99 commits 90j · CI 50% vert
+- **PyTorch** `██░░░░░░░░` **25%** — 5 repo(s) · 89 commits 90j · CI 100% vert
 - **PowerShell** `██░░░░░░░░` **25%** — 4 repo(s) · 142 commits 90j · CI 100% vert
 - **Rust** `██░░░░░░░░` **25%** — 4 repo(s) · 93 commits 90j · CI 100% vert
-- **Docker** `██░░░░░░░░` **25%** — 3 repo(s) · 103 commits 90j · CI 100% vert
-- **JavaScript** `██░░░░░░░░` **20%** — 5 repo(s) · 56 commits 90j · CI 100% vert
+- **Docker** `██░░░░░░░░` **25%** — 3 repo(s) · 104 commits 90j · CI 100% vert
+- **JavaScript** `██░░░░░░░░` **20%** — 5 repo(s) · 57 commits 90j · CI 100% vert
 - **Vite** `██░░░░░░░░` **20%** — 4 repo(s) · 78 commits 90j · CI 100% vert
 - **React** `██░░░░░░░░` **20%** — 3 repo(s) · 52 commits 90j · CI 100% vert
 - **FastAPI** `██░░░░░░░░` **20%** — 2 repo(s) · 52 commits 90j
@@ -264,7 +264,7 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-11-02T04:53:39+00:00 · **51/55 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-11-02T12:40:53+00:00 · **51/55 checks verts** · 3 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
