@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:53:59+00:00",
+  "generated_at": "2026-11-04T12:21:26+00:00",
   "overall": "red",
   "repos": [
     {
@@ -95,8 +95,16 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/41788464311",
-          "updated_at": "2026-11-04T06:53:03Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/41828255498",
+          "updated_at": "2026-11-04T12:19:25Z"
+        },
+        {
+          "name": "kuro-rules-guard",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/41823327651",
+          "updated_at": "2026-11-04T11:44:21Z"
         },
         {
           "name": "Kuro Rules Compliance",
@@ -105,14 +113,6 @@
           "attempt": 1,
           "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/41669184475",
           "updated_at": "2026-11-03T15:57:39Z"
-        },
-        {
-          "name": "kuro-rules-guard",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/41627711587",
-          "updated_at": "2026-11-03T11:28:00Z"
         },
         {
           "name": "Scheduled",
@@ -453,16 +453,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/41701422224",
-          "updated_at": "2026-11-03T19:15:55Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/41788579422",
+          "updated_at": "2026-11-04T06:55:12Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/41701421504",
-          "updated_at": "2026-11-03T19:16:10Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/41788578633",
+          "updated_at": "2026-11-04T06:54:45Z"
         },
         {
           "name": "Scheduled",
