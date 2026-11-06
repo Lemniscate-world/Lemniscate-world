@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T17:34:34+00:00",
+  "generated_at": "2026-11-06T03:34:06+00:00",
   "overall": "red",
   "repos": [
     {
@@ -95,8 +95,8 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/42075789602",
-          "updated_at": "2026-11-05T17:33:36Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/42157243990",
+          "updated_at": "2026-11-06T03:33:16Z"
         },
         {
           "name": "Kuro Rules Compliance",
@@ -449,28 +449,28 @@
       "health": "green",
       "workflows": [
         {
-          "name": "pages build and deployment",
+          "name": "Scheduled",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/42028504940",
-          "updated_at": "2026-11-05T12:37:04Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/42078997170",
+          "updated_at": "2026-11-05T17:54:31Z"
         },
         {
           "name": "Push on main",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/42028504938",
-          "updated_at": "2026-11-05T12:37:01Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/42075972885",
+          "updated_at": "2026-11-05T17:35:43Z"
         },
         {
-          "name": "Scheduled",
+          "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/40923716946",
-          "updated_at": "2026-10-29T17:42:11Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/42075972782",
+          "updated_at": "2026-11-05T17:35:22Z"
         }
       ]
     },
