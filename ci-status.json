@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T21:32:58+00:00",
+  "generated_at": "2026-11-08T01:10:08+00:00",
   "overall": "red",
   "repos": [
     {
@@ -95,8 +95,8 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/42416294291",
-          "updated_at": "2026-11-07T21:31:56Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/42432987416",
+          "updated_at": "2026-11-08T01:09:18Z"
         },
         {
           "name": "Kuro Rules Compliance",
@@ -447,38 +447,24 @@
       ]
     },
     {
-      "name": "LambdaSection/Sugar",
-      "health": "green",
-      "workflows": [
-        {
-          "name": "Scheduled",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/Sugar/actions/runs/35796165494",
-          "updated_at": "2026-09-22T23:12:16Z"
-        }
-      ]
-    },
-    {
       "name": "Lemniscate-world/Lemniscate-world",
       "health": "green",
       "workflows": [
-        {
-          "name": "Push on main",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/42396842500",
-          "updated_at": "2026-11-07T17:33:44Z"
-        },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/42396842067",
-          "updated_at": "2026-11-07T17:33:29Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/42416389919",
+          "updated_at": "2026-11-07T21:33:43Z"
+        },
+        {
+          "name": "Push on main",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/42416389735",
+          "updated_at": "2026-11-07T21:34:03Z"
         },
         {
           "name": "Scheduled",
@@ -524,6 +510,7 @@
   "no_ci": [
     "LambdaSection/.github",
     "LambdaSection/Cesium",
+    "LambdaSection/Sugar",
     "Lemniscate-world/Horcruxe-Labs"
   ],
   "actions": [
