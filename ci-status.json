@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T03:44:23+00:00",
+  "generated_at": "2026-11-10T12:15:43+00:00",
   "overall": "red",
   "repos": [
     {
@@ -229,8 +229,16 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/42751256752",
-          "updated_at": "2026-11-10T03:43:23Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/42814034124",
+          "updated_at": "2026-11-10T12:14:23Z"
+        },
+        {
+          "name": "kuro-rules-guard",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/42811557073",
+          "updated_at": "2026-11-10T11:56:42Z"
         },
         {
           "name": "Kuro Rules Compliance",
@@ -239,14 +247,6 @@
           "attempt": 1,
           "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/42674317186",
           "updated_at": "2026-11-09T18:29:10Z"
-        },
-        {
-          "name": "kuro-rules-guard",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/42615951381",
-          "updated_at": "2026-11-09T12:19:01Z"
         },
         {
           "name": "Scheduled",
@@ -389,20 +389,6 @@
       ]
     },
     {
-      "name": "LambdaSection/NeuralPaper",
-      "health": "green",
-      "workflows": [
-        {
-          "name": "Scheduled",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/NeuralPaper/actions/runs/36106466261",
-          "updated_at": "2026-09-25T07:13:59Z"
-        }
-      ]
-    },
-    {
       "name": "LambdaSection/Odin",
       "health": "green",
       "workflows": [
@@ -425,16 +411,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/42702270455",
-          "updated_at": "2026-11-09T21:25:56Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/42751377311",
+          "updated_at": "2026-11-10T03:45:47Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/42702268782",
-          "updated_at": "2026-11-09T21:25:42Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/42751376575",
+          "updated_at": "2026-11-10T03:45:04Z"
         },
         {
           "name": "Scheduled",
@@ -481,6 +467,7 @@
     "LambdaSection/.github",
     "LambdaSection/Cesium",
     "LambdaSection/Logos",
+    "LambdaSection/NeuralPaper",
     "LambdaSection/Sugar",
     "Lemniscate-world/Horcruxe-Labs"
   ],
