@@ -112,21 +112,21 @@ Active progress across 15 organizational nodes under **[LambdaSection](https://g
 # Skills & Computer Languages
 
 <!-- KURO-SKILLS:START -->
-_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-11-11_
+_Skills mesurés automatiquement depuis les repos — preuves dans `skills.json` · fenêtre 90 j · relevé 2026-11-12_
 
 - **Python** `██████░░░░` **65%** — 17 repo(s) · 153 commits 90j · CI 67% vert
-- **GitHub Actions** 🆕 `████░░░░░░` **40%** — 17 repo(s) · 203 commits 90j · CI 71% vert
-- **TypeScript** `████░░░░░░` **35%** — 5 repo(s) · 82 commits 90j · CI 50% vert
-- **CSS** `███░░░░░░░` **30%** — 8 repo(s) · 108 commits 90j · CI 75% vert
-- **HTML** `██░░░░░░░░` **25%** — 8 repo(s) · 98 commits 90j · CI 100% vert
+- **GitHub Actions** 🆕 `████░░░░░░` **40%** — 17 repo(s) · 198 commits 90j · CI 71% vert
+- **TypeScript** `████░░░░░░` **35%** — 5 repo(s) · 77 commits 90j · CI 50% vert
+- **CSS** `██░░░░░░░░` **25%** — 8 repo(s) · 103 commits 90j · CI 75% vert
+- **HTML** `██░░░░░░░░` **25%** — 8 repo(s) · 93 commits 90j · CI 100% vert
 - **Pytest** `██░░░░░░░░` **25%** — 7 repo(s) · 93 commits 90j · CI 50% vert
 - **PyTorch** `██░░░░░░░░` **25%** — 5 repo(s) · 83 commits 90j · CI 100% vert
-- **PowerShell** `██░░░░░░░░` **25%** — 4 repo(s) · 142 commits 90j · CI 100% vert
-- **Rust** `██░░░░░░░░` **25%** — 4 repo(s) · 93 commits 90j · CI 100% vert
+- **PowerShell** `██░░░░░░░░` **25%** — 4 repo(s) · 137 commits 90j · CI 100% vert
+- **Rust** `██░░░░░░░░` **25%** — 4 repo(s) · 88 commits 90j · CI 100% vert
 - **Docker** `██░░░░░░░░` **25%** — 3 repo(s) · 101 commits 90j · CI 100% vert
 - **JavaScript** `██░░░░░░░░` **20%** — 5 repo(s) · 54 commits 90j · CI 100% vert
-- **Vite** `██░░░░░░░░` **20%** — 4 repo(s) · 78 commits 90j · CI 100% vert
-- **React** `██░░░░░░░░` **20%** — 3 repo(s) · 52 commits 90j · CI 100% vert
+- **Vite** `██░░░░░░░░` **20%** — 4 repo(s) · 73 commits 90j · CI 100% vert
+- **React** `██░░░░░░░░` **20%** — 3 repo(s) · 47 commits 90j · CI 100% vert
 - **FastAPI** `██░░░░░░░░` **20%** — 2 repo(s) · 52 commits 90j
 - **LangChain** `██░░░░░░░░` **20%** — 2 repo(s) · 55 commits 90j
 - _+ 17 autres : NumPy, Transformers, Flask, Nginx, Optuna, Pandas, Plotly, SciPy, Selenium, Statsmodels, Streamlit, TensorFlow, Vitest, scikit-learn, Shell, Tailwind, Next.js_
@@ -264,7 +264,7 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-11-12T11:41:31+00:00 · **45/48 checks verts** · 6 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-11-12T12:59:15+00:00 · **43/46 checks verts** · 6 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
@@ -277,6 +277,6 @@ Scan du 2026-11-12T11:41:31+00:00 · **45/48 checks verts** · 6 repo(s) sans CI
 | [LambdaSection/Odin](https://github.com/LambdaSection/Odin/actions) | 🟢 | 1 workflow(s) OK |
 | [Lemniscate-world/Lemniscate-world](https://github.com/Lemniscate-world/Lemniscate-world/actions) | 🟢 | 3 workflow(s) OK |
 | [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🟢 | 3 workflow(s) OK |
-| [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🟢 | 7 workflow(s) OK |
+| [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🟢 | 5 workflow(s) OK |
 
 <!-- CI-GUARDIAN:END -->
