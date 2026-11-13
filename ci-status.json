@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T15:58:23+00:00",
+  "generated_at": "2026-11-13T21:54:19+00:00",
   "overall": "red",
   "repos": [
     {
@@ -319,16 +319,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/43425116008",
-          "updated_at": "2026-11-13T12:27:07Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/43457955943",
+          "updated_at": "2026-11-13T15:59:25Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/43425115045",
-          "updated_at": "2026-11-13T12:26:57Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/43457954532",
+          "updated_at": "2026-11-13T15:59:17Z"
         },
         {
           "name": "Scheduled",
@@ -375,20 +375,20 @@
       "health": "green",
       "workflows": [
         {
+          "name": "Kuro",
+          "status": "in_progress",
+          "conclusion": null,
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/43514635115",
+          "updated_at": "2026-11-13T21:53:28Z"
+        },
+        {
           "name": "Kuro Rules Compliance",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
           "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/43457885829",
           "updated_at": "2026-11-13T15:58:16Z"
-        },
-        {
-          "name": "Kuro",
-          "status": "in_progress",
-          "conclusion": null,
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/43457761653",
-          "updated_at": "2026-11-13T15:57:20Z"
         },
         {
           "name": "kuro-rules-guard",
