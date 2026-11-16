@@ -264,7 +264,7 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-11-16T12:58:23+00:00 · **40/43 checks verts** · 7 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-11-16T17:18:58+00:00 · **39/42 checks verts** · 7 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
@@ -275,7 +275,7 @@ Scan du 2026-11-16T12:58:23+00:00 · **40/43 checks verts** · 7 repo(s) sans CI
 | [LambdaSection/Metatron](https://github.com/LambdaSection/Metatron/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🟢 | 16 workflow(s) OK |
 | [Lemniscate-world/Lemniscate-world](https://github.com/Lemniscate-world/Lemniscate-world/actions) | 🟢 | 3 workflow(s) OK |
-| [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🟢 | 3 workflow(s) OK |
+| [Lemniscate-world/LifeTrack](https://github.com/Lemniscate-world/LifeTrack/actions) | 🟢 | 2 workflow(s) OK |
 | [Lemniscate-world/kuro-rules](https://github.com/Lemniscate-world/kuro-rules/actions) | 🟢 | 3 workflow(s) OK |
 
 <!-- CI-GUARDIAN:END -->
