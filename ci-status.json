@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:00:49+00:00",
+  "generated_at": "2026-11-17T13:40:46+00:00",
   "overall": "red",
   "repos": [
     {
@@ -319,16 +319,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/43991993899",
-          "updated_at": "2026-11-17T01:00:06Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/44051662803",
+          "updated_at": "2026-11-17T09:01:55Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/43991993336",
-          "updated_at": "2026-11-17T00:59:57Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/44051662277",
+          "updated_at": "2026-11-17T09:01:53Z"
         },
         {
           "name": "Scheduled",
@@ -341,6 +341,28 @@
       ]
     },
     {
+      "name": "Lemniscate-world/LifeTrack",
+      "health": "green",
+      "workflows": [
+        {
+          "name": "github_actions in /. - Update #1670679245",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/41327112453",
+          "updated_at": "2026-11-01T16:36:10Z"
+        },
+        {
+          "name": "Scheduled",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/LifeTrack/actions/runs/38821079124",
+          "updated_at": "2026-10-15T23:06:51Z"
+        }
+      ]
+    },
+    {
       "name": "Lemniscate-world/kuro-rules",
       "health": "green",
       "workflows": [
@@ -349,8 +371,16 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/44051468527",
-          "updated_at": "2026-11-17T08:59:43Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/44094862857",
+          "updated_at": "2026-11-17T13:39:14Z"
+        },
+        {
+          "name": "kuro-rules-guard",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/44084818856",
+          "updated_at": "2026-11-17T12:37:27Z"
         },
         {
           "name": "Kuro Rules Compliance",
@@ -359,14 +389,6 @@
           "attempt": 1,
           "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/43925053400",
           "updated_at": "2026-11-16T18:05:36Z"
-        },
-        {
-          "name": "kuro-rules-guard",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/43864757023",
-          "updated_at": "2026-11-16T12:14:52Z"
         }
       ]
     }
@@ -378,8 +400,7 @@
     "LambdaSection/NeuralPaper",
     "LambdaSection/Odin",
     "LambdaSection/Sugar",
-    "Lemniscate-world/Horcruxe-Labs",
-    "Lemniscate-world/LifeTrack"
+    "Lemniscate-world/Horcruxe-Labs"
   ],
   "actions": [
     {
