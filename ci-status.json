@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T06:15:27+00:00",
+  "generated_at": "2026-11-23T14:59:49+00:00",
   "overall": "green",
   "repos": [
     {
@@ -27,30 +27,6 @@
           "attempt": 1,
           "url": "https://github.com/LambdaSection/Datalint/actions/runs/38620721114",
           "updated_at": "2026-10-14T19:06:24Z"
-        },
-        {
-          "name": "CodeQL",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/Datalint/actions/runs/37749028022",
-          "updated_at": "2026-10-08T08:20:20Z"
-        },
-        {
-          "name": "Release Please",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/Datalint/actions/runs/37749019237",
-          "updated_at": "2026-10-08T08:19:10Z"
-        },
-        {
-          "name": "Push on main",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/Datalint/actions/runs/37749018733",
-          "updated_at": "2026-10-08T08:19:54Z"
         }
       ]
     },
@@ -225,16 +201,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/45084903883",
-          "updated_at": "2026-11-22T23:46:04Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/45122928541",
+          "updated_at": "2026-11-23T06:16:53Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/45084903724",
-          "updated_at": "2026-11-22T23:45:43Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/45122928032",
+          "updated_at": "2026-11-23T06:16:33Z"
         },
         {
           "name": "Scheduled",
@@ -277,8 +253,16 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/45122793259",
-          "updated_at": "2026-11-23T06:14:39Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/45200041557",
+          "updated_at": "2026-11-23T14:58:54Z"
+        },
+        {
+          "name": "kuro-rules-guard",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/45187932650",
+          "updated_at": "2026-11-23T13:50:49Z"
         },
         {
           "name": "Kuro Rules Compliance",
@@ -287,14 +271,6 @@
           "attempt": 1,
           "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/45041413544",
           "updated_at": "2026-11-22T16:01:01Z"
-        },
-        {
-          "name": "kuro-rules-guard",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/45020680918",
-          "updated_at": "2026-11-22T12:07:56Z"
         }
       ]
     }
