@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T15:08:55+00:00",
+  "generated_at": "2026-11-25T08:59:21+00:00",
   "overall": "green",
   "repos": [
     {
@@ -31,20 +31,6 @@
       ]
     },
     {
-      "name": "LambdaSection/Metatron",
-      "health": "green",
-      "workflows": [
-        {
-          "name": "Scheduled",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/Metatron/actions/runs/38038822464",
-          "updated_at": "2026-10-10T08:43:41Z"
-        }
-      ]
-    },
-    {
       "name": "LambdaSection/NeuralDBG",
       "health": "green",
       "workflows": [
@@ -53,16 +39,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/45253913786",
-          "updated_at": "2026-11-23T19:55:28Z"
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/45469685771",
+          "updated_at": "2026-11-24T19:23:33Z"
         },
         {
           "name": "Validation Pipeline (R108)",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/45229916344",
-          "updated_at": "2026-11-23T17:40:38Z"
+          "url": "https://github.com/LambdaSection/NeuralDBG/actions/runs/45445451235",
+          "updated_at": "2026-11-24T17:11:39Z"
         },
         {
           "name": "Code Quality: Scheduled",
@@ -201,16 +187,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/45420787984",
-          "updated_at": "2026-11-24T15:03:12Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/45422117382",
+          "updated_at": "2026-11-24T15:09:54Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/45420786856",
-          "updated_at": "2026-11-24T15:02:54Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/45422116164",
+          "updated_at": "2026-11-24T15:09:42Z"
         },
         {
           "name": "Scheduled",
@@ -253,8 +239,16 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/45421945006",
-          "updated_at": "2026-11-24T15:08:11Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/45581033232",
+          "updated_at": "2026-11-25T08:58:43Z"
+        },
+        {
+          "name": "Kuro Rules Compliance",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/45469839298",
+          "updated_at": "2026-11-24T19:24:29Z"
         },
         {
           "name": "kuro-rules-guard",
@@ -263,14 +257,6 @@
           "attempt": 1,
           "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/45413697373",
           "updated_at": "2026-11-24T14:24:29Z"
-        },
-        {
-          "name": "Kuro Rules Compliance",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/45254107200",
-          "updated_at": "2026-11-23T19:56:37Z"
         }
       ]
     }
@@ -280,6 +266,7 @@
     "LambdaSection/Automatons",
     "LambdaSection/Cesium",
     "LambdaSection/Logos",
+    "LambdaSection/Metatron",
     "LambdaSection/NeuralPaper",
     "LambdaSection/Odin",
     "LambdaSection/Sugar",

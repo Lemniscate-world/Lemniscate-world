@@ -264,13 +264,12 @@ Always More is coming soon ...
 
 ## Intégration continue — état des repos
 
-Scan du 2026-11-24T15:08:55+00:00 · **27/28 checks verts** · 8 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
+Scan du 2026-11-25T08:59:21+00:00 · **26/27 checks verts** · 9 repo(s) sans CI · [Dashboard](https://lemniscate-world.github.io/Lemniscate-world/)
 
 | Repo | CI | Détail |
 |------|----|--------|
 | [LambdaSection/Astral](https://github.com/LambdaSection/Astral/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/Datalint](https://github.com/LambdaSection/Datalint/actions) | 🟢 | 1 workflow(s) OK |
-| [LambdaSection/Metatron](https://github.com/LambdaSection/Metatron/actions) | 🟢 | 1 workflow(s) OK |
 | [LambdaSection/NeuralDBG](https://github.com/LambdaSection/NeuralDBG/actions) | 🟢 | 16 workflow(s) OK |
 | [LambdaSection/TokenWise](https://github.com/LambdaSection/TokenWise/actions) | 🟢 | 1 workflow(s) OK |
 | [Lemniscate-world/Lemniscate-world](https://github.com/Lemniscate-world/Lemniscate-world/actions) | 🟢 | 3 workflow(s) OK |
