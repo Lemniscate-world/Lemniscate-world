@@ -1,21 +1,7 @@
 {
-  "generated_at": "2026-11-26T20:25:49+00:00",
+  "generated_at": "2026-11-27T03:06:21+00:00",
   "overall": "green",
   "repos": [
-    {
-      "name": "LambdaSection/Astral",
-      "health": "green",
-      "workflows": [
-        {
-          "name": "Scheduled",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/LambdaSection/Astral/actions/runs/38176101740",
-          "updated_at": "2026-10-11T21:23:46Z"
-        }
-      ]
-    },
     {
       "name": "LambdaSection/Datalint",
       "health": "green",
@@ -187,16 +173,16 @@
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/45835651504",
-          "updated_at": "2026-11-26T14:07:19Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/45890986951",
+          "updated_at": "2026-11-26T20:26:42Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/45835649670",
-          "updated_at": "2026-11-26T14:07:08Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/45890986443",
+          "updated_at": "2026-11-26T20:26:34Z"
         },
         {
           "name": "Scheduled",
@@ -239,8 +225,8 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/45890865784",
-          "updated_at": "2026-11-26T20:25:01Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/45932136137",
+          "updated_at": "2026-11-27T03:05:43Z"
         },
         {
           "name": "Kuro Rules Compliance",
@@ -263,6 +249,7 @@
   ],
   "no_ci": [
     "LambdaSection/.github",
+    "LambdaSection/Astral",
     "LambdaSection/Automatons",
     "LambdaSection/Cesium",
     "LambdaSection/Logos",
