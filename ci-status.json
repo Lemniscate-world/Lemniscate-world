@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T21:54:14+00:00",
+  "generated_at": "2026-11-28T03:45:43+00:00",
   "overall": "green",
   "repos": [
     {
@@ -169,28 +169,28 @@
       "health": "green",
       "workflows": [
         {
-          "name": "Scheduled",
-          "status": "completed",
-          "conclusion": "success",
-          "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/46035254236",
-          "updated_at": "2026-11-27T16:38:53Z"
-        },
-        {
           "name": "Push on main",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/46012531299",
-          "updated_at": "2026-11-27T14:04:47Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/46073267324",
+          "updated_at": "2026-11-27T21:55:10Z"
         },
         {
           "name": "pages build and deployment",
           "status": "completed",
           "conclusion": "success",
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/46012530638",
-          "updated_at": "2026-11-27T14:04:34Z"
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/46073266558",
+          "updated_at": "2026-11-27T21:55:09Z"
+        },
+        {
+          "name": "Scheduled",
+          "status": "completed",
+          "conclusion": "success",
+          "attempt": 1,
+          "url": "https://github.com/Lemniscate-world/Lemniscate-world/actions/runs/46035254236",
+          "updated_at": "2026-11-27T16:38:53Z"
         }
       ]
     },
@@ -225,8 +225,8 @@
           "status": "in_progress",
           "conclusion": null,
           "attempt": 1,
-          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/46073165343",
-          "updated_at": "2026-11-27T21:53:24Z"
+          "url": "https://github.com/Lemniscate-world/kuro-rules/actions/runs/46104323339",
+          "updated_at": "2026-11-28T03:45:06Z"
         },
         {
           "name": "Kuro Rules Compliance",
